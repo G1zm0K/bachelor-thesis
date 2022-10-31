@@ -24,6 +24,7 @@ for index, site in enumerate(sites):
     contents = driver.find_elements(By.CSS_SELECTOR, GLOBAL_SELECTOR)
 
     for c in contents:
+        print(c.tag_name)
         try:
             if c.text.lower().strip(" ✓›!\n") in accept_words_list:
                 candidate = c
