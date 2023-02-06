@@ -2,22 +2,22 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from make_list import make_wordlist
 
-sites = [
-    "http://www.bbc.co.uk",
+SITES = [
     "http://www.dailymail.co.uk",
     "http://www.theguardian.com/",
     "http://www.yahoo.com/",
     "http://www.bbc.com/",
 ]
-
 GLOBAL_SELECTOR = "a, button, div, span, form, p"
+ACCEPT_WORDS_LIST = "accept_words.txt"
+
+make_wordlist(ACCEPT_WORDS_LIST)
+print("Wordlist created successfully, now starting crawl")
+
 driver = webdriver.Firefox()
 print("Driver started successfully")
 
-make_wordlist("accept_words.txt")
-print("Wordlist created successfully, now starting crawl")
-
-for index, site in enumerate(sites):
+for index, site in enumerate(SITES):
     driver.implicitly_wait(10) # seconds
     driver.get(site)
     banner_data = {"matched_containers": [], "candidate_elements": []}
@@ -39,6 +39,7 @@ for index, site in enumerate(sites):
 
     driver.save_screenshot('screenshots/' + str(index) + '.png')
 
-    print(banner_data)
+    if banner_data:
+        print(banner_data)
 
 

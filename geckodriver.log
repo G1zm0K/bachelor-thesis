@@ -1938,3 +1938,38 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 [GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
 1666906290642	Marionette	INFO	Stopped listening on port 40633
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675703086830	geckodriver	INFO	Listening on 127.0.0.1:44753
+1675703086938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36693" "-no-remote" "-profile" "/tmp/rust_mozprofilerBHLFX"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1675703087975	Marionette	INFO	Marionette enabled
+1675703087989	Marionette	INFO	Listening on port 43009
+WebDriver BiDi listening on ws://127.0.0.1:36693
+1675703088322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerBHLFX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36693/devtools/browser/0897880e-11c1-4a14-8a0a-87a5410e3621
+1675703108778	Marionette	INFO	Stopped listening on port 43009
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1675703113514	geckodriver	INFO	Listening on 127.0.0.1:56949
+1675703113518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34659" "-no-remote" "-profile" "/tmp/rust_mozprofilegUe9gG"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1675703114154	Marionette	INFO	Marionette enabled
+1675703114181	Marionette	INFO	Listening on port 43481
+WebDriver BiDi listening on ws://127.0.0.1:34659
+1675703114273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegUe9gG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34659/devtools/browser/06c8b8b0-c762-435b-9de9-38d1019f4089
+1675703132032	geckodriver	INFO	Listening on 127.0.0.1:49577
+1675703132536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54447" "-no-remote" "-profile" "/tmp/rust_mozprofilebUwbeb"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1675703133240	Marionette	INFO	Marionette enabled
+1675703133265	Marionette	INFO	Listening on port 34219
+WebDriver BiDi listening on ws://127.0.0.1:54447
+1675703133791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebUwbeb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54447/devtools/browser/90ca78e5-b466-419a-8001-e01e713ad658
+JavaScript error: https://interactive.guim.co.uk/atoms/thrashers/2023/01/ghosts-of-moria/default/v/1675078327939/app.js, line 1: TypeError: o is null
+1675703154203	Marionette	INFO	Stopped listening on port 34219
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675703611593	Marionette	INFO	Stopped listening on port 43481
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
