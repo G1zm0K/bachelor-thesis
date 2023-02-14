@@ -2520,3 +2520,103 @@ JavaScript error: https://s2-prod.manchestereveningnews.co.uk/@trinitymirrordigi
 JavaScript warning: https://assets.adobedtm.com/71dcbb11123ce6b2e1ce4d47fd79a130aad3fc95/satelliteLib-177113f60f763788009998023cd15615fe2168a2.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1676228819120	Marionette	INFO	Stopped listening on port 38505
 !!! error running onStopped callback: TypeError: callback is not a function
+1676289644211	geckodriver	INFO	Listening on 127.0.0.1:49951
+1676289644214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46375" "-no-remote" "-profile" "/tmp/rust_mozprofile7eWCXF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676289644809	Marionette	INFO	Marionette enabled
+1676289644821	Marionette	INFO	Listening on port 43691
+WebDriver BiDi listening on ws://127.0.0.1:46375
+1676289647204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7eWCXF/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:46375/devtools/browser/9c67cf98-8fb4-495b-ae47-f8b219bbb70c
+JavaScript error: https://interactive.guim.co.uk/atoms/thrashers/2023/01/ghosts-of-moria/default/v/1675078327939/app.js, line 1: TypeError: o is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1676290174236	geckodriver	INFO	Listening on 127.0.0.1:57629
+1676290174239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51099" "-no-remote" "-profile" "/tmp/rust_mozprofilehpm8FA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676290175502	Marionette	INFO	Marionette enabled
+1676290175505	Marionette	INFO	Listening on port 44189
+WebDriver BiDi listening on ws://127.0.0.1:51099
+1676290175622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehpm8FA/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:51099/devtools/browser/c2ace129-eab2-4ddb-a9a1-4dd2293b7a33
+JavaScript error: https://interactive.guim.co.uk/atoms/thrashers/2023/01/ghosts-of-moria/default/v/1675078327939/app.js, line 1: TypeError: o is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1676290301733	geckodriver	INFO	Listening on 127.0.0.1:45889
+1676290301738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54367" "-no-remote" "-profile" "/tmp/rust_mozprofilezN4Rv5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676290302360	Marionette	INFO	Marionette enabled
+1676290302363	Marionette	INFO	Listening on port 39005
+WebDriver BiDi listening on ws://127.0.0.1:54367
+1676290302487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezN4Rv5/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:54367/devtools/browser/53e944e8-82d7-44af-8332-e5c345dd688a
+JavaScript error: https://interactive.guim.co.uk/atoms/thrashers/2023/01/ghosts-of-moria/default/v/1675078327939/app.js, line 1: TypeError: o is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1676290599206	geckodriver	INFO	Listening on 127.0.0.1:47615
+1676290599209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55375" "-no-remote" "-profile" "/tmp/rust_mozprofileHCm5qm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676290599874	Marionette	INFO	Marionette enabled
+1676290599876	Marionette	INFO	Listening on port 34057
+WebDriver BiDi listening on ws://127.0.0.1:55375
+1676290599994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHCm5qm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55375/devtools/browser/20ef758b-4ae0-4c44-ade5-69180be0cb51
+JavaScript error: https://interactive.guim.co.uk/atoms/thrashers/2023/01/ghosts-of-moria/default/v/1675078327939/app.js, line 1: TypeError: o is null
+JavaScript error: https://s2-prod.mirror.co.uk/@trinitymirrordigital/user-profile/bd5bd0d50e2af644209d5f8413fa01fc2eb7e6e7/index.js, line 1: TypeError: window.vf is undefined
+JavaScript error: https://s2-prod.mirror.co.uk/@trinitymirrordigital/user-profile/bd5bd0d50e2af644209d5f8413fa01fc2eb7e6e7/index.js, line 1: TypeError: window.vf is undefined
+JavaScript error: https://cdn.taboola.com/libtrc/tmg-network/loader.js, line 58: TypeError: undefined is not a function
+JavaScript error: https://cdn.taboola.com/libtrc/tmg-network/loader.js, line 58: TypeError: undefined is not a function
+JavaScript error: https://s2-prod.manchestereveningnews.co.uk/@trinitymirrordigital/user-profile/bd5bd0d50e2af644209d5f8413fa01fc2eb7e6e7/index.js, line 1: TypeError: window.vf is undefined
+JavaScript warning: https://assets.adobedtm.com/71dcbb11123ce6b2e1ce4d47fd79a130aad3fc95/satelliteLib-177113f60f763788009998023cd15615fe2168a2.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676291076334	Marionette	INFO	Stopped listening on port 34057
+1676295989892	geckodriver	INFO	Listening on 127.0.0.1:59189
+1676295992946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43507" "-no-remote" "-profile" "/tmp/rust_mozprofileenqjjr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676296032555	Marionette	INFO	Marionette enabled
+1676296032558	Marionette	INFO	Listening on port 45169
+WebDriver BiDi listening on ws://127.0.0.1:43507
+1676296033935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileenqjjr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43507/devtools/browser/c390b73c-07ab-4731-a2d8-cb9cbd2599fb
+JavaScript error: https://interactive.guim.co.uk/atoms/thrashers/2023/01/ghosts-of-moria/default/v/1675078327939/app.js, line 1: TypeError: o is null
+JavaScript error: https://s2-prod.mirror.co.uk/@trinitymirrordigital/user-profile/bd5bd0d50e2af644209d5f8413fa01fc2eb7e6e7/index.js, line 1: TypeError: window.vf is undefined
+JavaScript error: https://s2-prod.mirror.co.uk/@trinitymirrordigital/user-profile/bd5bd0d50e2af644209d5f8413fa01fc2eb7e6e7/index.js, line 1: TypeError: window.vf is undefined
+JavaScript error: https://s2-prod.manchestereveningnews.co.uk/@trinitymirrordigital/user-profile/bd5bd0d50e2af644209d5f8413fa01fc2eb7e6e7/index.js, line 1: TypeError: window.vf is undefined
+JavaScript warning: https://assets.adobedtm.com/71dcbb11123ce6b2e1ce4d47fd79a130aad3fc95/satelliteLib-177113f60f763788009998023cd15615fe2168a2.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676296650081	Marionette	INFO	Stopped listening on port 45169
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 372))
+ExceptionHandler::GenerateDump cloned child 78904
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
