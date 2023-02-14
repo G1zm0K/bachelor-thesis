@@ -1,45 +1,27 @@
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 from make_list import make_wordlist
+from crawler import crawl
 
 SITES = [
-    "http://www.dailymail.co.uk",
     "http://www.theguardian.com/",
     "http://www.yahoo.com/",
     "http://www.bbc.com/",
+    "https://www.thesun.co.uk/",
+    "https://www.mirror.co.uk/",
+    "https://www.manchestereveningnews.co.uk/",
+    "https://www.telegraph.co.uk/"
 ]
 GLOBAL_SELECTOR = "a, button, div, span, form, p"
 ACCEPT_WORDS_LIST = "accept_words.txt"
 
-make_wordlist(ACCEPT_WORDS_LIST)
-print("Wordlist created successfully, now starting crawl")
+accept_words_list = make_wordlist(ACCEPT_WORDS_LIST)
+print("Wordlist created")
 
 driver = webdriver.Firefox()
-print("Driver started successfully")
+print("Driver started")
 
-for index, site in enumerate(SITES):
-    driver.implicitly_wait(10) # seconds
-    driver.get(site)
-    banner_data = {"matched_containers": [], "candidate_elements": []}
-    contents = driver.find_elements(By.CSS_SELECTOR, GLOBAL_SELECTOR)
+print("Starting crawl...")
+crawl(driver, GLOBAL_SELECTOR, SITES, accept_words_list)
 
-    for c in contents:
-        print(c.tag_name)
-        try:
-            if c.text.lower().strip(" ✓›!\n") in accept_words_list:
-                banner_data["candidate_elements"].append({"id": c.id,
-                                                            "tag_name": c.tag_name,
-                                                            "text": c.text,
-                                                            "size": c.size,
-                                                            })
-                driver.execute_script("arguments[0].style.border='4px solid red'", c)
-                break
-        except:
-            break
-
-    driver.save_screenshot('screenshots/' + str(index) + '.png')
-
-    if banner_data:
-        print(banner_data)
-
-
+print("Crawl finished, shutting down")
+driver.quit()

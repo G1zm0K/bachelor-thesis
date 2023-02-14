@@ -99,6 +99,7 @@ alle cookies zulassen
 alle zulassen
 allen cookies zustimmen
 allen zustimmen
+alles accepteren
 alles akzeptieren
 alles klar
 allow
@@ -157,6 +158,7 @@ erlauben
 estoy de acuerdo
 fermer
 fine by me
+fine by me!
 fine by me, i accept
 fortfahren
 geht klar
