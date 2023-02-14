@@ -12,7 +12,7 @@ SITES = [
     "https://www.telegraph.co.uk/"
 ]
 GLOBAL_SELECTOR = "a, button, div, span, form, p"
-ACCEPT_WORDS_LIST = "accept_words.txt"
+ACCEPT_WORDS_LIST = "wordlists/accept_all.txt"
 
 accept_words_list = make_wordlist(ACCEPT_WORDS_LIST)
 print("Wordlist created")
