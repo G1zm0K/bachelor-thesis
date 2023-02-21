@@ -8,11 +8,99 @@ prima
 stem toe
 oké
 toestemming
-agree
-allow
-accept
-accepted
-fine
-okay
-grant
-consent
+aanvaarden
+accepteren & sluiten
+accepteren & doorgaan
+accepteren en doorgaan
+accepteer alles
+accepteer alle cookies
+accepteer alle instellingen
+accepteren en sluiten
+accepteren en doorgaan
+accepteren en doorgaan naar de site
+accepteer cookies
+accepteer ons beleid
+accepteer aanbevolen cookies
+geaccepteerd
+mee eens zijn
+mee eens & sluiten
+mee eens & doorgaan
+ga akkoord en vertrek
+allemaal mee eens
+akkoord gaan en afsluiten
+mee eens en doorgaan
+ga akkoord en ga verder
+toestaan
+sta alles toe
+sta alle cookies toe
+Sta cookies toe
+staat cookies toe
+dichtbij
+afsluiten en doorgaan
+sluiten en doorgaan
+sluit dit bericht en ga verder
+bevestigen
+toestemming
+doorgaan
+doorgaan (accepteren)
+doorgaan (cookies accepteren)
+doorgaan en accepteren
+doorgaan naar de site
+ga verder met aanbevolen cookies
+inschakelen
+schakel alles in
+alle cookies inschakelen
+prima
+vind ik prima
+vind ik prima!
+prima van mij, accepteer
+goed van mij, ik accepteer het
+studiebeurs
+toestemming geven
+begrepen
+snap het, bedankt
+accepteer graag cookies
+ik accepteer graag cookies
+ik ben blij om cookies te accepteren
+ik aanvaard
+ik accepteer alles
+ik accepteer alle cookies
+ik accepteer cookies
+ik accepteer cookies van deze site
+Ik ben het eens
+ik ga akkoord/ga akkoord met de voorwaarden
+ik vind dit oké
+ik stem ermee in
+ik geef toestemming voor cookies
+ik begrijp
+ik vind dit prima
+ik ben ok met analytische cookies
+ik vind het goed
+ik vind dit oké
+OK
+OK ik snap het
+oké, accepteer
+oké, accepteer alles
+oké, mee eens
+OK ik ga akkoord
+oké, bedankt
+OK bedankt
+Oké
+oké, begrepen
+oké, accepteer
+oké, accepteer alles
+oké, mee eens
+oké, ik ben het ermee eens
+oke, bedankt
+oke dank je wel
+opslaan en afsluiten
+selecteer alles
+dat is geen probleem
+Dit is oke
+Ja
+ja afgesproken
+ja, doorgaan
+Ja ik accepteer
+Ja, ik ben het ermee eens
+Ja ik ben gelukkig
+Ja ik ben gelukkig

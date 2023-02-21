@@ -57,7 +57,18 @@ RQ4 is exactly the same as mine and uses same methods...
 
 ----------------------------------------------------
 
+Automating Cookie Consent and GDPR Violation Detection
+Authors: Dino Bollinger, Karel Kubicek, Carlos Cotrini, and David Basin, ETH Zurich
+
+Maybe useful? Some automatic design pattern recognition.
+
 ----------------------------------------------------
+
+Dark Patterns after the GDPR: Scraping
+Consent Pop-ups and Demonstrating their Influence
+Midas Nouwens1,2 Ilaria Liccardi2
+
+Showing extent of dark patterns and some fixes
 
 ----------------------------------------------------
 

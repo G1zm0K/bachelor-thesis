@@ -9,15 +9,124 @@ je ne veux pas ça
 non merci
 non, merci
 cookies nécessaires
-not agree
-not allow
-do not accept
-deny
-refuse
-rather not
-i do not want that
-disagree
-disapprove
-reject
-decline
-necessary cookies
+pas d'accord
+ne pas permettre
+n'accepte pas
+refuser
+tout refuser
+refuser tous les cookies
+refuser tout ce qui n'est pas nécessaire
+refuser tout ce qui n'est pas strictement nécessaire
+refuser tout non fonctionnel
+refuser tout non strictement fonctionnel
+refuser les cookies
+refuser pas nécessaire
+refuser pas strictement nécessaire
+refus non fonctionnel
+refuser pas strictement fonctionnel
+refuser les cookies inutiles
+refuser les cookies non strictement nécessaires
+refuser les cookies non fonctionnels
+refuser les cookies non strictement fonctionnels
+plutôt pas
+Je ne veux pas ça
+être en désaccord
+désapprouver
+je rejette
+je rejette tout
+rejeter
+tout rejeter
+rejeter tous les cookies
+déclin
+cookies nécessaires
+refuser
+refuser et fermer
+refuser et continuer
+refuser et poursuivre
+refuser les cookies
+nier pas nécessaire
+nier non fonctionnel
+Nier tous
+refuser tous les cookies
+refuser et fermer
+nier et continuer
+refuser et continuer sur le site
+refuser les cookies
+refuser les cookies recommandés
+refusé
+être en désaccord
+pas d'accord et fermer
+pas d'accord et continuer
+désaccord et sortie
+tout à fait en désaccord
+pas d'accord et fermer
+pas d'accord et continuer
+pas d'accord et continuer
+refuser
+interdire tout
+interdire tous les cookies
+interdire les cookies
+interdit les cookies
+ne consent pas
+continuer (nier)
+continuer (refuser les cookies)
+continuer et nier
+continuer à site et nier
+continuer sans les cookies recommandés
+désactiver
+désactiver tous les
+désactiver tous les cookies
+pas bien
+n'accorde pas
+ne donne pas la permission
+pas content d'accepter les cookies
+je ne suis pas content d'accepter les cookies
+je ne suis pas content d'accepter les cookies
+je refuse
+je refuse tout
+je refuse tous les cookies
+je refuse les cookies
+je refuse les cookies de ce site
+je ne suis pas d'accord
+je ne suis pas d'accord avec ses termes
+je ne suis pas d'accord avec ça
+je ne consens pas
+je ne consens pas aux cookies
+je ne suis pas d'accord avec les cookies analytiques
+je ne suis pas d'accord avec ça
+je ne suis pas d'accord avec ça
+Non
+non merci
+non, merci
+pas d'accord
+d'accord, nie
+ok, nie tout
+d'accord, nie
+d'accord, nie
+ok, nie tout
+d'accord, nie
+Ne rien sélectionner
+accepter nécessaire
+accepter fonctionnel
+accepter tout le nécessaire
+accepter tout fonctionnel
+n'accepter que le nécessaire
+n'accepter que fonctionnel
+autoriser le nécessaire
+permettre fonctionnel
+permettre tout le nécessaire
+permettre à tous les fonctionnels
+n'autoriser que le nécessaire
+n'autoriser que les fonctionnalités
+j'accepte le nécessaire
+j'accepte fonctionnel
+j'accepte tout le nécessaire
+j'accepte tout fonctionnel
+j'accepte seulement le nécessaire
+je n'accepte que fonctionnel
+je permets nécessaire
+je permets fonctionnel
+j'autorise tout le nécessaire
+j'autorise tout fonctionnel
+je n'autorise que le nécessaire
+je n'autorise que le fonctionnel

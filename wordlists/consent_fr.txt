@@ -1,18 +1,100 @@
 accord
-j'accepte
 autoriser
-j'accepte
-accepté
-j'accepte
 amende
-je suis d'accord
-d'accord
 autorisation
-agree
-allow
-accept
-accepted
-fine
-okay
-grant
-consent
+accepter
+accepter et fermer
+accepter et continuer
+accepter et continuer
+accepter tout
+accepter tous les cookies
+accepter tous les paramètres
+accepter et fermer
+accepter et continuer
+accepter et continuer sur le site
+accepter les cookies
+accepter notre politique
+accepter les cookies recommandés
+accepté
+accepter
+accepter et fermer
+accepter et continuer
+accepter et sortir
+tout d'accord
+accepter et fermer
+accepter et continuer
+acceptez et continuez
+permettre
+autorise tout
+autoriser tous les cookies
+autorise les cookies
+autorise les cookies
+fermer
+fermer et continuer
+fermer et continuer
+fermer ce message et continuer
+confirmer
+consentement
+continuer
+continuer (accepter)
+continuer (accepter les cookies)
+continuer et accepter
+continuer sur le site
+continuer avec les cookies recommandés
+activer
+activer tout
+activer tous les cookies
+bien
+ça me va
+ça me va!
+ça me va, accepte
+ça me va, j'accepte
+accorder
+donner la permission
+j'ai compris
+je l'ai Merci
+heureux d'accepter les cookies
+je suis heureux d'accepter les cookies
+je suis heureux d'accepter les cookies
+J'accepte
+j'accepte tout
+j'accepte tous les cookies
+j'accepte les cookies
+J'accepte les cookies de ce site
+je suis d'accord
+j'accepte/accepte ses termes
+je suis d'accord avec ça
+J'accepte
+je consens aux cookies
+je comprends
+je suis d'accord avec ça
+je suis d'accord avec les cookies analytiques
+Je suis d'accord avec ça
+je suis d'accord avec ça
+d'accord
+ok, j'ai compris
+d'accord, accepte
+ok, accepte tout
+d'accord, d'accord
+OK je suis d'accord
+d'accord merci
+d'accord merci
+d'accord
+OK, j'ai compris
+d'accord, accepte
+ok, accepte tout
+d'accord, d'accord
+d'accord, je suis d'accord
+d'accord, merci
+d'accord merci
+sauver et fermer
+tout sélectionner
+c'est OK
+c'est d'accord
+oui
+oui d'accord
+oui continue
+Oui j'accepte
+Oui je suis d'accord
+Oui je suis heureux
+Oui je suis heureux
