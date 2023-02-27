@@ -52,35 +52,35 @@ bien
 accorder
 donner la permission
 j'ai compris
-je l'ai Merci
+je l'ai merci
 heureux d'accepter les cookies
 je suis heureux d'accepter les cookies
 je suis heureux d'accepter les cookies
-J'accepte
+j'accepte
 j'accepte tout
 j'accepte tous les cookies
 j'accepte les cookies
-J'accepte les cookies de ce site
+j'accepte les cookies de ce site
 je suis d'accord
 j'accepte/accepte ses termes
 je suis d'accord avec ça
-J'accepte
+j'accepte
 je consens aux cookies
 je comprends
 je suis d'accord avec ça
 je suis d'accord avec les cookies analytiques
-Je suis d'accord avec ça
+je suis d'accord avec ça
 je suis d'accord avec ça
 d'accord
 ok, j'ai compris
 d'accord, accepte
 ok, accepte tout
 d'accord, d'accord
-OK je suis d'accord
+ok je suis d'accord
 d'accord merci
 d'accord merci
 d'accord
-OK, j'ai compris
+ok, j'ai compris
 d'accord, accepte
 ok, accepte tout
 d'accord, d'accord
@@ -89,12 +89,12 @@ d'accord, merci
 d'accord merci
 sauver et fermer
 tout sélectionner
-c'est OK
+c'est ok
 c'est d'accord
 oui
 oui d'accord
 oui continue
-Oui j'accepte
-Oui je suis d'accord
-Oui je suis heureux
-Oui je suis heureux
+oui j'accepte
+oui je suis d'accord
+oui je suis heureux
+oui je suis heureux

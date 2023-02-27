@@ -7,14 +7,14 @@ akzeptieren & schließen
 akzeptieren & fortfahren
 akzeptieren & fortfahren
 akzeptiere alle
-akzeptiere alle Cookies
-Akzeptiere alle Einstellungen
+akzeptiere alle cookies
+akzeptiere alle einstellungen
 annehmen und schließen
-Akzeptieren und weiter
-akzeptieren und weiter zur Website
-Cookies akzeptieren
-akzeptiere unsere Politik
-empfohlene Cookies akzeptieren
+akzeptieren und weiter
+akzeptieren und weiter zur website
+cookies akzeptieren
+akzeptiere unsere politik
+empfohlene cookies akzeptieren
 akzeptiert
 zustimmen
 zustimmen & schließen
@@ -26,61 +26,61 @@ zustimmen und weitermachen
 zustimmen und fortfahren
 erlauben
 alles erlauben
-alle Cookies zulassen
-Cookies zulassen
-erlaubt Cookies
+alle cookies zulassen
+cookies zulassen
+erlaubt cookies
 schließen
 schließen und weitermachen
 schließen & weiter
-Schließen Sie diese Meldung und fahren Sie fort
+schließen sie diese meldung und fahren sie fort
 bestätigen
-Zustimmung
+zustimmung
 weitermachen
 fortfahren (akzeptieren)
-weiter (Cookies akzeptieren)
+weiter (cookies akzeptieren)
 fortfahren und akzeptieren
-weiter zur Website
-weiter mit empfohlenen Cookies
+weiter zur website
+weiter mit empfohlenen cookies
 ermöglichen
 alle aktivieren
-alle Cookies aktivieren
-Bußgeld
-für mich in Ordnung
-für mich in Ordnung!
-Gut von mir, akzeptiere
-Gut von mir, ich akzeptiere
+alle cookies aktivieren
+bußgeld
+für mich in ordnung
+für mich in ordnung!
+gut von mir, akzeptiere
+gut von mir, ich akzeptiere
 gewähren
-Erlaubnis erteilen
+erlaubnis erteilen
 habe es
-Danke, verstanden
-gerne Cookies akzeptieren
-Ich akzeptiere gerne Cookies
-Ich akzeptiere gerne Cookies
-Ich nehme an
-Ich akzeptiere alle
-Ich akzeptiere alle Cookies
-Ich akzeptiere Cookies
-Ich akzeptiere Cookies von dieser Seite
-Ich stimme zu
-Ich stimme zu / stimme ihren Bedingungen zu
-Ich bin damit einverstanden
-Ich bin damit einverstanden
-Ich stimme Cookies zu
-Ich verstehe
-Ich bin damit einverstanden
-Ich bin mit Analytics-Cookies einverstanden
+danke, verstanden
+gerne cookies akzeptieren
+ich akzeptiere gerne cookies
+ich akzeptiere gerne cookies
+ich nehme an
+ich akzeptiere alle
+ich akzeptiere alle cookies
+ich akzeptiere cookies
+ich akzeptiere cookies von dieser seite
+ich stimme zu
+ich stimme zu / stimme ihren bedingungen zu
+ich bin damit einverstanden
+ich bin damit einverstanden
+ich stimme cookies zu
+ich verstehe
+ich bin damit einverstanden
+ich bin mit analytics-cookies einverstanden
 das ist ok für mich
-Ich bin damit einverstanden
-OK
-OK habe es
+ich bin damit einverstanden
+ok
+ok habe es
 okay, akzeptiere
 ok, akzeptiere alles
 okay, einverstanden
-Ok, ich stimme zu
-OK danke
-OK danke
-Okay
-Okay, verstanden
+ok, ich stimme zu
+ok danke
+ok danke
+okay
+okay, verstanden
 okay, akzeptiere
 okay, akzeptiere alles
 okay, einverstanden
@@ -88,13 +88,13 @@ okay, ich stimme zu
 okay, danke
 okay danke
 speichern und schließen
-Wählen Sie Alle
-Das ist ok
-das ist in Ordnung
-Ja
+wählen sie alle
+das ist ok
+das ist in ordnung
+ja
 ja angenommen
 ja, weiter
 ja, ich akzeptiere
-Ja, ich stimme zu
-Ja ich bin fröhlich
-Ja ich bin fröhlich
+ja, ich stimme zu
+ja ich bin fröhlich
+ja ich bin fröhlich

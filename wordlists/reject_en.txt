@@ -1,6 +1,7 @@
 not agree
 not allow
 do not accept
+do not consent
 refuse
 refuse all
 refuse all cookies
@@ -9,6 +10,9 @@ refuse all not strictly necessary
 refuse all not functional
 refuse all not strictly functional
 refuse cookies
+refuse non-essential cookies
+refuse non-necessary cookies
+refuse non-functional cookies
 refuse not necessary
 refuse not strictly necessary
 refuse not functional
@@ -27,7 +31,10 @@ reject
 reject all
 reject all cookies
 decline
+decline all
+decline all cookies
 necessary cookies
+necessary cookies only
 deny
 deny & close
 deny & continue
@@ -79,12 +86,14 @@ i refuse cookies from this site
 i disagree
 i disagree to its terms
 i am not ok with this
+i do not consent
 i don't consent
 i don't consent to cookies
 i'm not ok with analytics cookies
 i'm not ok with that
 i'm not ok with this
 no
+no thanks
 no, thanks
 no, thank you
 not ok
@@ -94,6 +103,10 @@ ok, deny
 okay, deny
 okay, deny all
 okay, deny
+only allow essential
+only allow essential cookies
+only allow functional
+only allow functional
 select none
 accept necessary
 accept functional
@@ -119,3 +132,6 @@ i allow all necessary
 i allow all functional
 i allow only necessary
 i allow only functional
+use basic cookies only
+use necessary cookies only
+use functional cookies only

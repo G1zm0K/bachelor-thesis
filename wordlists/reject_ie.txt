@@ -18,7 +18,7 @@ diúltú fianáin nach bhfuil fíor-riachtanach
 diúltú fianáin nach bhfuil feidhmiúil
 diúltú fianáin nach bhfuil ag feidhmiú go docht
 in áit nach bhfuil
-Níl mé ag iarraidh sin
+níl mé ag iarraidh sin
 easaontú
 easaontas
 diúltaím
@@ -65,28 +65,28 @@ leanúint ar aghaidh gan fianáin molta
 dhíchumasú
 dhíchumasú go léir
 díchumasaigh gach fianán
-Níl se ceart go leor
+níl se ceart go leor
 ná deonaigh
 ná tabhair cead
 nach bhfuil sásta glacadh le fianáin
 níl mé sásta glacadh le fianáin
-Nílim sásta glacadh le fianáin
+nílim sásta glacadh le fianáin
 diúltaím
 diúltaím go léir
 diúltaím do gach fianán
 diúltaím fianáin
-Diúltaím fianáin ón suíomh seo
+diúltaím fianáin ón suíomh seo
 ní aontaím
-Ní aontaím lena théarmaí
-Níl mé ceart go leor le seo
-Ní thoilím
-Ní thoilím le fianáin
-Nílim ceart go leor le fianáin anailísíochta
-Níl mé ceart go leor leis sin
-Níl mé ceart go leor le seo
+ní aontaím lena théarmaí
+níl mé ceart go leor le seo
+ní thoilím
+ní thoilím le fianáin
+nílim ceart go leor le fianáin anailísíochta
+níl mé ceart go leor leis sin
+níl mé ceart go leor le seo
 níl
-Níl sé uaim go raibh maith agat
-Níl, go raibh maith agat
+níl sé uaim go raibh maith agat
+níl, go raibh maith agat
 níl ceart go leor
 ceart go leor, a dhiúltú
 ceart go leor, a dhiúltú ar fad
@@ -107,12 +107,12 @@ cheadú go léir is gá
 cheadú go léir feidhme
 cheadú ach is gá
 a cheadú ach feidhmiúil
-Glacaim riachtanach
-Glacaim feidhmiúil
-Glacaim leis go léir is gá
-Glacaim go léir feidhmiúil
-Glacaim leis ach is gá
-Glacaim feidhmiúil amháin
+glacaim riachtanach
+glacaim feidhmiúil
+glacaim leis go léir is gá
+glacaim go léir feidhmiúil
+glacaim leis ach is gá
+glacaim feidhmiúil amháin
 cead agam riachtanach
 ceadaíonn mé feidhmiúil
 cead agam gach rud is gá

@@ -8,11 +8,13 @@ prima
 stem toe
 oké
 toestemming
-aanvaarden
 accepteren & sluiten
 accepteren & doorgaan
 accepteren en doorgaan
+accepteer alle
 accepteer alles
+accepteer alles & sla op
+accepteer alles en sla op
 accepteer alle cookies
 accepteer alle instellingen
 accepteren en sluiten
@@ -21,6 +23,20 @@ accepteren en doorgaan naar de site
 accepteer cookies
 accepteer ons beleid
 accepteer aanbevolen cookies
+alle accepteren
+alle opslaan
+alles accepteren
+alles opslaan
+alle cookies
+alle cookies accepteren
+alle cookies inschakelen
+alle cookies toestaan
+alle functionaliteiten
+cookies accepteren
+cookies van deze site accepteren
+cookies aanvaarden
+cookies van deze site aanvaarden
+aanvaard alle cookies
 geaccepteerd
 mee eens zijn
 mee eens & sluiten
@@ -30,17 +46,19 @@ allemaal mee eens
 akkoord gaan en afsluiten
 mee eens en doorgaan
 ga akkoord en ga verder
+akkoord en sluiten
+alles toestaan
+cookies toestaan
 toestaan
 sta alles toe
 sta alle cookies toe
-Sta cookies toe
+sta cookies toe
 staat cookies toe
 dichtbij
 afsluiten en doorgaan
 sluiten en doorgaan
 sluit dit bericht en ga verder
 bevestigen
-toestemming
 doorgaan
 doorgaan (accepteren)
 doorgaan (cookies accepteren)
@@ -48,8 +66,8 @@ doorgaan en accepteren
 doorgaan naar de site
 ga verder met aanbevolen cookies
 inschakelen
+alles inschakelen
 schakel alles in
-alle cookies inschakelen
 prima
 vind ik prima
 vind ik prima!
@@ -67,25 +85,27 @@ ik accepteer alles
 ik accepteer alle cookies
 ik accepteer cookies
 ik accepteer cookies van deze site
-Ik ben het eens
-ik ga akkoord/ga akkoord met de voorwaarden
+ik ben het eens
+ik ga akkoord
+ik ga akkoord met de voorwaarden
 ik vind dit oké
 ik stem ermee in
 ik geef toestemming voor cookies
 ik begrijp
+ik begrijp het
 ik vind dit prima
 ik ben ok met analytische cookies
 ik vind het goed
 ik vind dit oké
-OK
-OK ik snap het
+ok
+ok ik snap het
 oké, accepteer
 oké, accepteer alles
 oké, mee eens
-OK ik ga akkoord
+ok ik ga akkoord
 oké, bedankt
-OK bedankt
-Oké
+ok bedankt
+oké
 oké, begrepen
 oké, accepteer
 oké, accepteer alles
@@ -93,14 +113,132 @@ oké, mee eens
 oké, ik ben het ermee eens
 oke, bedankt
 oke dank je wel
+opslaan
 opslaan en afsluiten
 selecteer alles
 dat is geen probleem
-Dit is oke
-Ja
+dit is oke
+ja
 ja afgesproken
 ja, doorgaan
-Ja ik accepteer
-Ja, ik ben het ermee eens
-Ja ik ben gelukkig
-Ja ik ben gelukkig
+ja ik accepteer
+ja ik accepteer cookies
+ja, ik accepteer
+ja, ik accepteer cookies
+ja, accepteren
+ja, alles accepteren
+ja, alle cookies accepteren
+ja, ik ben het ermee eens
+ja ik ben gelukkig
+ja ik ben gelukkig
+ja, prima
+ja, dat is prima
+ja, ik ga akkoord
+ja, wil ik
+ja, wil ik!
+ja, optimale cookies accepteren
+sluit
+sluiten
+
+accept
+accept & close
+accept & continue
+accept & proceed
+accept all
+accept all cookies
+accept all settings
+accept and close
+accept and continue
+accept and continue to site
+accept cookies
+accept our policy
+accept recommended cookies
+accepted
+agree
+agree & close
+agree & continue
+agree & exit
+agree all
+agree and close
+agree and continue
+agree and proceed
+allow
+allow essential and optional
+allow essential and optional cookies
+allow essential and analytics cookies
+allow functional and optional
+allow functional and optional cookies
+allow functional and analytics cookies
+allow all
+allow all cookies
+allow cookies
+allows cookies
+close
+close and continue
+close & continue
+close this message and continue
+confirm
+consent
+continue
+continue (accept)
+continue (accept cookies)
+continue and accept
+continue to site
+continue with recommended cookies
+enable
+enable all
+enable all cookies
+fine
+fine by me
+fine by me!
+fine by me, accept
+fine by me, i accept
+grant
+grant permission
+got it
+got it, thanks
+happy to accept cookies
+im happy to accept cookies
+i'm happy to accept cookies
+i accept
+i accept all
+i accept all cookies
+i accept cookies
+i accept cookies from this site
+i agree
+i agree/consent to its terms
+i am ok with this
+i consent
+i consent to cookies
+i understand
+i'm fine with this
+i'm ok with analytics cookies
+i'm ok with that
+i'm ok with this
+ok
+ok, got it
+ok, accept
+ok, accept all
+ok, agree
+ok, i agree
+ok, thank you
+ok, thanks
+okay
+okay, got it
+okay, accept
+okay, accept all
+okay, agree
+okay, i agree
+okay, thank you
+okay, thanks
+save and close
+select all
+that's ok
+this is okay
+yes
+yes agreed
+yes, continue
+yes, i accept
+yes, i agree
+yes, i'm happy
+yes, i’m happy

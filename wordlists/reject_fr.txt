@@ -29,7 +29,7 @@ refuser les cookies non strictement nécessaires
 refuser les cookies non fonctionnels
 refuser les cookies non strictement fonctionnels
 plutôt pas
-Je ne veux pas ça
+je ne veux pas ça
 être en désaccord
 désapprouver
 je rejette
@@ -46,7 +46,7 @@ refuser et poursuivre
 refuser les cookies
 nier pas nécessaire
 nier non fonctionnel
-Nier tous
+nier tous
 refuser tous les cookies
 refuser et fermer
 nier et continuer
@@ -95,7 +95,7 @@ je ne consens pas aux cookies
 je ne suis pas d'accord avec les cookies analytiques
 je ne suis pas d'accord avec ça
 je ne suis pas d'accord avec ça
-Non
+non
 non merci
 non, merci
 pas d'accord
@@ -105,7 +105,7 @@ d'accord, nie
 d'accord, nie
 ok, nie tout
 d'accord, nie
-Ne rien sélectionner
+ne rien sélectionner
 accepter nécessaire
 accepter fonctionnel
 accepter tout le nécessaire

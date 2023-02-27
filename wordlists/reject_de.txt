@@ -7,53 +7,53 @@ lieber nicht
 sich weigern
 ich möchte das nicht
 nein danke
-notwendige Cookies
+notwendige cookies
 nicht zustimmen
 nicht zulassen
 nicht akzeptieren
 verweigern
 alles ablehnen
-alle Cookies ablehnen
-verweigern alles nicht Notwendige
-verweigern Sie alles, was nicht unbedingt erforderlich ist
+alle cookies ablehnen
+verweigern alles nicht notwendige
+verweigern sie alles, was nicht unbedingt erforderlich ist
 verweigern alle nicht funktionsfähig
 verweigern alle nicht streng funktional
-Kekse ablehnen
+kekse ablehnen
 ablehnen nicht nötig
 verweigern nicht unbedingt erforderlich
 verweigern nicht funktionsfähig
 verweigern nicht streng funktional
-nicht notwendige Cookies ablehnen
-nicht unbedingt notwendige Cookies ablehnen
-nicht funktionierende Cookies ablehnen
-nicht streng funktionale Cookies ablehnen
+nicht notwendige cookies ablehnen
+nicht unbedingt notwendige cookies ablehnen
+nicht funktionierende cookies ablehnen
+nicht streng funktionale cookies ablehnen
 lieber nicht
 ich möchte das nicht
-verschiedener Meinung sein
+verschiedener meinung sein
 missbilligen
 ich lehne ab
 ich lehne alle ab
 ablehnen
-Alles ablehnen
-alle Cookies ablehnen
-Abfall
-notwendige Cookies
+alles ablehnen
+alle cookies ablehnen
+abfall
+notwendige cookies
 leugnen
 verweigern & schließen
 verweigern & weitermachen
 ablehnen und fortfahren
-Kekse ablehnen
+kekse ablehnen
 leugnen nicht nötig
 leugnen nicht funktionsfähig
 alles leugnen
-alle Cookies verweigern
+alle cookies verweigern
 leugnen und schließen
 leugnen und weitermachen
-verweigern und weiter zur Website
-Kekse ablehnen
-empfohlene Cookies ablehnen
+verweigern und weiter zur website
+kekse ablehnen
+empfohlene cookies ablehnen
 bestritten
-verschiedener Meinung sein
+verschiedener meinung sein
 widersprechen & schließen
 widersprechen und fortfahren
 widersprechen & beenden
@@ -63,69 +63,69 @@ widersprechen und fortfahren
 widersprechen und fortfahren
 verbieten
 alles verbieten
-alle Cookies ablehnen
-Cookies verbieten
-verbietet Cookies
+alle cookies ablehnen
+cookies verbieten
+verbietet cookies
 stimme nicht zu
 fortfahren (verneinen)
-fortfahren (Cookies ablehnen)
+fortfahren (cookies ablehnen)
 fortfahren und verneinen
-weiter vor Ort und verweigern
-ohne empfohlene Cookies fortfahren
+weiter vor ort und verweigern
+ohne empfohlene cookies fortfahren
 deaktivieren
-Alle deaktivieren
-alle Cookies deaktivieren
+alle deaktivieren
+alle cookies deaktivieren
 nicht gut
 nicht gewähren
-keine Erlaubnis erteilen
-nicht gerne Cookies akzeptieren
-Ich akzeptiere keine Cookies
-Ich akzeptiere keine Cookies
+keine erlaubnis erteilen
+nicht gerne cookies akzeptieren
+ich akzeptiere keine cookies
+ich akzeptiere keine cookies
 ich lehne ab
 ich lehne alles ab
-Ich lehne alle Cookies ab
-Ich lehne Kekse ab
-Ich lehne Cookies von dieser Seite ab
+ich lehne alle cookies ab
+ich lehne kekse ab
+ich lehne cookies von dieser seite ab
 ich bin nicht einverstanden
-Ich bin mit seinen Bedingungen nicht einverstanden
-Ich bin damit nicht einverstanden
+ich bin mit seinen bedingungen nicht einverstanden
+ich bin damit nicht einverstanden
 ich stimme nicht zu
-Ich stimme Cookies nicht zu
-Ich bin mit Analytics-Cookies nicht einverstanden
-Ich bin damit nicht einverstanden
-Ich bin damit nicht einverstanden
-NEIN
-Nein danke
-Nein danke
+ich stimme cookies nicht zu
+ich bin mit analytics-cookies nicht einverstanden
+ich bin damit nicht einverstanden
+ich bin damit nicht einverstanden
+nein
+nein danke
+nein danke
 nicht ok
 ok, verweigern
 ok, alles verneinen
 ok, verweigern
 okay, leugnen
-Okay, leugne alles
+okay, leugne alles
 okay, leugnen
 nichts ausgewählt
 akzeptieren notwendig
 funktionell annehmen
-akzeptiere alles Notwendige
+akzeptiere alles notwendige
 akzeptieren alle funktionsfähig
 akzeptieren nur notwendig
 akzeptieren nur funktional
 zulassen notwendig
 funktional zulassen
-alles Notwendige zulassen
+alles notwendige zulassen
 erlauben alle funktionsfähig
 nur notwendiges zulassen
 nur funktional zulassen
-Ich akzeptiere notwendig
-Ich akzeptiere funktional
-Ich akzeptiere alles Notwendige
-Ich akzeptiere alle funktionalen
-Ich akzeptiere nur notwendig
-Ich akzeptiere nur funktional
-Ich erlaube notwendig
-Ich erlaube funktional
-Ich erlaube alles Notwendige
-Ich erlaube alle funktional
-Ich erlaube nur das Notwendige
-Ich erlaube nur funktional
+ich akzeptiere notwendig
+ich akzeptiere funktional
+ich akzeptiere alles notwendige
+ich akzeptiere alle funktionalen
+ich akzeptiere nur notwendig
+ich akzeptiere nur funktional
+ich erlaube notwendig
+ich erlaube funktional
+ich erlaube alles notwendige
+ich erlaube alle funktional
+ich erlaube nur das notwendige
+ich erlaube nur funktional

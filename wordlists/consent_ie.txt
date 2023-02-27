@@ -24,7 +24,7 @@ ceadaigh
 cheadú go léir
 cheadú gach fianán
 fianáin a cheadú
-Ceadaíonn fianáin
+ceadaíonn fianáin
 dhúnadh
 dhúnadh agus ar aghaidh
 dún & lean ar aghaidh
@@ -51,22 +51,22 @@ fuair sé
 fuair sé, go raibh maith agat
 sásta glacadh le fianáin
 táim sásta glacadh le fianáin
-Tá áthas orm glacadh le fianáin
-Glacaim
-Glacaim go léir
-Glacaim le gach fianán
-Glacaim le fianáin
-Glacaim le fianáin ón suíomh seo
-Aontaím
-Aontaím/aontaím lena théarmaí
-Tá mé ceart go leor le seo
+tá áthas orm glacadh le fianáin
+glacaim
+glacaim go léir
+glacaim le gach fianán
+glacaim le fianáin
+glacaim le fianáin ón suíomh seo
+aontaím
+aontaím/aontaím lena théarmaí
+tá mé ceart go leor le seo
 toilím
 toilím le fianáin
-Tuigim
-Tá mé ceart go leor le seo
-Táim ceart go leor le fianáin anailísíochta
-Tá mé ceart go leor leis sin
-Tá mé ceart go leor le seo
+tuigim
+tá mé ceart go leor le seo
+táim ceart go leor le fianáin anailísíochta
+tá mé ceart go leor leis sin
+tá mé ceart go leor le seo
 ceart go leor
 ceart go leor, fuair sé
 ceart go leor, glac
@@ -74,7 +74,7 @@ ceart go leor, glacadh le gach
 ceart go leor, aontú
 ceart go leor, aontaím
 ceart go leor go raibh maith agat
-Ceart go leor go raibh maith agat
+ceart go leor go raibh maith agat
 ceart go leor
 ceart go leor, fuair sé
 ceart go leor, glac leis
@@ -90,7 +90,7 @@ tá sé seo ceart go leor
 tá
 tá aontaithe
 sea, lean ar aghaidh
-Sea, glacaim leis
-Sea, aontaím
-Sea, táim sásta
-Sea, táim sásta
+sea, glacaim leis
+sea, aontaím
+sea, táim sásta
+sea, táim sásta
