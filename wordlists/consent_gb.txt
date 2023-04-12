@@ -33,7 +33,7 @@ activate everything
 agree
 agree & close
 agree & continue
-agree & continue &gt;
+agree & continue >
 agree & exit
 agree all
 agree and close
