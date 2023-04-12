@@ -4,9 +4,9 @@ from crawler import crawl
 
 
 GLOBAL_SELECTOR = "a, button, div, span, form, p"
-ACCEPT_WORDS_LIST = "wordlists/consent_nl.txt"
-DENY_WORDS_LIST = "wordlists/reject_nl.txt"
-WEBSITE_LIST = "websites/nl.txt"
+ACCEPT_WORDS_LIST = "wordlists/consent_fr.txt"
+DENY_WORDS_LIST = "wordlists/reject_fr.txt"
+WEBSITE_LIST = "websites/fr.txt"
 
 sites = make_wordlist(WEBSITE_LIST)
 accept_words_list = make_wordlist(ACCEPT_WORDS_LIST)

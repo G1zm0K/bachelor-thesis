@@ -1,100 +1,174 @@
-fein
-zustimmen
-okay
-genehmigung
-akzeptieren
-akzeptieren & schließen
-akzeptieren & fortfahren
-akzeptieren & fortfahren
+accept/akzeptieren
+aktivieren
 akzeptiere alle
 akzeptiere alle cookies
 akzeptiere alle einstellungen
-annehmen und schließen
-akzeptieren und weiter
-akzeptieren und weiter zur website
-cookies akzeptieren
+akzeptiere alles
+akzeptiere alles und speichere
+akzeptiere cookies von dieser seite
 akzeptiere unsere politik
-empfohlene cookies akzeptieren
+akzeptieren
+akzeptieren & fortfahren
+akzeptieren & schließen
+akzeptieren und mit der website fortfahren
+akzeptieren und weiter
+akzeptieren und weiterlesen
+akzeptieren und weiter zur website
 akzeptiert
-zustimmen
-zustimmen & schließen
-zustimmen und fortfahren
-zustimmen & beenden
-stimme allen zu
-zustimmen und schließen
-zustimmen und weitermachen
-zustimmen und fortfahren
-erlauben
-alles erlauben
-alle cookies zulassen
-cookies zulassen
-erlaubt cookies
-schließen
-schließen und weitermachen
-schließen & weiter
-schließen sie diese meldung und fahren sie fort
-bestätigen
-zustimmung
-weitermachen
-fortfahren (akzeptieren)
-weiter (cookies akzeptieren)
-fortfahren und akzeptieren
-weiter zur website
-weiter mit empfohlenen cookies
-ermöglichen
+alle annehmen
 alle aktivieren
+alle akzeptieren
+alle auswählen
+alle auswählen und bestätigen
+alle auswählen und schließen
+alle akzeptieren und weiterlesen
+alle bestätigen
 alle cookies aktivieren
+alle cookies akzeptieren
+alle cookies erlauben
+alle cookies zulassen
+alle erlauben
+alle erlauben und weiter
+alle funktionalitäten
+alle zulassen
+alle kekse
+alle stimmen zu
+allem zustimmen
+allen cookies zustimmen
+allen zustimmen
+alles aktivieren
+alles akzeptieren
+alles akzeptieren & speichern
+alles auswählen
+alles einschalten
+alles erlauben
+alles speichern
+alles zulassen
+analyse erlauben
+annehmen
+annehmen und schließen
+autorisieren
+beenden und fortfahren
+bestätigen
+bitte akzeptieren sie cookies
 bußgeld
+cookies akzeptieren
+cookies erlauben
+cookies zulassen
+danke, verstanden
+das ist in ordnung
+das ist kein problem
+das ist ok
+das ist ok für mich
+einwilligen
+einwilligung
+einverstanden
+empfohlene cookies akzeptieren
+erforderliche und optionale cookies erlauben
+erlauben
+erlauben wesentliche und optional
+erlaubnis
+erlaubnis erteilen
+erlaubt cookies
+ermöglichen
+essenzielle und analyse-cookies zulassen
+essenzielle und optionale cookies zulassen
+fein
+fortfahren (akzeptieren)
+fortfahren und akzeptieren
+funktional und optional zulassen
+funktionale und optionale cookies zulassen
+funktions- und analyse-cookies zulassen
 für mich in ordnung
 für mich in ordnung!
+genehmigung
+gerne cookies akzeptieren
+gewähren
 gut von mir, akzeptiere
 gut von mir, ich akzeptiere
-gewähren
-erlaubnis erteilen
+gut von mir, ich akzeptiere es
 habe es
-danke, verstanden
-gerne cookies akzeptieren
-ich akzeptiere gerne cookies
-ich akzeptiere gerne cookies
-ich nehme an
 ich akzeptiere alle
 ich akzeptiere alle cookies
+ich akzeptiere alles
 ich akzeptiere cookies
+ich akzeptiere cookies gerne
 ich akzeptiere cookies von dieser seite
+ich akzeptiere gerne cookies
+ich bin damit einverstanden
+ich bin einverstanden
+ich bin mit analytics-cookies einverstanden
+ich bin mit analytischen cookies einverstanden
+ich denke, das ist in ordnung
+ich denke, es ist in ordnung!
+ich nehme an
+ich stimme allem zu
+ich stimme allen cookies zu
+ich stimme cookies zu
+ich stimme den agb zu
 ich stimme zu
 ich stimme zu / stimme ihren bedingungen zu
-ich bin damit einverstanden
-ich bin damit einverstanden
-ich stimme cookies zu
 ich verstehe
-ich bin damit einverstanden
-ich bin mit analytics-cookies einverstanden
-das ist ok für mich
-ich bin damit einverstanden
-ok
-ok habe es
-okay, akzeptiere
-ok, akzeptiere alles
-okay, einverstanden
-ok, ich stimme zu
-ok danke
-ok danke
-okay
-okay, verstanden
-okay, akzeptiere
-okay, akzeptiere alles
-okay, einverstanden
-okay, ich stimme zu
-okay, danke
-okay danke
-speichern und schließen
-wählen sie alle
-das ist ok
-das ist in ordnung
 ja
 ja angenommen
-ja, weiter
+ja das ist in ordnung
+ja gut
+ja ich bin fröhlich
+ja ich bin glücklich
+ja ich will
+ja ich will!
+ja, akzeptiere
+ja, akzeptiere alles
+ja, alle cookies akzeptieren
 ja, ich akzeptiere
+ja, ich akzeptiere cookies
+ja, ich bin mit allen cookies einverstanden
 ja, ich stimme zu
-ja ich bin fröhlich
-ja ich bin fröhlich
+ja, optimale cookies akzeptieren
+ja, weiter
+mir geht's gut
+nahe bei
+ok
+ok ✔
+ok danke
+ok habe es
+ok ich verstehe
+ok, akzeptiere alles
+ok, ich stimme zu
+okay
+okay danke
+okay, akzeptiere
+okay, akzeptiere alles
+okay, danke
+okay, einverstanden
+okay, ich stimme zu
+okay, verstanden
+rette alle
+schalten
+schließen
+schließen & weiter
+schließen sie diese meldung und fahren sie fort
+schließen und weitermachen
+speichern
+speichern und schließen
+stimme allen zu
+verstanden
+weiter (cookies akzeptieren)
+weiter mit empfohlenen cookies
+weiter zur website
+weitermachen
+wählen sie alle
+wählen sie alles aus
+zusteigen, einsteigen, vorwärtskommen
+zustimmen
+zustimmen & beenden
+zustimmen & schließen
+zustimmen & weiter
+zustimmen & weiter >
+zustimmen mit zusammenführung
+zustimmen und fortfahren
+zustimmen und gehen
+zustimmen und schließen
+zustimmen und weiter
+zustimmen und weitermachen
+zustimmung

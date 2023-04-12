@@ -1,131 +1,195 @@
-nicht zugestimmt
-nicht erlaubt
-nicht akzeptieren
-verweigern
-sich weigern
-lieber nicht
-sich weigern
-ich möchte das nicht
-nein danke
-notwendige cookies
-nicht zustimmen
-nicht zulassen
-nicht akzeptieren
-verweigern
-alles ablehnen
-alle cookies ablehnen
-verweigern alles nicht notwendige
-verweigern sie alles, was nicht unbedingt erforderlich ist
-verweigern alle nicht funktionsfähig
-verweigern alle nicht streng funktional
-kekse ablehnen
-ablehnen nicht nötig
-verweigern nicht unbedingt erforderlich
-verweigern nicht funktionsfähig
-verweigern nicht streng funktional
-nicht notwendige cookies ablehnen
-nicht unbedingt notwendige cookies ablehnen
-nicht funktionierende cookies ablehnen
-nicht streng funktionale cookies ablehnen
-lieber nicht
-ich möchte das nicht
-verschiedener meinung sein
-missbilligen
-ich lehne ab
-ich lehne alle ab
-ablehnen
-alles ablehnen
-alle cookies ablehnen
 abfall
-notwendige cookies
-leugnen
-verweigern & schließen
-verweigern & weitermachen
+abgelehnt
+ablehnen
+ablehnen aller nicht notwendigen cookies
+ablehnen nicht nötig
 ablehnen und fortfahren
-kekse ablehnen
-leugnen nicht nötig
-leugnen nicht funktionsfähig
-alles leugnen
-alle cookies verweigern
-leugnen und schließen
-leugnen und weitermachen
-verweigern und weiter zur website
-kekse ablehnen
-empfohlene cookies ablehnen
-bestritten
-verschiedener meinung sein
-widersprechen & schließen
-widersprechen und fortfahren
-widersprechen & beenden
-stimme allen nicht zu
-widersprechen und schließen
-widersprechen und fortfahren
-widersprechen und fortfahren
-verbieten
-alles verbieten
-alle cookies ablehnen
-cookies verbieten
-verbietet cookies
-stimme nicht zu
-fortfahren (verneinen)
-fortfahren (cookies ablehnen)
-fortfahren und verneinen
-weiter vor ort und verweigern
-ohne empfohlene cookies fortfahren
-deaktivieren
-alle deaktivieren
-alle cookies deaktivieren
-nicht gut
-nicht gewähren
-keine erlaubnis erteilen
-nicht gerne cookies akzeptieren
-ich akzeptiere keine cookies
-ich akzeptiere keine cookies
-ich lehne ab
-ich lehne alles ab
-ich lehne alle cookies ab
-ich lehne kekse ab
-ich lehne cookies von dieser seite ab
-ich bin nicht einverstanden
-ich bin mit seinen bedingungen nicht einverstanden
-ich bin damit nicht einverstanden
-ich stimme nicht zu
-ich stimme cookies nicht zu
-ich bin mit analytics-cookies nicht einverstanden
-ich bin damit nicht einverstanden
-ich bin damit nicht einverstanden
-nein
-nein danke
-nein danke
-nicht ok
-ok, verweigern
-ok, alles verneinen
-ok, verweigern
-okay, leugnen
-okay, leugne alles
-okay, leugnen
-nichts ausgewählt
-akzeptieren notwendig
-funktionell annehmen
+ablehnung
 akzeptiere alles notwendige
+akzeptiere nicht
+akzeptiere nur funktionale
 akzeptieren alle funktionsfähig
-akzeptieren nur notwendig
+akzeptieren müssen
+akzeptieren notwendig
 akzeptieren nur funktional
-zulassen notwendig
-funktional zulassen
+akzeptieren nur notwendig
+alle ablehnen
+alle cookies ablehnen
+alle cookies deaktivieren
+alle cookies verweigern
+alle deaktivieren
+alle funktionen zulassen
+alle sind anderer meinung
+alle sinken nicht streng funktional
+alles ablehnen
+alles abschalten
+alles abzulehnen ist nicht unbedingt notwendig
+alles leugnen
 alles notwendige zulassen
+alles verbieten
+bestreiten
+bestritten
+cookies ablehnen
+cookies ablehnen, die nicht unbedingt erforderlich sind
+cookies verbieten
+danke
+das will ich nicht
+deaktivieren
+deaktivieren sie tracking-cookies
+empfohlene cookies ablehnen
 erlauben alle funktionsfähig
-nur notwendiges zulassen
-nur funktional zulassen
-ich akzeptiere notwendig
-ich akzeptiere funktional
-ich akzeptiere alles notwendige
+erlaubt keine cookies
+ermöglicht funktional
+erweitern
+essentiell
+essentielle
+essentielle kekse
+fortfahren (cookies ablehnen)
+fortfahren (verneinen)
+fortfahren und verneinen
+funktionale cookies
+funktionalität akzeptieren
+funktionalität zulassen
+funktionell
+funktionell annehmen
+gehen sie zur website und lehnen sie ab
+genehmigung erforderlich
 ich akzeptiere alle funktionalen
-ich akzeptiere nur notwendig
+ich akzeptiere alles notwendige
+ich akzeptiere die funktionalität
+ich akzeptiere funktional
+ich akzeptiere keine cookies
+ich akzeptiere notwendig
 ich akzeptiere nur funktional
-ich erlaube notwendig
-ich erlaube funktional
-ich erlaube alles notwendige
+ich akzeptiere nur notwendig
+ich bin damit nicht einverstanden
+ich bin mit analytics-cookies nicht einverstanden
+ich bin mit analytischen cookies nicht einverstanden
+ich bin mit den bedingungen nicht einverstanden
+ich bin mit seinen bedingungen nicht einverstanden
+ich bin nicht einverstanden
 ich erlaube alle funktional
+ich erlaube alles notwendige
+ich erlaube das notwendige
+ich erlaube funktional
+ich erlaube notwendig
 ich erlaube nur das notwendige
 ich erlaube nur funktional
+ich gebe keine erlaubnis
+ich lasse alles notwendige zu
+ich lehne ab
+ich lehne alle ab
+ich lehne alle cookies ab
+ich lehne alles ab
+ich lehne cookies von dieser seite ab
+ich lehne kekse ab
+ich möchte das nicht
+ich stimme cookies nicht zu
+ich stimme nicht zu
+keine cookies zulassen
+keine erlaubnis
+keine erlaubnis erteilen
+keine notwendigkeit zu leugnen
+keine notwendigkeit zu verweigern
+keine notwendigkeit, alles abzulehnen
+kekse ablehnen
+lehne alles ab, was nicht funktioniert
+lehnen sie ab und fahren sie mit der website fort
+leugnen
+leugnen nicht funktionsfähig
+leugnen nicht nötig
+leugnen und schließen
+leugnen und weitermachen
+lieber nicht
+missbilligen
+mit notwendigen fortfahren
+nein
+nein danke
+nein eher nicht
+nein ich bin nicht einverstanden
+nein, ich bin nicht einverstanden
+nein, ich möchte kein optimales erlebnis
+nicht akzeptieren
+nicht einverstanden
+nicht erlauben
+nicht erlaubt
+nicht funktionierende cookies ablehnen
+nicht gerne cookies akzeptieren
+nicht gewähren
+nicht gut
+nicht notwendige cookies ablehnen
+nicht ok
+nicht okay
+nicht streng funktionale cookies ablehnen
+nicht unbedingt erforderlich
+nicht unbedingt notwendige cookies ablehnen
+nicht zugestimmt
+nicht zulassen
+nicht zustimmen
+nichts ausgewählt
+notwendige cookies
+nur basis-cookies akzeptieren
+nur basis-cookies zulassen
+nur das wesentliche zulassen
+nur erforderlich
+nur erforderliche cookies
+nur erforderliche cookies akzeptieren
+nur erforderliche cookies erlauben
+nur erforderliche cookies zulassen
+nur erforderliche technologien akzeptieren
+nur erlaubt
+nur essentielle cookies zulassen
+nur essentielle cookies akzeptieren
+nur essenzielle cookies zulassen
+nur funktional zulassen
+nur funktionale cookies
+nur funktionalität zulassen
+nur funktionsfähig
+nur notwendig
+nur notwendige
+nur notwendige cookies
+nur notwendige cookies akzeptieren
+nur notwendige cookies verwenden
+nur notwendige cookies zulassen
+nur notwendige funktionscookies akzeptieren
+nur notwendige technologien
+nur notwendiges zulassen
+nur streng funktional
+nur streng funktional zulassen
+nur unbedingt erforderlich
+nur unbedingt notwendig zulassen
+ohne cookie fortfahren
+ohne cookies fortfahren
+ohne empfohlene cookies fortfahren
+okay, leugne alles
+okay, leugnen
+optionale cookies ablehnen
+reject all/alle ablehnen
+stimme allen nicht zu
+stimme nicht zu
+verbieten
+verschiedener meinung sein
+verweigern
+verweigern & schließen
+verweigern & weitermachen
+verweigern alle nicht funktionsfähig
+verweigern alle nicht streng funktional
+verweigern alles nicht notwendige
+verweigern nicht funktionsfähig
+verweigern nicht streng funktional
+verweigern nicht unbedingt erforderlich
+verweigern sie alles, was nicht unbedingt erforderlich ist
+verweigern und weiter zur website
+verwenden sie nur basis-cookies
+verwenden sie nur funktionale cookies
+verwenden sie nur notwendige cookies
+weiter ohne optionale cookies zu akzeptieren
+weiter vor ort und verweigern
+weitere cookies ablehnen
+widersprechen & beenden
+widersprechen & gehen
+widersprechen & schließen
+widersprechen und fortfahren
+widersprechen und schließen
+widersprechen und weitermachen
+zulassen notwendig

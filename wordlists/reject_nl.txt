@@ -1,317 +1,158 @@
-niet akkoord
-niet toestaan
-niet accepteren
-ontken
-weiger
-liever niet
-weigeren
-dat wil ik niet
-nee bedankt
-nee, bedankt
-nee, dank je
-neen, dank je
-nee dank je
-neen dank je
-nee, danku
-neen, danku
-nee, ik ga niet akkoord
-nee ik ga niet akkoord
-nee, ik wil geen optimale ervaring
-nee danku
-neen danku
-noodzakelijke cookies
-oneens
-niet toelaten
-niet accepteren
-weigeren
-alles weigeren
+aanvullende cookies weigeren
+accepteer al het nodige
+accepteer alle functionele
+accepteer alleen functioneel
+accepteer functioneel
+accepteren alleen noodzakelijk
+accepteren nodig
+afkeuren
+afwijzen
 alle cookies weigeren
+alleen basis cookies accepteren
+alleen basis cookies toestaan
+alleen functioneel
+alleen functioneel toestaan
+alleen functionele
+alleen functionele accepteren
+alleen functionele cookies
+alleen functionele toestaan
+alleen nodig toestaan
+alleen noodzakelijk
+alleen noodzakelijk toestaan
+alleen noodzakelijke
+alleen noodzakelijke accepteren
+alleen noodzakelijke cookies
+alleen noodzakelijke toestaan
+alleen strikt functioneel
+alleen strikt functionele
+alleen strikt functionele toestaan
+alleen strikt noodzakelijk
+alleen strikt noodzakelijke
+alleen strikt noodzakelijke toestaan
+alleen toegestane
+alleen vereist
+allemaal niet mee eens
+alles afwijzen
+alles ontkennen
+alles uitschakelen
+alles verbieden
+alles weigeren
 alles weigeren niet nodig
 alles weigeren niet strikt noodzakelijk
-weiger alles niet functioneel
-weiger cookies
-weigeren allemaal niet strikt functioneel
-cookies weigeren
-weigeren niet nodig
-weigeren niet strikt noodzakelijk
-weigeren niet functioneel
-weigeren niet strikt functioneel
-weiger niet noodzakelijke cookies
-niet strikt noodzakelijke cookies weigeren
-niet functionele cookies weigeren
-niet strikt functionele cookies weigeren
-liever niet
-ik wil dat niet
-het oneens zijn
-afkeuren
-ik weiger
-ik verwerp alles
-afwijzen
-alles afwijzen
-alle cookies weigeren
-afwijzen
-noodzakelijke cookies
-ontkennen
-ontkennen & sluiten
-ontkennen & doorgaan
-ontkennen en doorgaan
-cookies weigeren
-ontkennen niet nodig
-ontkennen niet functioneel
-alles ontkennen
-alle cookies weigeren
-ontkennen en afsluiten
-ontkennen en doorgaan
-weigeren en doorgaan naar de site
-cookies weigeren
-weiger aanbevolen cookies
-aanvullende cookies weigeren
-geweigerd
-het oneens zijn
-oneens & sluiten
-niet mee eens & doorgaan
-niet mee eens & vertrek
-allemaal niet mee eens
-niet mee eens en sluiten
-niet mee eens en ga door
-niet mee eens en ga verder
-niet toestaan
-alles verbieden
-alle cookies weigeren
 cookies niet toestaan
-staat cookies niet toe
-niet instemmen
-doorgaan (ontkennen)
+cookies weigeren
+daar ben ik niet ok mee
+dat wil ik niet
 doorgaan (cookies weigeren)
+doorgaan (ontkennen)
 doorgaan en ontkennen
+doorgaan zonder aanbevolen cookies
+enkel functioneel
+essentiële
+essentiële cookies
+functionele
+functionele cookies
 ga door naar de site en weiger
 ga verder zonder cookie
 ga verder zonder cookies
-doorgaan zonder aanbevolen cookies
-uitzetten
-alles uitschakelen
-schakel alle cookies uit
-niet goed
-niet verlenen
 geen toestemming
 geen toestemming geven
-niet blij om cookies te accepteren
-ik ben niet blij om cookies te accepteren
-ik ben niet blij om cookies te accepteren
-ik weiger
-ik weiger alles
-ik weiger alle cookies
-ik weiger cookies
-ik weiger cookies van deze site
+geweigerd
+het oneens zijn
+ik accepteer al het nodige
+ik accepteer alle functionele
+ik accepteer alleen functioneel
+ik accepteer alleen noodzakelijk
+ik accepteer functioneel
+ik accepteer noodzakelijk
 ik ben het er niet mee eens
 ik ben het niet eens met de voorwaarden
 ik ben hier niet ok mee
+ik ben niet blij om cookies te accepteren
+ik ben niet ok met analytische cookies
+ik ga niet akkoord
 ik geef geen toestemming
 ik geef geen toestemming voor cookies
-ik ga niet akkoord
-ik ben niet ok met analytische cookies
-daar ben ik niet ok mee
-ik ben hier niet ok mee
-nee
-nee bedankt
-nee, dank u
-nee, liever niet
-niet ok
-oké, ontkennen
-oké, alles ontkennen
-oké, ontkennen
-oké, ontkennen
-oké, alles ontkennen
-oké, ontkennen
-selecteer geen
-accepteren nodig
-accepteer functioneel
-accepteer al het nodige
-accepteer alle functionele
-accepteren alleen noodzakelijk
-accepteer alleen functioneel
-toestaan nodig
-laat functioneel toe
-laat al het nodige toe
-sta alle functionele toe
-alleen nodig toestaan
-alleen functioneel toestaan
-alleen noodzakelijk toestaan
-alleen functioneel
-alleen noodzakelijk
-ik accepteer noodzakelijk
-ik accepteer functioneel
-alleen functionele toestaan
-alleen noodzakelijke toestaan
-alleen basis cookies toestaan
-alleen functionele accepteren
-alleen noodzakelijke accepteren
-alleen basis cookies accepteren
-alleen functioneel
-alleen noodzakelijk
-alleen functionele
-alleen noodzakelijke
-alleen vereist
-alleen functionele cookies
-alleen noodzakelijke cookies
-alleen strikt functionele toestaan
-alleen strikt noodzakelijke toestaan
-alleen strikt functioneel
-alleen strikt noodzakelijk
-alleen strikt functionele
-alleen strikt noodzakelijke
-alleen toegestane
-ik accepteer noodzakelijk
-ik accepteer functioneel
-ik accepteer al het nodige
-ik accepteer alle functionele
-ik accepteer alleen noodzakelijk
-ik accepteer alleen functioneel
-ik sta het nodige toe
-ik sta functioneel toe
 ik sta al het nodige toe
 ik sta alle functionele toe
-ik sta alleen noodzakelijk toe
 ik sta alleen functioneel toe
+ik sta alleen noodzakelijk toe
+ik sta functioneel toe
+ik sta het nodige toe
+ik verwerp alles
+ik weiger
+ik weiger alle cookies
+ik weiger alles
+ik weiger cookies
+ik weiger cookies van deze site
+ik wil dat niet
+laat al het nodige toe
+laat functioneel toe
+liever niet
+nee
+nee bedankt
+nee dank je
+nee danku
+nee ik ga niet akkoord
+nee, bedankt
+nee, dank je
+nee, dank u
+nee, danku
+nee, ik ga niet akkoord
+nee, ik wil geen optimale ervaring
+nee, liever niet
+neen dank je
+neen danku
+neen, dank je
+neen, danku
+niet accepteren
+niet akkoord
+niet blij om cookies te accepteren
+niet functionele cookies weigeren
+niet goed
+niet instemmen
+niet mee eens & doorgaan
+niet mee eens & vertrek
+niet mee eens en ga door
+niet mee eens en ga verder
+niet mee eens en sluiten
+niet ok
+niet strikt functionele cookies weigeren
+niet strikt noodzakelijke cookies weigeren
+niet toelaten
+niet toestaan
+niet verlenen
+noodzakelijke cookies
+oké, alles ontkennen
+oké, ontkennen
+oneens
+oneens & sluiten
+ontken
+ontkennen
+ontkennen & doorgaan
+ontkennen & sluiten
+ontkennen en afsluiten
+ontkennen en doorgaan
+ontkennen niet functioneel
+ontkennen niet nodig
+schakel alle cookies uit
+selecteer geen
+sta alle functionele toe
+staat cookies niet toe
+toestaan nodig
+tracking cookies uitzetten
+uitzetten
 verder zonder cookie
 verder zonder cookies
-enkel functioneel
-essentiële
-functionele
-functionele cookies
-essentiële cookies
-tracking cookies uitzetten
-
-not agree
-not allow
-do not accept
-do not consent
-refuse
-refuse all
-refuse all cookies
-refuse all not necessary
-refuse all not strictly necessary
-refuse all not functional
-refuse all not strictly functional
-refuse cookies
-refuse non-essential cookies
-refuse non-necessary cookies
-refuse non-functional cookies
-refuse not necessary
-refuse not strictly necessary
-refuse not functional
-refuse not strictly functional
-refuse not necessary cookies
-refuse not strictly necessary cookies
-refuse not functional cookies
-refuse not strictly functional cookies
-rather not
-i do not want that
-disagree
-disapprove
-i reject
-i reject all
-reject
-reject all
-reject all cookies
-decline
-decline all
-decline all cookies
-necessary cookies
-necessary cookies only
-deny
-deny & close
-deny & continue
-deny & proceed
-deny cookies
-deny not necessary
-deny not functional
-deny all
-deny all cookies
-deny and close
-deny and continue
-deny and continue to site
-deny cookies
-deny recommended cookies
-denied
-disagree
-disagree & close
-disagree & continue
-disagree & exit
-disagree all
-disagree and close
-disagree and continue
-disagree and proceed
-disallow
-disallow all
-disallow all cookies
-disallow cookies
-disallows cookies
-don't consent
-continue (deny)
-continue (deny cookies)
-continue and deny
-continue to site and deny
-continue without recommended cookies
-disable
-disable all
-disable all cookies
-not fine
-don't grant
-don't grant permission
-not happy to accept cookies
-im not happy to accept cookies
-i'm not happy to accept cookies
-i refuse
-i refuse all
-i refuse all cookies
-i refuse cookies
-i refuse cookies from this site
-i disagree
-i disagree to its terms
-i am not ok with this
-i do not consent
-i don't consent
-i don't consent to cookies
-i'm not ok with analytics cookies
-i'm not ok with that
-i'm not ok with this
-no
-no, thanks
-no, thank you
-not ok
-ok, deny
-ok, deny all
-ok, deny
-okay, deny
-okay, deny all
-okay, deny
-only allow essential
-only allow essential cookies
-only allow functional
-only allow functional
-select none
-accept necessary
-accept functional
-accept all necessary
-accept all functional
-accept only necessary
-accept only functional
-allow necessary
-allow functional
-allow all necessary
-allow all functional
-allow only necessary
-allow only functional
-i accept necessary
-i accept functional
-i accept all necessary
-i accept all functional
-i accept only necessary
-i accept only functional
-i allow necessary
-i allow functional
-i allow all necessary
-i allow all functional
-i allow only necessary
-i allow only functional
+weiger
+weiger aanbevolen cookies
+weiger alles niet functioneel
+weiger cookies
+weiger niet noodzakelijke cookies
+weigeren
+weigeren allemaal niet strikt functioneel
+weigeren en doorgaan naar de site
+weigeren niet functioneel
+weigeren niet nodig
+weigeren niet strikt functioneel
+weigeren niet strikt noodzakelijk
