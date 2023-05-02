@@ -1,11 +1,13 @@
+accepte et ferme tout
 accepte et vas-y
 accepter
-accepter & continuer >
+accepter & continuer &gt;
 accepter & fermer
 accepter et accéder au site
 accepter et conclure
 accepter et continuer
-accepter et continuer >
+accepter et continuer &gt;
+accepter et continuer avec la page
 accepter et continuer avec le site
 accepter et continuer sur le site
 accepter et continuer à lire
@@ -13,6 +15,7 @@ accepter et fermer
 accepter et partir
 accepter et poursuivre
 accepter et sortir
+accepter la fusion
 accepter les cookies
 accepter les cookies de ce site
 accepter les cookies liés à des contenus externes
@@ -22,6 +25,8 @@ accepter notre politique
 accepter tous les cookies
 accepter tous les paramètres
 accepter tout
+accepter tout et fermer
+accepter toutes les utilisations de données
 accepter toutes les utilisations des données
 acceptez et continuez
 acceptez et sauvegardez tout
@@ -29,11 +34,15 @@ acceptez tout et lisez la suite
 accepté
 accorder
 activer
+activer essentiel et facultatif
+activer fonctionnellement et éventuellement
 activer les cookies
 activer tous les cookies
 activer tout
 allume tout
+allume ça
 approbation
+au site web
 autorisation
 autorise les cookies
 autorise tout
@@ -47,16 +56,22 @@ autoriser les cookies fonctionnels et facultatifs
 autoriser les cookies obligatoires et facultatifs
 autoriser tous les cookies
 bien
+bien de ma part j'accepte
+bien de ma part je l'accepte
 bien de ma part, accepte
 bien de ma part, j'accepte
 bien de ma part, je l'accepte
 c'est bon pour moi
+c'est bon pour moi!
 c'est d'accord
+c'est en ordre
 c'est ok
+c'est ok pour moi
 c'est très bien
 ce n'est pas un problème
 changer
 choisissez-les tous
+complètement d'accord
 compris
 confirmer
 consentement
@@ -79,29 +94,44 @@ d'accord, d'accord
 d'accord, je suis d'accord
 d'accord, merci
 d'accord. j'ai compris.
+d'accord. l'avoir.
 d'accord !
 donner la permission
+en ordre
+en ordre !
+en ordre!
+en ordre. j'ai compris.
+enregistrer + quitter
+enregistrer sur ordinateur
+environs
 fermer
 fermer ce message et continuer
 fermer et continuer
 heureux d'accepter les cookies
 j'accepte
+j'accepte l'utilisation des cookies
+j'accepte les conditions d'utilisation
 j'accepte les cookies
 j'accepte les cookies analytiques
+j'accepte les cookies d'analyse
 j'accepte les cookies de ce site
 j'accepte les termes et conditions
 j'accepte tous les cookies
 j'accepte tout
 j'accepte volontiers les cookies
+j'accepte/accepte les conditions
 j'accepte/accepte ses termes
 j'ai compris
 j'approuve
 je comprends
 je consens aux cookies
 je l'ai merci
+je pense que c'est bien
 je pense que c'est bien !
 je pense que c'est bien!
 je pense que c'est bon
+je pense que c'est bon !
+je pense que c'est bon!
 je pense que c'est ok
 je pense que c'est ok!
 je suis d'accord
@@ -113,23 +143,33 @@ je suis heureux d'accepter les cookies
 je suis satisfait des cookies analytiques
 je suppose
 je vais bien
+je vais bien, accepte
+je vais bien, j'accepte
 l'avoir
+les activer
 merci d'accepter les cookies
 merci, j'ai compris
+merci, je comprends
 monter
+ok accepte tout
+ok compris
 ok j'ai compris
 ok je suis d'accord
 ok pour moi
 ok pour moi !
+ok pour moi!
 ok, accepte tout
 ok, compris
 ok, j'ai compris
 ok, je comprends
+ok, sur le site
 ok, tout accepter
 oui
+oui - tout accepter
 oui accepté
 oui bien
 oui c'est bon
+oui c'est ok
 oui continue
 oui d'accord
 oui j'accepte
@@ -139,6 +179,9 @@ oui je le veux!
 oui je suis content
 oui je suis d'accord
 oui je suis heureux
+oui je vais bien
+oui je voudrais ça
+oui ok
 oui tout accepter
 oui!
 oui, accepter
@@ -146,18 +189,24 @@ oui, accepter les cookies optimaux
 oui, accepter tous les cookies
 oui, c'est bon
 oui, continuer
-oui, je suis d'accord
 oui, j'accepte
+oui, j'accepte ces cookies
 oui, j'accepte les cookies
 oui, j'accepte tous les cookies
+oui, je suis d'accord
 oui, ça va
+pas grave
 permettre
 permettre essentiel et facultatif
+permettre et passer à autre chose
 permettre fonctionnel et facultatif
 permettre l'analyse
 permis
 peu importe
+plus loin sur la page
+pour la voir
 proche de
+protéger
 près
 rendre possible
 sauvegarder
@@ -167,6 +216,7 @@ sauver tous
 sauver tout le monde
 sortir et continuer
 supposer
+sélectionner et valider tout
 sélectionner tout et valider
 totalement d'accord
 tous confirment
@@ -174,7 +224,10 @@ tous les cookies
 tout accepter
 tout accepter & visiter le site
 tout accepter et continuer
+tout accepter et passer à autre chose
 tout accepter et sauvegarder
+tout accepter et tout sauvegarder
+tout accepter et visiter le site
 tout accepter et économiser
 tout activer
 tout allumer
@@ -187,8 +240,12 @@ tout sélectionner
 tout sélectionner et fermer
 toutes les fonctionnalités
 très bien
+très bien alors
+très proche
+à monter
 ça me va
 ça me va!
 ça me va, accepte
 ça me va, j'accepte
+échange
 être d'accord et passer à autre chose
