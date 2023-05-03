@@ -1,6 +1,5 @@
 accepter fonctionnel
 accepter fonctionnel seulement
-accepter la fonction
 accepter la fonctionnalité
 accepter nécessaire
 accepter tout ce qui est nécessaire
@@ -17,22 +16,16 @@ accepter uniquement les technologies nécessaires
 activer fonctionnellement
 aller sur le site et refuser
 allez sur le site et désinscrivez-vous
-approbation exigée
 approuver le nécessaire
 assumer fonctionnel
 aucune autorisation
 autoriser la fonctionnalité
 autoriser le nécessaire
-autoriser toutes les fonctions
 autoriser uniquement fonctionnel
 autoriser uniquement les cookies essentiels
 autoriser uniquement les cookies fonctionnels
 autoriser uniquement les cookies requis
-avoir un avis complètement différent
-avoir un avis différent
-besoin d'accepter
 biscuits essentiels
-chaque évier n'est pas strictement fonctionnel
 continuer (nier)
 continuer (refuser les cookies)
 continuer avec les cookies nécessaires uniquement
@@ -55,13 +48,10 @@ d plutôt pas
 d'accord nier
 d'accord refuser
 d'accord, nie
-doit accepter
-déchets
 déclin
 décliner et continuer
 décliner et passer à autre chose
 déni non fonctionnel
-désaccord et sortie
 désactiver
 désactiver les cookies
 désactiver les cookies de suivi
@@ -69,12 +59,8 @@ désactiver tous les
 désactiver tous les cookies
 désactiver toute utilisation de données
 désapprouver
-développer
-en contradiction
-en désaccord
 essentiel
 faire le nécessaire
-faut accepter
 fonctionnel
 indispensable uniquement
 interdire
@@ -84,12 +70,10 @@ interdire tout
 interdit
 interdit les cookies
 j'accepte fonctionnel
-j'accepte la fonction
 j'accepte la fonctionnalité
 j'accepte le nécessaire
 j'accepte nécessaire
 j'accepte seulement le nécessaire
-j'accepte tout fonctionnel
 j'accepte tout le nécessaire
 j'accepte uniquement le nécessaire
 j'approuve le nécessaire
@@ -132,9 +116,6 @@ je refuse tous les cookies
 je refuse tout
 je rejette
 je rejette tout
-je responsabilise fonctionnellement
-licence requise
-merci
 n'accepte pas
 n'accepter que fonctionnel
 n'accepter que fonctionnellement
@@ -157,8 +138,6 @@ n'autoriser que les cookies essentiels
 n'autoriser que les cookies fonctionnels
 n'autoriser que les cookies nécessaires
 n'autoriser que les cookies requis
-n'autoriser que les fonctionnalités
-n'autoriser que les fonctions
 n'autoriser que si nécessaire
 n'autoriser que strictement fonctionnel
 n'est pas d'accord
@@ -179,8 +158,6 @@ ne rien sélectionner
 nier
 nier et continuer
 nier et passer à autre chose
-nier ne fonctionne pas
-nier non fonctionnel
 nier pas nécessaire
 nier tous
 nier tout inutile
@@ -200,20 +177,14 @@ objecter et continuer
 ok tout nier
 ok, nie tout
 ok, refuse
-opposition et démission
 pas accepté
 pas accordé
-pas besoin de nier
-pas besoin de refuser
-pas besoin de tout nier
-pas besoin de tout refuser
 pas bien
 pas bon
 pas content d'accepter les cookies
 pas d'accord
 pas d'accord avec tout
 pas d'accord et continuer
-pas d'accord et démissionner
 pas d'accord et fermer
 pas d'accord et partir
 pas d'accord et passer à autre chose
@@ -223,7 +194,6 @@ permet fonctionnel
 permettre fonctionnel
 permettre tout le nécessaire
 permettre à tous les fonctionnels
-permis requis
 plutôt pas
 procéder au nécessaire
 procéder uniquement avec les cookies nécessaires
@@ -273,7 +243,6 @@ rejeter
 rejeter et fermer
 rejeter inutile
 rejeter les cookies inutiles
-rejeter les cookies qui ne fonctionnent pas
 rejeter tous les cookies
 rejeter tous les cookies facultatifs
 rejeter tous les cookies non essentiels
@@ -284,7 +253,6 @@ rejeter tout inutile
 rejeter toutes les utilisations de données
 rejeté
 requis seulement
-rester en place et décliner
 rien de sélectionné
 seulement absolument nécessaire
 seulement autorisé
@@ -296,19 +264,12 @@ seulement strictement fonctionnel
 seulement strictement nécessaire
 strictement fonctionnel seulement
 tous en désaccord
-tous les éviers ne sont pas strictement fonctionnels
-tout déclin non strictement fonctionnel
-tout déclin pas strictement fonctionnel
 tout interdire
-tout le monde a un avis différent
-tout le monde a une opinion différente
 tout nier
 tout refuser
 tout rejeter
 tout rejeter n'est pas strictement nécessaire
-tout à fait en désaccord
 tout éteindre
-tout évier pas strictement fonctionnel
 uniquement autoriser les cookies essentiels
 uniquement les cookies essentiels
 uniquement les cookies fonctionnels
@@ -318,6 +279,3 @@ utiliser uniquement des cookies de base
 utiliser uniquement des cookies fonctionnels
 utiliser uniquement les cookies essentiels
 utiliser uniquement les cookies nécessaires
-étendre
-être d'un avis différent
-être en désaccord

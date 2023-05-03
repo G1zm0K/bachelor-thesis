@@ -1,7 +1,7 @@
 accept
 accept & close
 accept & continue
-accept & continue &gt;
+accept & continue >
 accept & proceed
 accept & save everything
 accept all
@@ -18,7 +18,7 @@ accept and close
 accept and close everything
 accept and conclude
 accept and continue
-accept and continue &gt;
+accept and continue >
 accept and continue on the site
 accept and continue reading
 accept and continue to site
@@ -47,7 +47,6 @@ accept everything and visit the website
 accept optional cookies
 accept our policy
 accept recommended cookies
-accept the merger
 accepted
 activate
 activate all
@@ -60,7 +59,7 @@ activate them
 agree
 agree & close
 agree & continue
-agree & continue &gt;
+agree & continue >
 agree & exit
 agree all
 agree and close
@@ -74,10 +73,7 @@ agree to all cookies
 agree to all data usage
 agree to all data uses
 agree to everything
-agree to the merger
 agree with everything
-agree with merge
-agree with the merger
 agreed
 all agree
 all confirm
@@ -116,7 +112,6 @@ alright
 alright alright
 alrighty!
 approval
-assume
 authorisation
 authorize
 choose them all
@@ -124,7 +119,6 @@ close
 close & continue
 close and continue
 close this message and continue
-close to
 completely agree
 confirm
 consent
@@ -144,7 +138,6 @@ enable cookies
 enable essential and optional
 enable everything
 enable functional and optional
-exchange
 exit and continue
 fine
 fine by me
@@ -152,17 +145,10 @@ fine by me!
 fine by me, accept
 fine by me, i accept
 fine on my part, i accept
-functionally and possibly activate
-further down the page
-further on the page
 get on
 give permission
 giving permission
 good
-good from me, accept
-good of me, accept
-good of me, i accept
-good of me, i accept it
 good on my part, i accept
 good on my part, i accept it
 got it
@@ -170,7 +156,6 @@ got it, thanks
 grant
 grant permission
 happy to accept cookies
-have it
 i accept
 i accept all
 i accept all cookies
@@ -210,8 +195,6 @@ i consent to analytical cookies
 i consent to cookies
 i gladly accept cookies
 i guess
-i have it thank you
-i have it thanks
 i suppose
 i think it is good!
 i think it's fine!
@@ -227,7 +210,6 @@ i think this is good !
 i think this is good!
 i think this is ok
 i understand
-i'm doing well
 i'm fine
 i'm fine with this
 i'm fine, accept
@@ -257,10 +239,6 @@ it's ok for me!
 it's okay with me
 it's okay with me!
 keep going
-make possible
-near
-never mind
-nevermind
 ok
 ok accept everything
 ok for me
@@ -304,7 +282,6 @@ okay, thanks
 okay, understood
 permission
 permit
-please accept cookies
 proceed and accept
 protect
 save
@@ -313,7 +290,6 @@ save all
 save and close
 save everyone
 save everything
-save on computer
 save to computer
 select all
 select all and close
@@ -321,9 +297,6 @@ select all and confirm
 select and confirm all
 select and confirm everything
 select everything
-surroundings
-switch
-thank you for accepting cookies
 thank you, i understand
 thanks, got it
 thanks, i understand
@@ -336,16 +309,6 @@ that's okay for me
 this is not a problem
 this is okay
 to accept
-to agree
-to allow
-to change
-to confirm
-to go up
-to make possible
-to protect
-to rise
-to safeguard
-to see her
 to the website
 to website
 totally agree
@@ -355,9 +318,6 @@ turn on everything
 understood
 very close
 very well then
-vicinity
-well on my part i accept
-well on my part i accept it
 what ever
 whatever
 yes
@@ -388,7 +348,6 @@ yes it's good
 yes ok
 yes that's fine
 yes thats ok
-yes well
 yes!
 yes, accept
 yes, accept all cookies

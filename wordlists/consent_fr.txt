@@ -1,12 +1,12 @@
 accepte et ferme tout
 accepte et vas-y
 accepter
-accepter & continuer &gt;
+accepter & continuer >
 accepter & fermer
 accepter et accéder au site
 accepter et conclure
 accepter et continuer
-accepter et continuer &gt;
+accepter et continuer >
 accepter et continuer avec la page
 accepter et continuer avec le site
 accepter et continuer sur le site
@@ -15,7 +15,6 @@ accepter et fermer
 accepter et partir
 accepter et poursuivre
 accepter et sortir
-accepter la fusion
 accepter les cookies
 accepter les cookies de ce site
 accepter les cookies liés à des contenus externes
@@ -69,7 +68,6 @@ c'est ok
 c'est ok pour moi
 c'est très bien
 ce n'est pas un problème
-changer
 choisissez-les tous
 complètement d'accord
 compris
@@ -81,9 +79,7 @@ continuer (accepter)
 continuer avec les cookies recommandés
 continuer et accepter
 continuer sur le site
-convenu
 d'accord
-d'accord avec la fusion
 d'accord avec tout
 d'accord merci
 d'accord pour moi
@@ -94,7 +90,6 @@ d'accord, d'accord
 d'accord, je suis d'accord
 d'accord, merci
 d'accord. j'ai compris.
-d'accord. l'avoir.
 d'accord !
 donner la permission
 en ordre
@@ -103,7 +98,6 @@ en ordre!
 en ordre. j'ai compris.
 enregistrer + quitter
 enregistrer sur ordinateur
-environs
 fermer
 fermer ce message et continuer
 fermer et continuer
@@ -141,16 +135,9 @@ je suis d'accord avec tout
 je suis d'accord avec ça
 je suis heureux d'accepter les cookies
 je suis satisfait des cookies analytiques
-je suppose
-je vais bien
-je vais bien, accepte
-je vais bien, j'accepte
-l'avoir
 les activer
-merci d'accepter les cookies
 merci, j'ai compris
 merci, je comprends
-monter
 ok accepte tout
 ok compris
 ok j'ai compris
@@ -179,7 +166,6 @@ oui je le veux!
 oui je suis content
 oui je suis d'accord
 oui je suis heureux
-oui je vais bien
 oui je voudrais ça
 oui ok
 oui tout accepter
@@ -195,27 +181,16 @@ oui, j'accepte les cookies
 oui, j'accepte tous les cookies
 oui, je suis d'accord
 oui, ça va
-pas grave
 permettre
 permettre essentiel et facultatif
 permettre et passer à autre chose
 permettre fonctionnel et facultatif
 permettre l'analyse
-permis
-peu importe
-plus loin sur la page
-pour la voir
-proche de
-protéger
-près
-rendre possible
 sauvegarder
 sauvegarder sur ordinateur
 sauver et fermer
 sauver tous
-sauver tout le monde
 sortir et continuer
-supposer
 sélectionner et valider tout
 sélectionner tout et valider
 totalement d'accord
@@ -234,18 +209,10 @@ tout allumer
 tout autoriser
 tout autoriser et continuer
 tout d'accord
-tout près
 tout sauvegarder
 tout sélectionner
 tout sélectionner et fermer
 toutes les fonctionnalités
 très bien
 très bien alors
-très proche
-à monter
-ça me va
-ça me va!
-ça me va, accepte
-ça me va, j'accepte
-échange
 être d'accord et passer à autre chose

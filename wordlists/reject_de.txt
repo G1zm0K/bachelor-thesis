@@ -1,4 +1,3 @@
-abfall
 abgelehnt
 ablehnen
 ablehnen aller nicht notwendigen cookies
@@ -12,7 +11,6 @@ ablehnen und zur website gehen
 ablehnen unnötig
 ablehnung
 akzeptiere alles notwendige
-akzeptiere die funktion
 akzeptiere nicht
 akzeptiere nur das notwendige
 akzeptiere nur das nötigste
@@ -20,8 +18,6 @@ akzeptiere nur das wesentliche
 akzeptiere nur funktionale
 akzeptieren alle funktionsfähig
 akzeptieren keine cookies
-akzeptieren muss
-akzeptieren müssen
 akzeptieren notwendig
 akzeptieren nur funktional
 akzeptieren nur funktionale cookies
@@ -37,45 +33,34 @@ alle deaktivieren
 alle funktionen zulassen
 alle nicht wesentlichen cookies ablehnen
 alle optionalen cookies ablehnen
-alle sind anderer meinung
-alle sinken nicht streng funktional
-alle sinken nicht streng funktionsfähig
 alles ablehnen
 alles abschalten
 alles abzulehnen ist nicht unbedingt notwendig
 alles ausschalten
-alles leugnen
 alles notwendige zulassen
 alles unnötige ablehnen
 alles verbieten
-an ort und stelle bleiben und ablehnen
 andere cookies ablehnen
-anderer meinung sein
 bestreiten
 bestritten
 cookies ablehnen
-cookies ablehnen, die nicht funktionieren
 cookies ablehnen, die nicht streng funktional sind
 cookies ablehnen, die nicht unbedingt erforderlich sind
 cookies deaktivieren
 cookies verbieten
-danke
 das notwendige genehmigen
 das will ich nicht
 deaktivieren
 deaktivieren sie tracking-cookies
 dem stimme ich nicht zu
 empfohlene cookies ablehnen
-entwickeln
 erlauben alle funktionsfähig
 erlaubt keine cookies
 ermöglicht funktional
-erweitern
 essentiell
 essentielle
 essentielle kekse
 essenzielle kekse
-expandieren
 fahren sie fort, ohne optionale cookies zu akzeptieren
 fahren sie mit dem notwendigen fort
 fahren sie nur mit notwendigen cookies fort
@@ -90,9 +75,6 @@ funktionalität akzeptieren
 funktionalität zulassen
 funktionell
 funktionell annehmen
-gehen sie auf die website und lehnen sie ab
-gehen sie zur website und lehnen sie ab
-genehmigung erforderlich
 gewährt nicht
 gibt keine erlaubnis
 ich akzeptiere alle funktionalen
@@ -146,18 +128,11 @@ ich stimme nicht zu
 ich stimme seinen bedingungen nicht zu
 ich will das nicht
 im widerspruch
-jede spüle nicht streng funktional
-jeder hat eine andere meinung
-jeder rückgang nicht streng funktional
 jegliche datennutzung ablehnen
 keine berechtigung
 keine cookies zulassen
 keine erlaubnis
 keine erlaubnis erteilen
-keine notwendigkeit zu leugnen
-keine notwendigkeit zu verweigern
-keine notwendigkeit, alles abzulehnen
-keine notwendigkeit, alles zu leugnen
 kekse ablehnen
 lehne alle optionalen ab
 lehne alles ab, was nicht absolut notwendig ist
@@ -165,14 +140,7 @@ lehne alles ab, was nicht funktioniert
 lehne alles ab, was nicht unbedingt notwendig ist
 lehnen sie ab und fahren sie mit der website fort
 lehnen sie alle datenverwendungen ab
-leugne alles unnötige
-leugnen
-leugnen nicht funktionsfähig
-leugnen nicht nötig
-leugnen und schließen
-leugnen und weitermachen
 lieber nicht
-lizenz erforderlich
 missbilligen
 mit notwendigen fortfahren
 nein
@@ -203,7 +171,6 @@ nicht unbedingt zwingend
 nicht zugestimmt
 nicht zulassen
 nicht zustimmen
-nichtfunktionale verweigerung
 nichts ausgewählt
 nichts auswählen
 notwendige cookies
@@ -218,7 +185,6 @@ nur erforderliche cookies akzeptieren
 nur erforderliche cookies erlauben
 nur erforderliche cookies zulassen
 nur erforderliche technologien akzeptieren
-nur erlaubt
 nur essentielle cookies
 nur essentielle cookies akzeptieren
 nur essentielle cookies zulassen
@@ -251,18 +217,12 @@ nur unbedingt notwendig
 nur unbedingt notwendig akzeptieren
 nur unbedingt notwendig zulassen
 nur wesentlich
-nutzlos ablehnen
 ohne cookie fortfahren
 ohne cookies fortfahren
 ohne empfohlene cookies fortfahren
-ok leugne alles
 ok verweigern
 ok, alles verneinen
-ok, leugne alles
 ok, verweigern
-okay leugnen
-okay, leugne alles
-okay, leugnen
 optionale cookies ablehnen
 reject all/alle ablehnen
 stimme allen nicht zu
@@ -293,7 +253,6 @@ verweigern und weitermachen
 verwenden sie nur basis-cookies
 verwenden sie nur funktionale cookies
 verwenden sie nur notwendige cookies
-vollkommen anderer meinung sein
 weiter (cookies ablehnen)
 weiter ohne optionale cookies zu akzeptieren
 weiter vor ort und ablehnen

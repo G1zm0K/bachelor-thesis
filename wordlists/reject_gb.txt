@@ -1,7 +1,6 @@
 accept all functional
 accept all necessary
 accept all that is necessary
-accept everything necessary
 accept functional
 accept functional only
 accept functionality
@@ -21,17 +20,9 @@ accept only the essentials
 accept only what is absolutely necessary
 accept only what is necessary
 accept only what is strictly necessary
-accept the feature
-accept the function
 accept whatever is necessary
-activate functionally
-agree refuse
-all decline not strictly functional
 all disagree
-all sink not strictly functional
-all sinks are not strictly functional
 allow all functional
-allow all functions
 allow all necessary
 allow everything necessary
 allow functional
@@ -52,23 +43,15 @@ allow only the essential
 allow only what is necessary
 allow only what is strictly necessary
 allows functional
-any decline not strictly functional
-any decline that is not strictly functional
-any sink not strictly functional
-approval required
 approve the necessary
-assume functional
-at variance
 authorize the necessary
 ban all cookies
 ban everything
-be of different opinion
 continue (deny cookies)
 continue (deny)
 continue (refuse cookies)
 continue (reject cookies)
 continue and deny
-continue in place and refuse
 continue on site and refuse
 continue only with necessary cookies
 continue to site and deny
@@ -78,7 +61,6 @@ continue without accepting optional cookies
 continue without cookie
 continue without cookies
 continue without recommended cookies
-d rather not
 deactivate
 deactivate all cookies
 deactivate cookies
@@ -105,15 +87,12 @@ deny and continue to site
 deny and move on
 deny anything unnecessary
 deny cookies
-deny does not work
-deny doesn't work
 deny everything
 deny everything unnecessary
 deny not functional
 deny not necessary
 deny not working
 deny recommended cookies
-develop
 disable
 disable all
 disable all cookies
@@ -131,10 +110,7 @@ disagree and continue
 disagree and leave
 disagree and move on
 disagree and proceed
-disagree and resign
 disagree with all
-disagreeing
-disagreement and exit
 disagrees
 disallow
 disallow all
@@ -152,41 +128,28 @@ do not give permission
 do not grant
 do not like to accept cookies
 do what is necessary
-does not agree
-does not allow cookies
-does not consent
-does not give permission
-does not grant
 don't accept
 don't agree with everything
 don't consent
 don't grant
 don't grant permission
-each sink is not strictly functional
 enable functional
 enables functional
 essential
-essential biscuits
 essential cookies
 essential cookies only
 essential only
 everybody has a different opinion
 everyone has a different opinion
-expand
-extend
 forbid
 forbidden
 functional
 functional cookies
-functionally activate
 gives no permission
 go to the site and decline
 go to the site and opt out
 go to the site and refuse
 go to the site and unsubscribe
-have a completely different opinion
-have a different opinion
-have to accept
 i accept all functional
 i accept all necessary
 i accept everything functional
@@ -195,10 +158,6 @@ i accept functional
 i accept necessary
 i accept only functional
 i accept only necessary
-i accept the feature
-i accept the function
-i accept the functionality
-i accept the job
 i accept the necessary
 i allow all functional
 i allow all necessary
@@ -216,7 +175,6 @@ i am not ok with this
 i approve all that is necessary
 i approve everything functional
 i approve everything necessary
-i approve everything works
 i approve of the necessary
 i approve the necessary
 i authorize everything functional
@@ -236,7 +194,6 @@ i do not agree to analysis cookies
 i do not agree to analytical cookies
 i do not agree to analytics cookies
 i do not agree to cookies
-i do not agree to his terms
 i do not agree to the terms
 i do not agree with analytical cookies
 i do not agree with it
@@ -245,14 +202,12 @@ i do not consent
 i do not consent to cookies
 i do not want that
 i don't accept anything
-i don't agree with his terms
 i don't agree with that
 i don't agree with the terms
 i don't consent
 i don't consent to cookies
 i don't give permission
 i dont want that
-i empower functionally
 i only accept functional
 i only accept necessary
 i only accept what is necessary
@@ -268,18 +223,13 @@ i refuse everything
 i reject
 i reject all
 i reject everything
-i take functional responsibility
 i'm not happy to accept cookies
 i'm not ok with analytics cookies
 i'm not ok with that
 i'm not ok with this
 im not happy to accept cookies
-in contradiction
-license required
-must accept
 necessary cookies
 necessary cookies only
-need to accept
 no
 no authorization
 no i do not agree
@@ -302,33 +252,24 @@ no, i just want minimal cookies right now
 no, i only want minimal cookies now
 no, thank you
 no, thanks
-non-functional refusal
-non-working denial
-nonfunctional denial
 not accepted
 not accepting
 not agree
 not agreed
-not all sinks are strictly functional
 not allow
 not allowed
 not fine
 not give permission
 not good
-not grant
 not granted
 not happy to accept cookies
-not necessarily mandatory
-not necessarily required
 not ok
 not okay
 not strictly necessary
-nothing selected
 object & cancel
 object and cancel
 object and continue
 object and proceed
-objection and resignation
 ok deny
 ok deny everything
 ok refuse
@@ -358,11 +299,9 @@ only accept what is necessary
 only allow basic cookies
 only allow essential
 only allow essential cookies
-only allow features
 only allow functional
 only allow functional cookies
 only allow functionality
-only allow functions
 only allow necessary cookies
 only allow required cookies
 only allow strictly functional
@@ -383,9 +322,7 @@ only use basic cookies
 only use essential cookies
 only use functional cookies
 only use necessary cookies
-opposition and resignation
 opt out of all data usage
-permit required
 proceed only with necessary cookies
 proceed to the site and decline
 proceed with necessary
@@ -423,13 +360,10 @@ refuse anything that is not strictly necessary
 refuse cookies
 refuse cookies that are not strictly functional
 refuse cookies that are not strictly necessary
-refuse cookies that do not work
-refuse cookies that don't work
 refuse everything
 refuse everything not functional
 refuse everything not necessary
 refuse everything that is not absolutely necessary
-refuse further cookies
 refuse non-essential cookies
 refuse non-functional
 refuse non-functional cookies
@@ -443,11 +377,9 @@ refuse not strictly functional
 refuse not strictly functional cookies
 refuse not strictly necessary
 refuse not strictly necessary cookies
-refuse not working
 refuse optional cookies
 refuse other cookies
 refuse recommended cookies
-refuse unnecessarily
 refuse unnecessary cookies
 refused
 reject
@@ -461,7 +393,6 @@ reject all optional cookies
 reject all unnecessary
 reject and close
 reject any use of data
-reject anything that doesn't work
 reject anything that is not absolutely necessary
 reject cookies
 reject cookies that do not work
@@ -469,13 +400,11 @@ reject everything
 reject everything that is not absolutely necessary
 reject everything unnecessary
 reject non-necessary
-reject non-working cookies
 reject optional cookies
 reject other cookies
 reject recommended cookies
 reject unnecessary
 reject unnecessary cookies
-reject useless
 rejected
 rejecting everything is not strictly necessary
 rejection
@@ -483,19 +412,7 @@ required cookies only
 required only
 select none
 select nothing
-stay in place and decline
-stay put and decline
 strictly functional only
-thanks
-to be of a different opinion
-to deny
-to disagree
-to disapprove
-to disapprove of
-to expand
-to forbid
-to have a different opinion
-to refuse
 totally disagree
 turn everything off
 turn off everything
@@ -503,5 +420,3 @@ turn off tracking cookies
 use basic cookies only
 use functional cookies only
 use necessary cookies only
-uselessly refuse
-waste
