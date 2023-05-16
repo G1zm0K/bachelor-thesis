@@ -269,10 +269,6 @@ oké, bedankt
 oké, begrepen
 oké, ik ben het ermee eens
 oké, mee eens
-opslaan
-opslaan + afsluiten
-opslaan en afsluiten
-opslaan op computer
 overeengekomen
 prima
 prima van mij, accepteer

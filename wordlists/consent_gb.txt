@@ -284,13 +284,6 @@ permission
 permit
 proceed and accept
 protect
-save
-save + exit
-save all
-save and close
-save everyone
-save everything
-save to computer
 select all
 select all and close
 select all and confirm

@@ -21,7 +21,14 @@ near
 never mind
 nevermind
 please accept cookies
+save
+save + exit
+save all
+save and close
+save everyone
+save everything
 save on computer
+save to computer
 surroundings
 switch
 thank you for accepting cookies

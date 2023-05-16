@@ -186,10 +186,6 @@ permettre essentiel et facultatif
 permettre et passer à autre chose
 permettre fonctionnel et facultatif
 permettre l'analyse
-sauvegarder
-sauvegarder sur ordinateur
-sauver et fermer
-sauver tous
 sortir et continuer
 sélectionner et valider tout
 sélectionner tout et valider

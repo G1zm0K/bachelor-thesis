@@ -1,0 +1,22 @@
+index,url,accept-found,accept-type,accept-text,reject-found,reject-type,reject-text,error
+0,https://www.example.org,True,button,accept all,True,button,reject all,
+0,https://www.google.nl,True,button,alles accepteren,True,button,alles afwijzen,False
+1,https://www.cwi.nl,False,,,False,,,False
+2,https://www.nu.nl,True,button,akkoord,False,,,False
+3,https://www.nos.nl,False,,,False,,,False
+4,https://www.uu.nl,False,,,False,,,False
+5,https://www.ad.nl,False,,,False,,,True
+6,https://www.telegraaf.nl,True,button,akkoord,False,,,False
+7,https://www.xs4all.nl,False,,,False,,,False
+8,https://www.tudelft.nl,True,a,ik ga akkoord,True,a,ik ga niet akkoord,False
+9,https://www.rug.nl,False,,,False,,,False
+10,https://www.uva.nl,True,button,accepteer alle cookies,False,,,False
+11,https://www.digid.nl,True,a,activeren,False,,,False
+12,https://www.rijksoverheid.nl,False,,,False,,,False
+13,https://www.utwente.nl,False,,,False,,,False
+14,https://www.marktplaats.nl,True,button,accepteren,False,,,False
+15,https://www.tue.nl,False,,,False,,,False
+16,https://www.vu.nl,True,button,accepteer alle cookies,False,,,False
+17,https://www.wur.nl,True,div,accepteer alle cookies,False,,,False
+18,https://www.ing.nl,False,,,False,,,False
+19,https://www.volkskrant.nl,True,button,akkoord,False,,,False

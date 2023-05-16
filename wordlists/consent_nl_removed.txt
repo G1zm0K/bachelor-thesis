@@ -58,6 +58,10 @@ oke. haar zien.
 okee. haar zien.
 omgeving
 omhoog gaan
+opslaan
+opslaan + afsluiten
+opslaan en afsluiten
+opslaan op computer
 over alles eens
 red iedereen
 redden
