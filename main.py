@@ -1,23 +1,31 @@
 from selenium import webdriver
 from make_list import make_wordlist
 from crawler import crawl
-
+import logging
 
 GLOBAL_SELECTOR = "a, button, div, span, form, p"
 ACCEPT_WORDS_LIST = "wordlists/consent_nl.txt"
-DENY_WORDS_LIST = "wordlists/reject_nl.txt"
+REJECT_WORDS_LIST = "wordlists/reject_nl.txt"
 WEBSITE_LIST = "websites/nl_minus_nl_original.txt"
 
+logging.basicConfig(filename='info_log.log', encoding='utf-8', level=logging.INFO)
+
+logging.info('Starting program...')
+
+logging.info('Making wordlists...')
 sites = make_wordlist(WEBSITE_LIST)
 accept_words_list = make_wordlist(ACCEPT_WORDS_LIST)
-deny_words_list = make_wordlist(DENY_WORDS_LIST)
-print("Wordlist created")
+reject_words_list = make_wordlist(REJECT_WORDS_LIST)
+logging.info('Wordlists created')
 
+logging.info('Starting driver...')
 driver = webdriver.Firefox()
-print("Driver started")
+logging.info('Driver started')
 
-print("Starting crawl...")
-crawl(driver, GLOBAL_SELECTOR, sites, accept_words_list, deny_words_list)
+logging.info('Starting crawl...')
+crawl(driver, GLOBAL_SELECTOR, sites, accept_words_list, reject_words_list)
+logging.info('Finished crawl')
 
-print("Crawl finished, shutting down")
+logging.info('Shutting down driver...')
 driver.quit()
+logging.info('Driver shut down')
