@@ -12,4 +12,3 @@ def find_banner(driver,selectors,words_list):
             logging.info('Element found: ' + str(e.tag_name) + ' with text: ' + str(e.text.lower().strip(" ✓›!\n>")))
             return(True,str(e.tag_name),str(e.text.lower().strip(" ✓›!\n>")))
     return(False,'','')
-            

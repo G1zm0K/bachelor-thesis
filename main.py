@@ -9,6 +9,8 @@ ACCEPT_WORDS_LIST = "wordlists/consent_nl.txt"
 REJECT_WORDS_LIST = "wordlists/reject_nl.txt"
 WEBSITE_LIST = "websites/test.txt"
 
+data = {}
+
 logging.basicConfig(filename='info_log.log', encoding='utf-8', level=logging.INFO)
 
 logging.info('Starting program...')

@@ -1,8 +1,3 @@
-https://www.google.nl
-https://www.cwi.nl
-https://www.nu.nl
-https://www.nos.nl
-https://www.uu.nl
 https://www.ad.nl
 https://www.telegraaf.nl
 https://www.xs4all.nl

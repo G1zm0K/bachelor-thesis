@@ -15,7 +15,9 @@ def crawl(driver, selectors, sites, accept_words_list, deny_words_list, data):
             driver.get(site)
             logging.info('Sleeping for 3 seconds')
             sleep(3)
-
+        except Exception:
+            logging.exception("An exception was thrown while loading the site:")
+        try:
             #Find the element that contains accept word
             logging.info('Finding consent element...')
             (accept_found,accept_type,accept_text) = find_banner(driver,selectors,accept_words_list)
@@ -61,8 +63,8 @@ def crawl(driver, selectors, sites, accept_words_list, deny_words_list, data):
                             'reject-found': reject_found, 'reject-type': reject_type, 'reject-text': reject_text, 'error': False}
             new_df = pd.DataFrame(new_entry, index=[0])
             df = pd.concat([df, new_df], ignore_index=True)
-        except:
-            logging.error('Something went wrong, trying next site')
+        except Exception:
+            logging.exception("An exception was thrown while crawling the site:")
             new_entry = {'index': index, 'url': site, 'accept-found': accept_found, 'accept-type': accept_type, 'accept-text': accept_text, 
                          'reject-found': reject_found, 'reject-type': reject_type, 'reject-text': reject_text, 'error': True}
             new_df = pd.DataFrame(new_entry, index=[0])
