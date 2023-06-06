@@ -1,0 +1,2084 @@
+index,url,accept-found,accept-type,accept-text,reject-found,reject-type,reject-text,error
+,,,,,,,,
+0,https://www.google.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+1,https://www.amazon.de,True,span,cookies akzeptieren,False,,,False
+2,https://www.spiegel.de,True,button,accept and continue,False,,,False
+3,https://www.t-online.de,True,button,akzeptieren und weiter,False,,,False
+4,https://www.ebay.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+5,https://www.bund.de,True,button,close,True,button,deny,False
+6,https://www.bild.de,True,button,alle akzeptieren,False,,,False
+7,https://www.welt.de,False,,,False,,,False
+8,https://www.ebay-kleinanzeigen.de,True,button,alle akzeptieren,False,,,False
+9,https://www.zeit.de,False,,,False,,,False
+10,https://www.ccc.de,False,,,False,,,False
+11,https://www.focus.de,True,button,akzeptieren,False,,,False
+12,https://www.mpg.de,False,,,False,,,False
+13,https://www.tagesschau.de,False,,,False,,,False
+14,https://www.sueddeutsche.de,True,button,ich bin einverstanden,False,,,False
+15,https://www.mobile.de,True,button,einverstanden,False,,,False
+16,https://www.n-tv.de,True,div,alle akzeptieren,False,,,False
+17,https://www.heise.de,True,div,zustimmen,False,,,False
+18,https://www.bahn.de,False,,,False,,,False
+19,https://www.siemens.de,False,,,False,,,False
+20,https://www.zdf.de,True,div,zustimmen,False,,,False
+21,https://www.web.de,False,,,False,,,False
+22,https://www.dhl.de,True,button,accept all,False,,,False
+23,https://www.goethe.de,False,,,False,,,False
+24,https://www.pinterest.de,False,,,False,,,False
+25,https://www.fraunhofer.de,False,,,False,,,False
+26,https://www.e-recht24.de,False,,,False,,,False
+27,https://www.gesetze-im-internet.de,False,,,False,,,False
+28,https://www.tagesspiegel.de,True,button,alle akzeptieren,False,,,False
+29,https://www.stern.de,True,button,zustimmen,False,,,False
+30,https://www.fu-berlin.de,False,,,False,,,False
+31,https://www.ndr.de,False,,,False,,,False
+32,https://www.tum.de,True,button,alle akzeptieren,True,div,essentiell,False
+33,https://www.uni-heidelberg.de,False,,,False,,,False
+34,https://www.arbeitsagentur.de,False,,,False,,,False
+35,https://www.bayern.de,True,div,zustimmen,True,div,ablehnen,False
+36,https://www.otto.de,True,button,ok,False,,,False
+37,https://www.uni-muenchen.de,False,,,False,,,False
+38,https://www.chip.de,True,button,alle akzeptieren,False,,,False
+39,https://www.wdr.de,False,,,False,,,False
+40,https://www.br.de,False,,,False,,,False
+41,https://www.transfermarkt.de,True,div,zustimmen,False,,,False
+42,https://www.berlin.de,True,div,zustimmen,False,,,True
+43,https://www.rtl.de,True,div,alle akzeptieren,False,,,False
+44,https://www.tu-dresden.de,False,,,False,,,False
+45,https://www.bundesregierung.de,True,button,alle auswählen,False,,,False
+46,https://www.diplo.de,True,button,einverstanden,False,,,False
+47,https://www.immobilienscout24.de,False,,,False,,,False
+48,https://www.uni-hamburg.de,False,,,False,,,False
+49,https://www.thomann.de,False,,,True,button,reject cookies,False
+50,https://www.rwth-aachen.de,True,button,accept,False,,,False
+51,https://www.bundestag.de,False,,,False,,,False
+52,https://www.nrw.de,False,,,False,,,False
+53,https://www.uni-koeln.de,False,,,False,,,False
+54,https://www.taz.de,True,a,"ja, ich will",True,button,alles ablehnen,False
+55,https://www.wetteronline.de,True,div,akzeptieren & schließen,False,,,False
+56,https://www.sport1.de,True,button,akzeptieren und weiter,False,,,False
+57,https://www.tu-berlin.de,False,,,False,,,False
+58,https://www.hu-berlin.de,True,span,zustimmen,True,span,ablehnen,False
+59,https://www.ardmediathek.de,False,,,False,,,False
+60,https://www.auswaertiges-amt.de,False,,,False,,,False
+61,https://www.rki.de,True,a,erlauben,True,a,nicht erlauben,False
+62,https://www.merkur.de,False,,,False,,,False
+63,https://www.mdr.de,False,,,False,,,False
+64,https://www.uni-bonn.de,False,,,False,,,False
+65,https://www.mediamarkt.de,True,button,alle zulassen,True,button,alle ablehnen,False
+66,https://www.adac.de,False,,,False,,,False
+67,https://www.idealo.de,True,div,alle akzeptieren,True,div,optionale cookies ablehnen,False
+68,https://www.dg-datenschutz.de,False,,,False,,,False
+69,https://www.destatis.de,True,button,akzeptieren,True,button,ablehnen,False
+70,https://www.rp-online.de,False,,,False,,,False
+71,https://www.uni-tuebingen.de,True,button,alle akzeptieren,True,div,essentiell,False
+72,https://www.deutschlandfunk.de,False,,,False,,,False
+73,https://www.swr.de,False,,,False,,,False
+74,https://www.uni-muenster.de,False,,,False,,,False
+75,https://www.kaufland.de,True,button,zustimmen,True,button,ablehnen,False
+76,https://www.uni-freiburg.de,False,,,False,,,False
+77,https://www.uni-frankfurt.de,True,button,allen zustimmen,True,button,ablehnen,False
+78,https://www.kicker.de,True,a,zustimmen & weiter,False,,,False
+79,https://www.lidl.de,True,button,zustimmen,True,button,ablehnen,False
+80,https://www.telekom.de,True,button,agree to all,True,button,only required,False
+81,https://www.uni-leipzig.de,False,,,False,,,False
+82,https://www.hessen.de,False,,,False,,,False
+83,https://www.wiwo.de,True,button,zustimmen,False,,,False
+84,https://www.presseportal.de,False,,,False,,,False
+85,https://www.uni-stuttgart.de,False,,,False,,,False
+86,https://www.freenet.de,True,button,akzeptieren und weiter,False,,,False
+87,https://www.giga.de,True,button,akzeptieren und weiter,False,,,False
+88,https://www.hamburg.de,True,a,schließen,True,button,alles ablehnen,False
+89,https://www.1und1.de,True,button,bestätigen,True,button,ablehnen,False
+90,https://www.uni-goettingen.de,True,button,zustimmen,True,button,nur notwendige funktionscookies akzeptieren,False
+91,https://www.rnd.de,False,,,False,,,False
+92,https://www.ionos.de,True,button,akzeptieren,True,button,ablehnen,False
+93,https://www.united-domains.de,True,button,allen zustimmen,True,a,ablehnen,False
+94,https://www.tripadvisor.de,True,div,akzeptieren,False,,,False
+95,https://www.fr.de,True,div,akzeptieren,False,,,True
+96,https://www.chefkoch.de,True,div,zustimmen,False,,,False
+97,https://www.stepstone.de,True,div,alles akzeptieren,False,,,False
+98,https://www.businessinsider.de,True,div,alle akzeptieren und weiterlesen,False,,,False
+99,https://www.postbank.de,False,,,False,,,False
+100,https://www.datenschutz-generator.de,False,,,False,,,True
+101,https://www.daad.de,True,div,alle akzeptieren,True,button,mit notwendigen fortfahren,False
+102,https://www.ihk.de,True,a,allow all,True,a,deny,False
+103,https://www.golem.de,False,,,False,,,False
+104,https://www.umweltbundesamt.de,True,a,zur webseite,True,button,ablehnen,False
+105,https://www.niedersachsen.de,False,,,False,,,False
+106,https://www.uni-mainz.de,False,,,False,,,False
+107,https://www.prosieben.de,False,,,False,,,False
+108,https://www.dlr.de,False,,,False,,,False
+109,https://www.tu-darmstadt.de,True,button,alle akzeptieren,False,,,False
+110,https://www.uni-hannover.de,False,,,False,,,False
+111,https://www.vodafone.de,True,button,alle akzeptieren,True,div,notwendige cookies,False
+112,https://www.deutschepost.de,True,button,allow all,False,,,False
+113,https://www.uni-bremen.de,True,button,akzeptieren,True,button,ablehnen,False
+114,https://www.rlp.de,False,,,False,,,False
+115,https://www.bundesgesundheitsministerium.de,True,a,alle cookies zulassen,False,,,False
+116,https://www.daserste.de,False,,,False,,,False
+117,https://www.morgenpost.de,True,span,alle akzeptieren,False,,,False
+118,https://www.ruhr-uni-bochum.de,False,,,False,,,False
+119,https://www.ing.de,False,,,False,,,False
+120,https://www.berliner-zeitung.de,True,div,zustimmen,False,,,False
+121,https://www.muenchen.de,False,,,False,,,False
+122,https://www.bmwi.de,True,button,alle bestätigen,False,,,False
+123,https://www.uni-trier.de,False,,,False,,,False
+124,https://www.zalando.de,False,,,True,a,deny,False
+125,https://www.bpb.de,False,,,False,,,False
+126,https://www.lieferando.de,False,,,False,,,False
+127,https://www.uni-bielefeld.de,False,,,False,,,False
+128,https://www.uni-kiel.de,True,a,verstanden,False,,,False
+129,https://www.rewe.de,True,button,erlauben,False,,,False
+130,https://www.t3n.de,False,,,False,,,False
+131,https://www.bundesfinanzministerium.de,True,div,einwilligen,True,div,ablehnen,False
+132,https://www.uni-due.de,False,,,False,,,False
+133,https://www.uni-regensburg.de,False,,,False,,,False
+134,https://www.thelocal.de,False,,,False,,,True
+135,https://www.uni-konstanz.de,False,,,False,,,False
+136,https://www.test.de,False,,,False,,,False
+137,https://www.joyclub.de,False,,,False,,,False
+138,https://www.winfuture.de,False,,,False,,,False
+139,https://www.gamestar.de,True,a,akzeptieren und weiter,False,,,False
+140,https://www.deutschlandfunkkultur.de,False,,,False,,,False
+141,https://www.bmbf.de,True,button,alle auswählen,False,,,False
+142,https://www.sachsen.de,True,div,verstanden,False,,,False
+143,https://www.uni-wuerzburg.de,False,,,False,,,False
+144,https://www.fes.de,True,button,alle auswählen,True,button,ablehnen,False
+145,https://www.online.de,False,,,False,,,False
+146,https://www.activemind.de,False,,,False,,,False
+147,https://www.computerbild.de,True,button,alle akzeptieren,False,,,False
+148,https://www.fau.de,True,p,alle akzeptieren,True,p,nur essentielle cookies akzeptieren,False
+149,https://www.linguee.de,True,div,accept all & visit the site,False,,,False
+150,https://www.ladies.de,True,button,alle akzeptieren,False,,,False
+151,https://www.markt.de,True,button,alle akzeptieren,False,,,True
+152,https://www.kfw.de,True,button,akzeptieren,False,,,False
+153,https://www.duden.de,True,button,akzeptieren und weiter,False,,,False
+154,https://www.autoscout24.de,True,a,einwilligung,False,,,False
+155,https://www.webspaceconfig.de,False,,,False,,,False
+156,https://www.check24.de,False,,,True,div,nur notwendige cookies,False
+157,https://www.eventbrite.de,True,button,accept cookies,True,button,decline,False
+158,https://www.baden-wuerttemberg.de,True,div,akzeptieren,False,,,False
+159,https://www.uni-saarland.de,True,button,analyse erlauben,True,button,nur notwendige cookies,False
+160,https://www.tk.de,True,a,alle auswählen und schließen,False,,,False
+161,https://www.tvnow.de,True,div,alle akzeptieren,False,,,False
+162,https://www.uni-jena.de,False,,,False,,,False
+163,https://www.spektrum.de,True,button,alle cookies akzeptieren,True,button,ablehnen aller nicht notwendigen cookies,False
+164,https://www.manager-magazin.de,True,button,accept and continue,False,,,False
+165,https://www.tz.de,False,,,False,,,False
+166,https://www.lmu.de,False,,,False,,,False
+167,https://www.giz.de,False,,,False,,,False
+168,https://www.uni-halle.de,False,,,False,,,False
+169,https://www.tu-chemnitz.de,False,,,False,,,False
+170,https://www.abendblatt.de,True,span,alle akzeptieren,False,,,False
+171,https://www.o2online.de,True,span,alle akzeptieren,False,,,True
+172,https://www.jameda.de,True,button,akzeptieren,True,button,ablehnen,False
+173,https://www.aok.de,True,button,alle akzeptieren,False,,,False
+174,https://www.uni-erlangen.de,True,p,alle akzeptieren,True,p,nur essentielle cookies akzeptieren,False
+175,https://www.avm.de,False,,,False,,,False
+176,https://www.tvspielfilm.de,True,button,akzeptieren,False,,,False
+177,https://www.augsburger-allgemeine.de,True,div,akzeptieren und weiter,False,,,False
+178,https://www.aerzteblatt.de,True,a,consent,True,button,allow only necessary cookies,False
+179,https://www.autobild.de,False,,,False,,,False
+180,https://www.thalia.de,True,form,alle cookies akzeptieren,True,form,nur funktionale cookies,False
+181,https://www.dpd.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+182,https://www.hornbach.de,False,,,False,,,False
+183,https://www.charite.de,False,,,False,,,False
+184,https://www.bmwk.de,True,button,alle bestätigen,False,,,False
+185,https://www.uni-kl.de,False,,,False,,,False
+186,https://www.immowelt.de,False,,,False,,,False
+187,https://www.express.de,True,button,akzeptieren und weiter,False,,,False
+188,https://www.eventim.de,True,span,akzeptieren,False,,,False
+189,https://www.meinestadt.de,True,div,alle akzeptieren,False,,,False
+190,https://www.ard.de,False,,,False,,,False
+191,https://www.bz-berlin.de,True,button,alle akzeptieren,False,,,False
+192,https://www.moviepilot.de,True,button,annehmen,False,,,False
+193,https://www.deutsche-rentenversicherung.de,False,,,False,,,False
+194,https://www.juraforum.de,True,div,alles akzeptieren,False,,,True
+195,https://www.saturn.de,True,button,alle zulassen,True,button,alle ablehnen,False
+196,https://www.derwesten.de,False,,,False,,,False
+197,https://www.stuttgarter-zeitung.de,False,,,False,,,False
+198,https://www.dm.de,False,,,False,,,True
+199,https://www.abload.de,True,button,accept all,True,button,decline,False
+200,https://www.doctolib.de,True,button,erlauben,True,button,ablehnen,False
+201,https://www.mydirtyhobby.de,False,,,False,,,False
+202,https://www.beepworld.de,False,,,False,,,False
+203,https://www.uni-mannheim.de,True,div,erlauben,True,div,ablehnen,False
+204,https://www.uni-kassel.de,True,div,ok,False,,,False
+205,https://www.your-server.de,False,,,False,,,False
+206,https://www.notebooksbilliger.de,False,,,False,,,False
+207,https://www.conrad.de,True,div,ja,True,div,nein,False
+208,https://www.netzwelt.de,True,div,akzeptieren und weiter,False,,,False
+209,https://www.vulkan-vegas.de,False,,,False,,,False
+210,https://www.ksta.de,True,button,akzeptieren und weiter,False,,,False
+211,https://www.uni-potsdam.de,False,,,False,,,False
+212,https://www.filmstarts.de,True,button,annehmen,False,,,False
+213,https://www.nordbayern.de,True,span,akzeptieren und weiterlesen,True,div,notwendige cookies,False
+214,https://www.tchibo.de,True,button,ok ✔,True,button,ablehnen,False
+215,https://www.dwd.de,False,,,False,,,False
+216,https://www.bundesnetzagentur.de,False,,,False,,,False
+217,https://www.ozerov.de,True,a,allow all,True,a,deny,False
+218,https://www.kas.de,True,a,speichern,False,,,False
+219,https://www.tag24.de,True,button,zustimmen,False,,,False
+220,https://www.mopo.de,False,,,False,,,False
+221,https://www.finanznachrichten.de,False,,,False,,,False
+222,https://www.badische-zeitung.de,False,,,False,,,False
+223,https://www.qrco.de,False,,,False,,,False
+224,https://www.uni-marburg.de,False,,,False,,,False
+225,https://www.tu-dortmund.de,False,,,False,,,False
+226,https://www.geo.de,False,,,False,,,False
+227,https://www.hessenschau.de,False,,,False,,,False
+228,https://www.elster.de,False,,,False,,,False
+229,https://www.uni-ulm.de,True,button,alle cookies akzeptieren,True,div,notwendige cookies,False
+230,https://www.uni-giessen.de,False,,,False,,,False
+231,https://www.rbb-online.de,False,,,False,,,False
+232,https://www.berlios.de,False,,,False,,,False
+233,https://www.berlinale.de,False,,,False,,,False
+234,https://www.nabu.de,False,,,False,,,False
+235,https://www.bundesbank.de,False,,,False,,,False
+236,https://www.haufe.de,False,,,False,,,False
+237,https://www.3sat.de,True,div,zustimmen,False,,,False
+238,https://www.nativendo.de,True,a,speichern,True,a,ablehnen,False
+239,https://www.uni-oldenburg.de,False,,,False,,,False
+240,https://www.sky.de,True,button,alle akzeptieren,True,button,nur notwendige cookies,False
+241,https://www.holidaycheck.de,False,,,True,button,ablehnen,False
+242,https://www.aol.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+243,https://www.computerbase.de,True,button,akzeptieren und weiter,False,,,False
+244,https://www.visitberlin.de,True,span,agree,True,a,reject,False
+245,https://www.hannovermesse.de,True,span,agree,True,a,reject,True
+246,https://www.auto-motor-und-sport.de,True,span,agree,True,a,reject,True
+247,https://www.obi.de,True,button,ok,True,button,ablehnen,False
+248,https://www.apotheken-umschau.de,True,div,ich stimme allem zu,False,,,False
+249,https://www.bafa.de,True,button,alle auswählen,False,,,False
+250,https://www.uni-bayreuth.de,False,,,False,,,False
+251,https://www.bmas.de,False,,,False,,,False
+252,https://www.verivox.de,True,button,alles akzeptieren,False,,,False
+253,https://www.ran.de,False,,,False,,,True
+254,https://www.mydealz.de,True,button,alle akzeptieren,False,,,False
+255,https://www.motor-talk.de,True,button,einverstanden,False,,,False
+256,https://www.vinted.de,True,button,alle zulassen,True,button,alle ablehnen,False
+257,https://www.brandenburg.de,False,,,False,,,False
+258,https://www.definicion.de,False,,,False,,,False
+259,https://www.strato.de,True,span,zustimmen und schließen,True,span,ablehnen,False
+260,https://www.brigitte.de,False,,,False,,,False
+261,https://www.stuttgarter-nachrichten.de,False,,,False,,,False
+262,https://www.uni-paderborn.de,False,,,False,,,False
+263,https://www.wallstreet-online.de,False,,,False,,,True
+264,https://www.jpc.de,True,div,yes,True,button,nur notwendige cookies,False
+265,https://www.rbb24.de,False,,,False,,,False
+266,https://www.boell.de,True,button,ok,True,button,"no, thank you",False
+267,https://www.utopia.de,True,button,zustimmen und weiter,False,,,False
+268,https://www.dfb.de,False,,,False,,,False
+269,https://www.pcgameshardware.de,True,button,akzeptieren und weiter,False,,,False
+270,https://www.hna.de,False,,,False,,,False
+271,https://www.bmfsfj.de,False,,,False,,,False
+272,https://www.audible.de,True,button,alle akzeptieren,True,button,weiter ohne optionale cookies zu akzeptieren,False
+273,https://www.wetter.de,False,,,False,,,False
+274,https://www.domainname.de,False,,,False,,,False
+275,https://www.trustedshops.de,True,button,akzeptieren,True,button,ablehnen,False
+276,https://www.gwdg.de,True,button,ok,False,,,False
+277,https://www.springerprofessional.de,True,div,akzeptieren und weiter,False,,,False
+278,https://www.juris.de,True,a,alles akzeptieren,False,,,False
+279,https://www.wg-gesucht.de,True,span,accept all,True,div,essential,False
+280,https://www.volkswagen.de,True,button,alle akzeptieren,True,button,optionale cookies ablehnen,False
+281,https://www.sportschau.de,False,,,False,,,False
+282,https://www.zdnet.de,True,button,annehmen und schließen,False,,,False
+283,https://www.bremen.de,False,,,False,,,False
+284,https://www.uni-karlsruhe.de,False,,,False,,,False
+285,https://www.denic.de,True,button,alle cookies akzeptieren,True,span,essentiell,False
+286,https://www.airbnb.de,True,button,alle cookies akzeptieren,True,span,essentiell,True
+287,https://www.waz.de,False,,,True,button,deny,False
+288,https://www.partnersuchefursingles.de,False,,,False,,,False
+289,https://www.vogel.de,True,span,accept and continue,False,,,False
+290,https://www.lycos.de,False,,,False,,,False
+291,https://www.edeka.de,True,button,aktivieren,True,button,nur notwendige technologien,False
+292,https://www.verbraucherzentrale.de,False,,,False,,,False
+293,https://www.mindfactory.de,True,span,zustimmen,True,a,ablehnen,False
+294,https://www.bafin.de,True,button,alle auswählen,False,,,False
+295,https://www.payback.de,True,button,alle cookies akzeptieren,True,button,nur notwendige cookies,False
+296,https://www.myhermes.de,False,,,False,,,False
+297,https://www.snafu.de,True,div,alle akzeptieren,True,div,ablehnen,False
+298,https://www.repelishd.de,False,,,False,,,False
+299,https://www.haz.de,False,,,False,,,False
+300,https://www.pcwelt.de,True,button,akzeptieren,False,,,False
+301,https://www.cyberport.de,False,,,False,,,False
+302,https://www.datawrapper.de,False,,,False,,,False
+303,https://www.nuernberg.de,True,a,cookies zulassen,False,,,False
+304,https://www.komoot.de,False,,,False,,,False
+305,https://www.dnb.de,True,button,alle auswählen,False,,,False
+306,https://www.infranken.de,True,div,akzeptieren und weiter,True,div,notwendige cookies,False
+307,https://www.xobor.de,True,button,alle akzeptieren,False,,,False
+308,https://www.philips.de,False,,,False,,,False
+309,https://www.kino.de,True,button,akzeptieren und weiter,False,,,True
+310,https://www.testberichte.de,False,,,False,,,False
+311,https://www.bertelsmann-stiftung.de,False,,,False,,,False
+312,https://www.dsgvo-gesetz.de,True,a,einwilligung,False,,,False
+313,https://www.sachsen-anhalt.de,False,,,False,,,False
+314,https://www.reservix.de,False,,,False,,,False
+315,https://www.uni-duesseldorf.de,False,,,False,,,False
+316,https://www.saechsische.de,True,div,akzeptieren und weiter,False,,,False
+317,https://www.schleswig-holstein.de,True,button,alle auswählen,False,,,False
+318,https://www.pornpics.de,False,,,False,,,False
+319,https://www.quoka.de,True,span,zustimmen & weiter,False,,,False
+320,https://www.dhm.de,True,button,alle auswählen,False,,,False
+321,https://www.uni-siegen.de,False,,,False,,,False
+322,https://www.hosteurope.de,True,button,schließen,False,,,False
+323,https://www.derstandard.de,True,button,einverstanden,False,,,False
+324,https://www.openpetition.de,False,,,False,,,False
+325,https://www.dfg.de,False,,,False,,,False
+326,https://www.swp.de,False,,,True,button,nicht erlauben,False
+327,https://www.gala.de,False,,,False,,,False
+328,https://www.allianz.de,True,button,akzeptieren,True,button,nur erforderliche cookies akzeptieren,False
+329,https://www.consorsbank.de,True,button,alle akzeptieren,True,button,nur notwendige cookies,False
+330,https://www.bundesverfassungsgericht.de,False,,,False,,,False
+331,https://www.personio.de,False,,,False,,,False
+332,https://www.buecher.de,True,p,akzeptieren,True,a,ablehnen,False
+333,https://www.fz-juelich.de,True,button,allen cookies zustimmen,False,,,False
+334,https://www.uni-rostock.de,False,,,False,,,False
+335,https://www.wunderweib.de,True,button,akzeptieren und weiter,False,,,False
+336,https://www.uni-osnabrueck.de,False,,,False,,,False
+337,https://www.audi.de,True,button,alle akzeptieren,False,,,False
+338,https://www.shz.de,True,button,alle akzeptieren,True,a,notwendige cookies,False
+339,https://www.bunte.de,True,button,akzeptieren,False,,,False
+340,https://www.aldi-sued.de,True,button,alle bestätigen,True,button,nur notwendige,False
+341,https://www.poppen.de,True,button,alles akzeptieren,False,,,False
+342,https://www.idw-online.de,True,div,accept all cookies,False,,,False
+343,https://www.tu-braunschweig.de,False,,,False,,,False
+344,https://www.skyscanner.de,True,button,ok,False,,,False
+345,https://www.pcgames.de,True,button,akzeptieren und weiter,False,,,False
+346,https://www.messe-stuttgart.de,False,,,False,,,False
+347,https://www.immonet.de,False,,,False,,,False
+348,https://www.netdoktor.de,False,,,False,,,False
+349,https://www.facebook.de,True,button,alle cookies erlauben,True,button,optionale cookies ablehnen,False
+350,https://www.hhu.de,False,,,False,,,False
+351,https://www.infektionsschutz.de,False,,,False,,,False
+352,https://www.wwf.de,False,,,False,,,False
+353,https://www.noz.de,True,button,alle akzeptieren,True,a,notwendige cookies,False
+354,https://www.rub.de,False,,,False,,,False
+355,https://www.laoda.de,False,,,False,,,False
+356,https://www.datev.de,True,button,alle cookies akzeptieren,True,button,nur erforderliche cookies,False
+357,https://www.onvista.de,True,button,alle cookies akzeptieren,True,button,nur erforderliche cookies,True
+358,https://www.fernuni-hagen.de,False,,,True,button,nur erforderliche cookies,True
+359,https://www.watson.de,True,button,akzeptieren und weiter,False,,,False
+360,https://www.uni-wuppertal.de,False,,,False,,,False
+361,https://www.sevdesk.de,True,div,alle akzeptieren,False,,,False
+362,https://www.dpma.de,False,,,False,,,False
+363,https://www.zoll.de,True,a,einwilligen,True,a,ablehnen,False
+364,https://www.4players.de,True,span,alle akzeptieren,False,,,False
+365,https://www.fernsehserien.de,False,,,False,,,False
+366,https://www.douglas.de,True,button,alle erlauben,True,button,nur unbedingt erforderlich,False
+367,https://www.concepto.de,False,,,False,,,False
+368,https://www.ahk.de,True,button,agree to all data uses,True,div,reject all data uses,False
+369,https://www.openstreetmap.de,False,,,False,,,False
+370,https://www.deutschland.de,True,button,agree to all,True,button,reject all,False
+371,https://www.abendzeitung-muenchen.de,True,button,akzeptieren,False,,,False
+372,https://www.vgwort.de,False,,,False,,,False
+373,https://www.computerwoche.de,True,button,ich stimme zu,True,button,ablehnen,False
+374,https://www.bvg.de,True,span,accept all,True,span,reject non-necessary,False
+375,https://www.drk.de,False,,,False,,,False
+376,https://www.thueringen.de,True,a,akzeptieren,True,a,ablehnen,False
+377,https://www.greenpeace.de,True,button,schließen,False,,,False
+378,https://www.sat1.de,False,,,False,,,False
+379,https://www.bmel.de,True,button,select all,False,,,False
+380,https://www.uni-greifswald.de,False,,,False,,,False
+381,https://www.mp3tag.de,False,,,False,,,False
+382,https://www.finanztip.de,True,span,alle erlauben und weiter,False,,,False
+383,https://www.bundeswehr.de,True,button,"ja, ich bin mit allen cookies einverstanden",False,,,False
+384,https://www.lexoffice.de,True,button,akzeptieren,False,,,False
+385,https://www.duesseldorf.de,False,,,False,,,False
+386,https://www.haendlerbund.de,True,span,accept all,True,span,reject all,False
+387,https://www.thieme.de,True,div,accept,True,div,reject,False
+388,https://www.nwzonline.de,False,,,False,,,False
+389,https://www.desy.de,True,button,ok,False,,,False
+390,https://www.zum.de,True,a,ok,False,,,False
+391,https://www.aboutyou.de,True,button,ok,True,button,reject,False
+392,https://www.fr-online.de,True,button,ok,True,button,reject,True
+393,https://www.uni-hohenheim.de,False,,,False,,,False
+394,https://www.beck.de,True,div,zustimmen,False,,,False
+395,https://www.englisch-hilfen.de,False,,,False,,,False
+396,https://www.aerztezeitung.de,True,div,akzeptieren und weiter,False,,,False
+397,https://www.adidas.de,True,div,akzeptieren und weiter,False,,,True
+398,https://www.pennergame.de,True,div,verstanden,False,,,False
+399,https://www.dastelefonbuch.de,True,a,akzeptieren,True,div,essentiell,False
+400,https://www.frankfurt.de,True,button,speichern,False,,,False
+401,https://www.bamf.de,True,button,alle auswählen,False,,,False
+402,https://www.suedkurier.de,False,,,False,,,False
+403,https://www.penguinrandomhouse.de,True,button,alles akzeptieren,True,button,ablehnen,False
+404,https://www.southpark.de,True,button,accept,True,button,reject,False
+405,https://www.ovgu.de,True,button,das ist ok,True,button,alle ablehnen,False
+406,https://www.blog.de,True,div,alle akzeptieren,True,div,ablehnen,False
+407,https://www.anwalt.de,True,a,consent,True,button,use necessary cookies only,False
+408,https://www.it-recht-kanzlei.de,False,,,False,,,False
+409,https://www.bundesgerichtshof.de,False,,,False,,,False
+410,https://www.weser-kurier.de,True,span,accept all,False,,,False
+411,https://www.dresden.de,True,a,cookies erlauben,True,a,cookies ablehnen,False
+412,https://www.pik-potsdam.de,False,,,False,,,False
+413,https://www.nw.de,True,span,accept all,True,span,reject all,False
+414,https://www.girogate.de,False,,,False,,,False
+415,https://www.gbv.de,False,,,False,,,False
+416,https://www.berliner-sparkasse.de,True,a,zustimmen,True,a,ablehnen,False
+417,https://www.bike-discount.de,False,,,False,,,False
+418,https://www.dguv.de,False,,,False,,,False
+419,https://www.mein-mmo.de,False,,,False,,,False
+420,https://www.uni-augsburg.de,False,,,False,,,False
+421,https://www.tu-bs.de,False,,,False,,,False
+422,https://www.freitag.de,True,button,alle akzeptieren,False,,,False
+423,https://www.bmuv.de,False,,,False,,,False
+424,https://www.fnp.de,False,,,False,,,False
+425,https://www.bfarm.de,True,p,ok,False,,,False
+426,https://www.bmz.de,True,p,ok,False,,,True
+427,https://www.mein-datenschutzbeauftragter.de,True,p,ich stimme zu,False,,,False
+428,https://www.bmw.de,False,,,False,,,False
+429,https://www.leipzig.de,False,,,False,,,False
+430,https://www.planet-wissen.de,False,,,False,,,False
+431,https://www.bonprix.de,True,button,ok,False,,,False
+432,https://www.bibb.de,True,p,ok,False,,,False
+433,https://www.gettyimages.de,False,,,False,,,False
+434,https://www.thieme-connect.de,True,div,accept,True,div,reject,False
+435,https://www.medimops.de,True,button,alle akzeptieren,False,,,False
+436,https://www.aldi-nord.de,False,,,False,,,False
+437,https://www.eis.de,False,,,False,,,False
+438,https://www.bvb.de,False,,,False,,,False
+439,https://www.mmoga.de,False,,,False,,,False
+440,https://www.pwc.de,True,button,agree to all,True,button,reject all,False
+441,https://www.uni-bamberg.de,False,,,False,,,False
+442,https://www.pnp.de,False,,,True,button,deny,False
+443,https://www.spreadshirt.de,True,div,einverstanden,True,a,ablehnen,False
+444,https://www.th-koeln.de,False,,,False,,,False
+445,https://www.mercedes-benz.de,False,,,False,,,False
+446,https://www.studysmarter.de,True,div,alle cookies akzeptieren,False,,,False
+447,https://www.din.de,True,button,alle auswählen,False,,,True
+448,https://www.freiepresse.de,True,div,alle akzeptieren,False,,,False
+449,https://www.karrierebibel.de,False,,,False,,,False
+450,https://www.saarland.de,False,,,False,,,False
+451,https://www.awi.de,False,,,False,,,False
+452,https://www.diw.de,False,,,False,,,False
+453,https://www.eurosport.de,False,,,False,,,True
+454,https://www.tu-ilmenau.de,False,,,False,,,False
+455,https://www.surveymonkey.de,True,button,alle cookies akzeptieren,True,button,alle cookies ablehnen,False
+456,https://www.stuttgart.de,False,,,False,,,False
+457,https://www.uni-passau.de,True,div,alle akzeptieren,True,div,essentiell,False
+458,https://www.glassdoor.de,True,button,cookies akzeptieren,True,button,alle ablehnen,False
+459,https://www.fussball.de,False,,,False,,,False
+460,https://www.clever-tanken.de,True,div,alle akzeptieren,True,a,ablehnen,False
+461,https://www.verdi.de,True,span,accept all,True,span,reject all,False
+462,https://www.picclick.de,False,,,False,,,False
+463,https://www.deutsche-bank.de,False,,,False,,,False
+464,https://www.uni-sb.de,False,,,False,,,False
+465,https://www.deraktionaer.de,False,,,False,,,False
+466,https://www.lvz.de,False,,,False,,,False
+467,https://www.expedia.de,True,button,alle akzeptieren,True,button,alles ablehnen,False
+468,https://www.bgbl.de,False,,,False,,,False
+469,https://www.deutsches-museum.de,True,button,zustimmen,True,button,ablehnen,False
+470,https://www.fotocommunity.de,True,span,accept all,True,span,reject all,False
+471,https://www.rossmann.de,True,span,accept all,True,span,reject all,True
+472,https://www.hannover.de,True,button,zustimmen,True,button,alles ablehnen,False
+473,https://www.hetzner.de,True,button,alle cookies erlauben,False,,,False
+474,https://www.zentrum-der-gesundheit.de,True,span,accept all,True,span,reject all,False
+475,https://www.oktoberfest.de,False,,,False,,,False
+476,https://www.uni-magdeburg.de,True,button,das ist ok,True,button,alle ablehnen,False
+477,https://www.capital.de,True,button,zustimmen,False,,,False
+478,https://www.geizhals.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+479,https://www.wn.de,False,,,True,button,deny,False
+480,https://www.sport.de,False,,,False,,,False
+481,https://www.stadt-bremerhaven.de,True,span,accept all,False,,,False
+482,https://www.schwaebische.de,True,a,zustimmung,True,button,ablehnen,False
+483,https://www.wz.de,False,,,False,,,False
+484,https://www.citypopulation.de,True,a,got it,False,,,False
+485,https://www.weltbild.de,False,,,False,,,False
+486,https://www.jugendherberge.de,False,,,False,,,False
+487,https://www.saarbruecker-zeitung.de,False,,,False,,,False
+488,https://www.dkb.de,True,button,alle annehmen,True,button,alle ablehnen,False
+489,https://www.tuhh.de,True,button,akzeptieren,True,button,ablehnen,False
+490,https://www.kreiszeitung.de,False,,,False,,,False
+491,https://www.xxxlutz.de,True,div,alle cookies akzeptieren,False,,,False
+492,https://www.brak.de,True,button,alle erlauben,True,div,notwendige cookies,False
+493,https://www.wetterzentrale.de,False,,,False,,,False
+494,https://www.pei.de,False,,,False,,,False
+495,https://www.geheimnisvolle-frauen.de,False,,,False,,,False
+496,https://www.tichyseinblick.de,False,,,False,,,False
+497,https://www.autodoc.de,True,a,alle cookies erlauben,True,a,alle cookies ablehnen,False
+498,https://www.tu-clausthal.de,True,button,alle cookies akzeptieren,True,button,alle cookies ablehnen,False
+499,https://www.pearl.de,True,span,akzeptieren,True,span,nur essenzielle cookies zulassen,False
+500,https://www.tvmovie.de,True,button,akzeptieren und weiter,False,,,False
+501,https://www.bzga.de,False,,,False,,,False
+502,https://www.schwarzwaelder-bote.de,False,,,False,,,False
+503,https://www.stadt-koeln.de,False,,,False,,,False
+504,https://www.ticketmaster.de,True,div,accept cookies,True,div,reject all,False
+505,https://www.tipico.de,True,a,erlaubnis,False,,,False
+506,https://www.fefe.de,False,,,False,,,False
+507,https://www.bundesrat.de,True,p,schließen,False,,,False
+508,https://www.t1p.de,False,,,False,,,False
+509,https://www.dfn.de,False,,,False,,,False
+510,https://www.mainpost.de,True,div,akzeptieren und weiter,False,,,False
+511,https://www.wissenschaft.de,False,,,False,,,False
+512,https://www.ubuntuusers.de,False,,,False,,,False
+513,https://www.alditalk-kundenbetreuung.de,True,button,akzeptieren,True,button,ablehnen,False
+514,https://www.domainmarkt.de,False,,,False,,,False
+515,https://www.bka.de,True,button,alle auswählen,False,,,False
+516,https://www.dasoertliche.de,True,a,akzeptieren,True,div,essentiell,False
+517,https://www.humboldt-foundation.de,True,div,ok,False,,,False
+518,https://www.jungewelt.de,True,a,zur webseite,False,,,False
+519,https://www.pressebox.de,True,span,accept all,False,,,False
+520,https://www.ptb.de,False,,,False,,,False
+521,https://www.impressum-generator.de,False,,,False,,,False
+522,https://www.ruhrnachrichten.de,True,span,alle akzeptieren,True,span,alles ablehnen,False
+523,https://www.creditreform.de,False,,,False,,,False
+524,https://www.alternate.de,False,,,False,,,False
+525,https://www.gmx.de,False,,,False,,,False
+526,https://www.piqs.de,False,,,False,,,False
+527,https://www.posteo.de,False,,,False,,,False
+528,https://www.reichelt.de,True,button,zustimmen,True,button,nur notwendige cookies,False
+529,https://www.karlsruhe.de,True,button,alle zulassen,True,button,ablehnen,False
+530,https://www.commerzbank.de,True,div,alle akzeptieren,False,,,False
+531,https://www.cornelsen.de,False,,,True,a,ablehnen,False
+532,https://www.gq-magazin.de,True,div,akzeptieren,True,div,fortfahren ohne zu akzeptieren,False
+533,https://www.finya.de,True,a,annehmen,True,a,alle ablehnen,False
+534,https://www.bfs.de,False,,,False,,,False
+535,https://www.sparkasse.de,True,div,ich stimme zu,False,,,False
+536,https://www.uni-weimar.de,False,,,False,,,False
+537,https://www.ftd.de,True,p,alle akzeptieren,True,p,nur essenzielle cookies akzeptieren,False
+538,https://www.hrs.de,True,div,alle cookies akzeptieren,False,,,False
+539,https://www.vattenfall.de,True,div,schließen,True,span,optionale cookies ablehnen,False
+540,https://www.rhein-zeitung.de,True,button,akzeptieren,False,,,False
+541,https://www.mueller.de,False,,,False,,,False
+542,https://www.baua.de,True,p,ok,False,,,False
+543,https://www.europapark.de,True,div,i agree,True,div,reject all,False
+544,https://www.epochtimes.de,True,button,alle zulassen,True,button,ablehnen,False
+545,https://www.zkm.de,True,div,alle cookies akzeptieren,False,,,False
+546,https://www.volksstimme.de,True,div,akzeptieren und weiter,False,,,False
+547,https://www.spd.de,True,div,close,False,,,False
+548,https://www.htw-berlin.de,True,button,alle cookies akzeptieren,False,,,False
+549,https://www.pc-magazin.de,True,div,akzeptieren und weiter,False,,,False
+550,https://www.ifw-kiel.de,True,button,agree to all cookies,False,,,False
+551,https://www.pokewiki.de,False,,,False,,,False
+552,https://www.android-hilfe.de,True,div,zustimmen,False,,,False
+553,https://www.rundschau-online.de,True,button,akzeptieren und weiter,False,,,False
+554,https://www.berliner-kurier.de,True,div,zustimmen,False,,,False
+555,https://www.wieistmeineip.de,True,div,alle akzeptieren,False,,,False
+556,https://www.swr3.de,False,,,False,,,False
+557,https://www.hypovereinsbank.de,True,button,alle akzeptieren,False,,,False
+558,https://www.lto.de,True,a,consent,True,button,use necessary cookies only,False
+559,https://www.dgb.de,False,,,False,,,False
+560,https://www.billiger.de,True,div,zustimmen,False,,,False
+561,https://www.lvr.de,True,button,alle cookies akzeptieren,True,div,notwendige cookies,False
+562,https://www.digitale-sammlungen.de,False,,,False,,,False
+563,https://www.bosch.de,False,,,False,,,False
+564,https://www.thueringer-allgemeine.de,True,span,alle akzeptieren,False,,,False
+565,https://www.deutsche-wirtschafts-nachrichten.de,False,,,False,,,False
+566,https://www.dge.de,True,button,speichern,True,button,alle cookies ablehnen,False
+567,https://www.hpi.de,True,button,cookies akzeptieren,True,button,alle ablehnen,False
+568,https://www.news.de,True,span,accept all,False,,,False
+569,https://www.biontech.de,True,button,alle cookies akzeptieren,True,button,alle ablehnen,False
+570,https://www.dwds.de,False,,,False,,,False
+571,https://www.wuv.de,False,,,False,,,False
+572,https://www.teltarif.de,False,,,False,,,True
+573,https://www.mittelbayerische.de,False,,,False,,,False
+574,https://www.pic-upload.de,True,button,alle akzeptieren,True,button,nur essenzielle cookies akzeptieren,False
+575,https://www.aktion-mensch.de,True,button,"ja, ich stimme zu",False,,,False
+576,https://www.barmer.de,True,a,cookies zulassen,True,a,ablehnen,False
+577,https://www.rmv.de,False,,,False,,,False
+578,https://www.cylex.de,True,span,accept all,False,,,False
+579,https://www.homepagemodules.de,False,,,False,,,False
+580,https://www.haw-hamburg.de,True,a,alle akzeptieren,False,,,False
+581,https://www.glamour.de,True,div,akzeptieren,True,div,fortfahren ohne zu akzeptieren,False
+582,https://www.hardwareluxx.de,False,,,False,,,False
+583,https://www.gamepro.de,False,,,False,,,False
+584,https://www.gfz-potsdam.de,True,a,zustimmen,True,a,nicht zustimmen,False
+585,https://www.freenet-mobilfunk.de,True,p,gut,False,,,False
+586,https://www.soscisurvey.de,False,,,False,,,False
+587,https://www.aachener-zeitung.de,False,,,False,,,False
+588,https://www.dkfz.de,True,button,accept all,False,,,False
+589,https://www.ga.de,False,,,True,button,ablehnen,False
+590,https://www.louis.de,True,div,alle annehmen,False,,,False
+591,https://www.home24.de,False,,,False,,,False
+592,https://www.maz-online.de,False,,,False,,,False
+593,https://www.rosalux.de,False,,,False,,,False
+594,https://www.rheinpfalz.de,False,,,False,,,False
+595,https://www.lecker.de,True,button,akzeptieren und weiter,False,,,False
+596,https://www.kanzlei-hasselbach.de,True,span,accept all,True,span,reject all,False
+597,https://www.ariva.de,True,div,akzeptieren und weiter,True,span,reject all,True
+598,https://www.unicef.de,False,,,False,,,False
+599,https://www.hr-online.de,False,,,False,,,False
+600,https://www.sixt.de,False,,,False,,,False
+601,https://www.berliner-philharmoniker.de,False,,,False,,,False
+602,https://www.pixelio.de,False,,,False,,,True
+603,https://www.toom.de,False,,,False,,,False
+604,https://www.freiburg.de,True,button,alles akzeptieren,True,button,ablehnen,False
+605,https://www.buffed.de,True,button,akzeptieren und weiter,False,,,False
+606,https://www.quarks.de,True,p,alle akzeptieren,True,p,nur essenzielle cookies akzeptieren,False
+607,https://www.munich-airport.de,True,span,select all,True,p,nur essenzielle cookies akzeptieren,True
+608,https://www.gabler.de,True,button,accept all cookies,False,,,False
+609,https://www.spieletipps.de,True,button,akzeptieren und weiter,False,,,False
+610,https://www.metager.de,False,,,False,,,False
+611,https://www.paydirekt.de,True,button,cookies akzeptieren,False,,,False
+612,https://www.dfki.de,False,,,False,,,False
+613,https://www.opodo.de,True,button,akzeptieren & schließen,True,button,ablehnen und schließen,False
+614,https://www.deutschlandfunknova.de,False,,,True,span,verboten,False
+615,https://www.leuphana.de,False,,,False,,,False
+616,https://www.inside-digital.de,True,button,akzeptieren und weiter,False,,,False
+617,https://www.datenschutz.de,False,,,False,,,False
+618,https://www.cleverreach.de,False,,,False,,,False
+619,https://www.chemie.de,True,span,accept all,False,,,False
+620,https://www.adfc.de,True,a,cookies zulassen,False,,,False
+621,https://www.decathlon.de,True,button,alle akzeptieren,True,button,notwendige cookies,False
+622,https://www.ostsee-zeitung.de,False,,,False,,,False
+623,https://www.epubli.de,False,,,False,,,False
+624,https://www.rebuy.de,False,,,True,button,nur notwendige cookies verwenden,False
+625,https://www.eon.de,False,,,False,,,False
+626,https://www.bergfreunde.de,True,div,alle auswählen,False,,,False
+627,https://www.nebenan.de,True,div,ich stimme zu,True,button,notwendige cookies,False
+628,https://www.gelbeseiten.de,True,a,akzeptieren,True,div,essentiell,False
+629,https://www.uol.de,False,,,False,,,False
+630,https://www.unesco.de,True,button,"ja, ich bin mit allen cookies einverstanden",False,,,False
+631,https://www.deref-web.de,False,,,False,,,False
+632,https://www.reitschuster.de,False,,,False,,,True
+633,https://www.bundesarchiv.de,True,div,ok,False,,,False
+634,https://www.pharmazeutische-zeitung.de,True,span,alle akzeptieren,False,,,False
+635,https://www.bueroshop24.de,False,,,False,,,False
+636,https://www.sephora.de,True,button,alle akzeptieren,False,,,False
+637,https://www.deutsche-digitale-bibliothek.de,True,button,ich stimme zu,True,button,ich lehne ab,False
+638,https://www.docmorris.de,True,span,ok,True,a,nicht zustimmen,False
+639,https://www.fc-moto.de,True,div,zustimmen,False,,,False
+640,https://www.galeria.de,False,,,False,,,False
+641,https://www.boeckler.de,True,button,alles akzeptieren,True,div,essentiell,False
+642,https://www.steuer-web.de,False,,,False,,,False
+643,https://www.lima-city.de,False,,,False,,,False
+644,https://www.kopp-verlag.de,True,button,alle akzeptieren,False,,,False
+645,https://www.bundespraesident.de,False,,,False,,,False
+646,https://www.westermann.de,True,form,alle akzeptieren,False,,,False
+647,https://www.kn-online.de,False,,,False,,,False
+648,https://www.mz-web.de,False,,,False,,,False
+649,https://www.scinexx.de,True,div,zustimmen,False,,,False
+650,https://www.buchmesse.de,True,button,accept all,True,button,only necessary cookies,False
+651,https://www.ifo.de,False,,,False,,,False
+652,https://www.jungefreiheit.de,False,,,False,,,False
+653,https://www.com.de,False,,,False,,,False
+654,https://www.berlin-airport.de,False,,,False,,,False
+655,https://www.uniklinik-freiburg.de,False,,,False,,,False
+656,https://www.kbv.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+657,https://www.peek-cloppenburg.de,True,div,ich stimme zu,False,,,False
+658,https://www.disclaimer.de,True,span,ok,False,,,False
+659,https://www.michaelbach.de,False,,,False,,,False
+660,https://www.caseking.de,False,,,False,,,False
+661,https://www.aida.de,True,button,alle auswählen,False,,,False
+662,https://www.galaxus.de,True,button,alle akzeptieren,False,,,False
+663,https://www.unipark.de,False,,,False,,,False
+664,https://www.donaukurier.de,False,,,True,button,deny,False
+665,https://www.boerse-frankfurt.de,False,,,True,button,deny,True
+666,https://www.ekd.de,True,button,bestätigen,False,,,False
+667,https://www.moz.de,False,,,True,button,ablehnen,False
+668,https://www.mastercard.de,True,button,cookies akzeptieren,True,button,alle ablehnen,False
+669,https://www.dortmund.de,True,div,schließen,False,,,False
+670,https://www.cicero.de,True,button,alle akzeptieren,False,,,False
+671,https://www.oekotest.de,True,button,zustimmen und weiter,False,,,False
+672,https://www.zooplus.de,False,,,True,button,nur erforderliche cookies,False
+673,https://www.manualslib.de,True,div,accept all & visit the site,False,,,False
+674,https://www.nd-aktuell.de,False,,,False,,,False
+675,https://www.wdrmaus.de,False,,,False,,,False
+676,https://www.eurogamer.de,True,button,akzeptieren und weiter,False,,,False
+677,https://www.koeln.de,True,a,consent,True,button,use necessary cookies only,False
+678,https://www.schule.de,False,,,False,,,False
+679,https://www.bluray-disc.de,True,span,accept all,False,,,True
+680,https://www.ostfalia.de,True,a,verstanden,False,,,False
+681,https://www.targobank.de,False,,,False,,,False
+682,https://www.vogue.de,True,div,akzeptieren,True,div,fortfahren ohne zu akzeptieren,False
+683,https://www.universalschlichtungsstelle.de,True,button,alle cookies akzeptieren,True,button,alle cookies ablehnen,False
+684,https://www.giropay.de,True,div,cookies akzeptieren,False,,,False
+685,https://www.netid.de,False,,,False,,,False
+686,https://www.eatsmarter.de,True,button,akzeptieren und weiter,False,,,False
+687,https://www.comdirect.de,True,div,alle akzeptieren,False,,,False
+688,https://www.sony.de,True,button,alle cookies akzeptieren,True,button,alle cookies ablehnen,False
+689,https://www.gep.de,False,,,False,,,False
+690,https://www.groupon.de,True,div,schließen,True,button,alle ablehnen,False
+691,https://www.checkdomain.de,True,span,accept all,True,span,reject all,False
+692,https://www.ligainsider.de,False,,,False,,,False
+693,https://www.privatelink.de,False,,,False,,,False
+694,https://www.christ.de,False,,,True,button,verbieten,False
+695,https://www.booklooker.de,False,,,False,,,False
+696,https://www.katholisch.de,True,a,cookies erlauben,True,a,cookies ablehnen,False
+697,https://www.mtb-news.de,True,div,akzeptieren und weiter,False,,,False
+698,https://www.iwkoeln.de,True,p,ok,False,,,False
+699,https://www.deutsche-apotheker-zeitung.de,True,span,accept and continue,False,,,False
+700,https://www.gruenderszene.de,True,div,alle akzeptieren und weiterlesen,False,,,False
+701,https://www.helpster.de,True,div,zustimmen,False,,,False
+702,https://www.promiflash.de,False,,,False,,,False
+703,https://www.openpr.de,True,span,alles akzeptieren,True,span,alles ablehnen,False
+704,https://www.cinemaxxl.de,True,button,agree and proceed,False,,,False
+705,https://www.iamexpat.de,True,div,accept all,False,,,False
+706,https://www.berlinerfestspiele.de,True,button,alle cookies akzeptieren,False,,,False
+707,https://www.uni-dortmund.de,False,,,False,,,False
+708,https://www.kaufda.de,False,,,False,,,False
+709,https://www.op-online.de,False,,,False,,,False
+710,https://www.deutschlandradio.de,False,,,False,,,False
+711,https://www.embl.de,False,,,False,,,False
+712,https://www.hugendubel.de,False,,,False,,,False
+713,https://www.dlrg.de,True,button,einverstanden,True,button,nicht einverstanden,False
+714,https://www.johanniter.de,False,,,False,,,False
+715,https://www.kochbar.de,True,div,alle akzeptieren,False,,,False
+716,https://www.wayfair.de,True,div,alle cookies akzeptieren,False,,,False
+717,https://www.parfumo.de,True,div,alle cookies akzeptieren,False,,,True
+718,https://www.werder.de,True,a,alle cookies zulassen,False,,,False
+719,https://www.laut.de,True,div,akzeptieren & schließen,False,,,False
+720,https://www.tvtoday.de,True,button,akzeptieren,False,,,False
+721,https://www.emp.de,False,,,True,span,nicht zustimmen,False
+722,https://www.sma.de,True,button,alle cookies akzeptieren,True,button,alle cookies ablehnen,False
+723,https://www.iubh.de,False,,,False,,,False
+724,https://www.mtv.de,True,button,accept,True,button,reject,False
+725,https://www.mz.de,True,div,akzeptieren und weiter,False,,,False
+726,https://www.nuerburgring.de,True,div,accept all cookies,True,div,refuse,False
+727,https://www.jtl-software.de,True,button,alle akzeptieren,False,,,False
+728,https://www.hoerzu.de,True,div,alle akzeptieren,False,,,False
+729,https://www.boerse.de,True,div,alle akzeptieren,False,,,True
+730,https://www.westfalen-blatt.de,False,,,False,,,False
+731,https://www.dak.de,False,,,False,,,False
+732,https://www.fewo-direkt.de,True,button,alle akzeptieren,True,button,alles ablehnen,False
+733,https://www.dwdl.de,True,div,zustimmen,True,div,ablehnen,False
+734,https://www.metro.de,True,button,alle cookies akzeptieren,True,button,alles ablehnen,False
+735,https://www.gofeminin.de,False,,,False,,,False
+736,https://www.caritas.de,False,,,True,button,nicht zustimmen,False
+737,https://www.serienjunkies.de,False,,,False,,,False
+738,https://www.bnn.de,False,,,False,,,False
+739,https://www.flixbus.de,False,,,False,,,False
+740,https://www.smartredirect.de,False,,,False,,,False
+741,https://www.intel.de,True,button,cookies aktivieren,True,button,cookies deaktivieren,False
+742,https://www.gehalt.de,True,div,alles akzeptieren,False,,,False
+743,https://www.trivago.de,True,button,alle zulassen,True,button,nur essentielle cookies,False
+744,https://www.ingame.de,False,,,False,,,False
+745,https://www.podcast.de,False,,,False,,,False
+746,https://www.canon.de,True,button,akzeptieren,True,button,ablehnen,False
+747,https://www.rnz.de,False,,,False,,,False
+748,https://www.tuev-sued.de,True,button,alle cookies akzeptieren,True,button,alle ablehnen,False
+749,https://www.suhrkamp.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+750,https://www.ergo.de,True,div,alle akzeptieren,True,a,nicht zustimmen,False
+751,https://www.helios-gesundheit.de,True,a,consent,True,button,only essential cookies,False
+752,https://www.wa.de,False,,,False,,,False
+753,https://www.bonn.de,True,button,alle cookies akzeptieren,True,button,nur notwendige cookies,False
+754,https://www.voelkner.de,True,div,ich akzeptiere alle cookies,True,div,alle ablehnen,False
+755,https://www.kicktipp.de,True,button,zustimmen,False,,,False
+756,https://www.meedia.de,False,,,False,,,False
+757,https://www.wiley-vch.de,True,button,alle akzeptieren,True,button,alles ablehnen,False
+758,https://www.visa.de,True,a,akzeptieren,True,a,alle ablehnen,False
+759,https://www.gesetze-bayern.de,False,,,False,,,False
+760,https://www.schalke04.de,False,,,False,,,False
+761,https://www.nachdenkseiten.de,True,button,akzeptieren,True,button,ablehnen,False
+762,https://www.mvv-muenchen.de,True,a,ok,False,,,False
+763,https://www.robinwieruch.de,False,,,False,,,False
+764,https://www.hubspot.de,True,button,cookies zulassen,True,button,ablehnen,False
+765,https://www.hs-augsburg.de,False,,,False,,,False
+766,https://www.elmastudio.de,True,button,akzeptieren,True,button,ablehnen,False
+767,https://www.bfn.de,False,,,False,,,False
+768,https://www.congstar.de,False,,,False,,,False
+769,https://www.globetrotter.de,True,button,allow all cookies,False,,,False
+770,https://www.gold.de,True,button,zustimmen und weiter,False,,,True
+771,https://www.h-da.de,True,button,alle zulassen,True,button,ablehnen,False
+772,https://www.vox.de,True,div,alle akzeptieren,False,,,False
+773,https://www.northdata.de,True,span,accept all,False,,,False
+774,https://www.sr.de,False,,,False,,,False
+775,https://www.bundesaerztekammer.de,True,button,cookies zulassen,True,button,nur notwendige cookies verwenden,False
+776,https://www.nordkurier.de,True,a,zustimmung,True,button,ablehnen,False
+777,https://www.deskmodder.de,False,,,False,,,False
+778,https://www.radio.de,True,button,accept all,False,,,False
+779,https://www.server-he.de,False,,,False,,,False
+780,https://www.ihk24.de,True,div,ok,False,,,False
+781,https://www.vodafonemail.de,True,div,alle akzeptieren,False,,,False
+782,https://www.nationalgeographic.de,True,button,akzeptieren,True,button,alle ablehnen,False
+783,https://www.kubik-rubik.de,False,,,False,,,False
+784,https://www.messe-muenchen.de,False,,,False,,,False
+785,https://www.backmarket.de,True,button,ich bin damit einverstanden,False,,,False
+786,https://www.ufz.de,True,button,accept,True,button,refuse,False
+787,https://www.telefonseelsorge.de,False,,,False,,,False
+788,https://www.brandeins.de,True,div,akzeptieren,False,,,False
+789,https://www.dihk.de,True,div,ich stimme zu,False,,,False
+790,https://www.bundeskartellamt.de,False,,,False,,,False
+791,https://www.ukaachen.de,False,,,False,,,False
+792,https://www.bildungsserver.de,False,,,False,,,False
+793,https://www.1blu.de,True,a,allen zustimmen,False,,,False
+794,https://www.verfassungsblog.de,False,,,False,,,False
+795,https://www.telesec.de,True,a,ok,False,,,False
+796,https://www.volksfreund.de,False,,,True,button,ablehnen,False
+797,https://www.guenstiger.de,True,a,einwilligen,True,a,ablehnen,False
+798,https://www.dosb.de,True,button,alle cookies akzeptieren,True,button,alle cookies ablehnen,False
+799,https://www.kba.de,True,p,ok,False,,,False
+800,https://www.braunschweiger-zeitung.de,True,span,allen zustimmen,False,,,False
+801,https://www.bzst.de,True,div,einverstanden,False,,,False
+802,https://www.coolblue.de,True,div,okay,True,button,ablehnen,False
+803,https://www.autozeitung.de,True,button,akzeptieren und weiter,False,,,False
+804,https://www.echo-online.de,False,,,False,,,False
+805,https://www.bike-components.de,True,button,alle cookies akzeptieren,True,button,nur notwendige cookies,False
+806,https://www.website-start.de,False,,,False,,,False
+807,https://www.frankfurt-school.de,True,a,alle auswählen,False,,,False
+808,https://www.musicstore.de,True,a,akzeptieren,True,a,nur notwendige,False
+809,https://www.11freunde.de,True,div,zustimmen,False,,,False
+810,https://www.webkicks.de,True,div,ok,False,,,False
+811,https://www.spritmonitor.de,True,button,einwilligen,False,,,False
+812,https://www.telefonica.de,False,,,False,,,False
+813,https://www.lehmanns.de,True,a,akzeptieren,False,,,False
+814,https://www.haspa.de,True,a,zustimmen,False,,,True
+815,https://www.campact.de,True,button,cookies akzeptieren,True,button,cookies ablehnen,False
+816,https://www.boerse-online.de,False,,,False,,,False
+817,https://www.vip.de,False,,,False,,,False
+818,https://www.kabeleins.de,False,,,False,,,False
+819,https://www.gladbeck.de,False,,,False,,,False
+820,https://www.basicthinking.de,True,a,einverstanden,False,,,False
+821,https://www.rtl2.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+822,https://www.dagstuhl.de,False,,,False,,,False
+823,https://www.piano-midi.de,False,,,False,,,False
+824,https://www.play3.de,False,,,False,,,False
+825,https://www.wikipedia.de,False,,,False,,,False
+826,https://www.sportbuzzer.de,True,button,alle akzeptieren,False,,,False
+827,https://www.gesundheitsinformation.de,False,,,False,,,False
+828,https://www.peta.de,True,a,cookies akzeptieren,True,button,alle ablehnen,False
+829,https://www.gesundheit.de,True,span,alle akzeptieren,False,,,False
+830,https://www.udk-berlin.de,False,,,False,,,False
+831,https://www.zendesk.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+832,https://www.cdu.de,True,div,ja,True,div,nein,False
+833,https://www.bosch-stiftung.de,True,button,zustimmen,False,,,False
+834,https://www.uni-hildesheim.de,True,a,ok,False,,,False
+835,https://www.perlentaucher.de,True,div,akzeptieren & schließen,False,,,True
+836,https://www.zeiss.de,True,button,alle akzeptieren,False,,,False
+837,https://www.alfahosting-server.de,False,,,False,,,False
+838,https://www.netto-online.de,True,a,ok,False,,,False
+839,https://www.vdi.de,True,a,alle cookies akzeptieren,True,a,nur notwendige cookies akzeptieren,False
+840,https://www.stimme.de,False,,,False,,,False
+841,https://www.evangelisch.de,True,div,zur webseite,False,,,False
+842,https://www.lokalkompass.de,True,span,alle akzeptieren,False,,,False
+843,https://www.bsb-muenchen.de,False,,,False,,,False
+844,https://www.gruene.de,False,,,False,,,False
+845,https://www.euronics.de,True,div,alle akzeptieren,False,,,False
+846,https://www.tchncs.de,False,,,False,,,False
+847,https://www.tu-freiberg.de,False,,,False,,,False
+848,https://www.mypurecloud.de,False,,,False,,,False
+849,https://www.schulmanager-online.de,False,,,False,,,False
+850,https://www.mytoys.de,True,button,zustimmen,True,span,cookies ablehnen,False
+851,https://www.mitarbeiterangebote.de,True,a,alle akzeptieren,False,,,False
+852,https://www.nick.de,False,,,False,,,False
+853,https://www.fh-muenster.de,True,div,cookies akzeptieren,False,,,False
+854,https://www.drschwenke.de,False,,,False,,,False
+855,https://www.msichat.de,False,,,False,,,False
+856,https://www.ln-online.de,False,,,False,,,False
+857,https://www.hdm-stuttgart.de,False,,,False,,,False
+858,https://www.bmj.de,True,a,erlauben,True,a,ablehnen,False
+859,https://www.comunio.de,True,button,agree,False,,,False
+860,https://www.girls-day.de,True,div,verstanden,False,,,False
+861,https://www.jodies.de,False,,,False,,,False
+862,https://www.messe-berlin.de,False,,,False,,,False
+863,https://www.wissen.de,False,,,False,,,False
+864,https://www.bundesanzeiger.de,True,button,allen zustimmen,False,,,False
+865,https://www.rammstein.de,True,button,alle akzeptieren,True,button,ablehnen,False
+866,https://www.allgemeine-zeitung.de,False,,,False,,,False
+867,https://www.kaaw.de,True,button,alle akzeptieren,True,button,nur funktionale cookies,False
+868,https://www.onmeda.de,True,span,alle akzeptieren,False,,,False
+869,https://www.dat.de,False,,,False,,,False
+870,https://www.ausbildung.de,True,a,consent,True,button,use necessary cookies only,False
+871,https://www.jmberlin.de,False,,,False,,,False
+872,https://www.fitforfun.de,False,,,False,,,False
+873,https://www.tuev-nord.de,True,span,accept all,True,span,reject all,False
+874,https://www.digitalcourage.de,False,,,False,,,False
+875,https://www.santander.de,True,button,alle akzeptieren,True,span,alles ablehnen,False
+876,https://www.dr-datenschutz.de,True,p,allem zustimmen,False,,,False
+877,https://www.qantara.de,True,button,"ok, i agree",True,button,decline,False
+878,https://www.uni-luebeck.de,False,,,False,,,False
+879,https://www.schule-bw.de,False,,,False,,,False
+880,https://www.rptu.de,False,,,False,,,False
+881,https://www.tecchannel.de,True,button,ich stimme zu,True,button,ablehnen,False
+882,https://www.wikimedia.de,True,a,akzeptieren,True,a,ablehnen,False
+883,https://www.jacobs-university.de,True,button,i agree to all cookies,False,,,False
+884,https://www.messe.de,True,div,accept,True,div,reject,False
+885,https://www.refurbed.de,True,button,alle cookies akzeptieren,False,,,False
+886,https://www.elbphilharmonie.de,True,button,accept all,False,,,False
+887,https://www.digitalfernsehen.de,True,div,akzeptieren & schließen,False,,,False
+888,https://www.radioeins.de,False,,,False,,,False
+889,https://www.bueromarkt-ag.de,True,div,akzeptieren,True,a,cookies ablehnen,False
+890,https://www.otz.de,True,span,alle akzeptieren,False,,,False
+891,https://www.g-ba.de,False,,,False,,,False
+892,https://www.gtai.de,True,button,close,False,,,False
+893,https://www.hvv.de,True,div,verstanden,False,,,False
+894,https://www.senckenberg.de,True,div,alle akzeptieren,False,,,False
+895,https://www.quotenmeter.de,True,div,alle akzeptieren,False,,,True
+896,https://www.idowa.de,False,,,False,,,False
+897,https://www.lbb.de,False,,,False,,,False
+898,https://www.bundeswahlleiter.de,False,,,False,,,False
+899,https://www.monster.de,True,button,alle cookies akzeptieren,False,,,False
+900,https://www.klicksafe.de,False,,,False,,,False
+901,https://www.pietsmiet.de,True,button,akzeptieren,False,,,False
+902,https://www.phpunit.de,False,,,False,,,False
+903,https://www.ladenzeile.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+904,https://www.amnesty.de,True,a,allow all cookies,True,a,use necessary cookies only,False
+905,https://www.neuschwanstein.de,True,a,einverstanden,True,a,ablehnen,False
+906,https://www.duh.de,True,button,alle akzeptieren,True,p,essentiell,False
+907,https://www.expert.de,True,a,cookies zulassen,False,,,False
+908,https://www.ravensburger.de,True,button,cookies akzeptieren,False,,,False
+909,https://www.mein-schoener-garten.de,False,,,False,,,False
+910,https://www.ardaudiothek.de,False,,,False,,,False
+911,https://www.unibw.de,False,,,False,,,False
+912,https://www.vzbv.de,False,,,False,,,False
+913,https://www.bulwash.de,False,,,False,,,False
+914,https://www.chrono24.de,True,button,ok für mich,False,,,True
+915,https://www.lovelybooks.de,True,button,ok für mich,False,,,True
+916,https://www.dimdi.de,True,div,schließen,False,,,False
+917,https://www.debeste.de,True,a,gut,False,,,False
+918,https://www.haustechnikdialog.de,False,,,False,,,False
+919,https://www.netcup.de,True,a,alle cookies zulassen,True,a,nur notwendige cookies,False
+920,https://www.nintendo.de,True,div,alle cookies zulassen,False,,,False
+921,https://www.svz.de,True,button,alle akzeptieren,True,a,notwendige cookies,False
+922,https://www.fh-aachen.de,True,button,alle akzeptieren,True,div,essentiell,False
+923,https://www.dao-ag.de,True,button,alle akzeptieren,True,div,essentiell,True
+924,https://www.bosch-presse.de,True,button,speichern,False,,,False
+925,https://www.kika.de,False,,,False,,,False
+926,https://www.7pass.de,False,,,False,,,False
+927,https://www.cheatbook.de,True,div,i agree,False,,,False
+928,https://www.v-front.de,True,a,ok,False,,,False
+929,https://www.motorradonline.de,True,button,akzeptieren und weiter,False,,,False
+930,https://www.ab-in-den-urlaub.de,False,,,False,,,False
+931,https://www.meteomedia.de,False,,,False,,,False
+932,https://www.techstage.de,True,div,zustimmen,False,,,False
+933,https://www.telepolis.de,True,div,zustimmen,False,,,False
+934,https://www.essen-und-trinken.de,True,button,zustimmen,False,,,False
+935,https://www.huk.de,True,button,zustimmen,False,,,False
+936,https://www.lernsax.de,False,,,False,,,False
+937,https://www.beuth.de,True,button,alle akzeptieren,False,,,False
+938,https://www.techbook.de,False,,,True,button,deny,False
+939,https://www.eintracht.de,False,,,True,button,deny,True
+940,https://www.flaconi.de,False,,,True,button,deny,True
+941,https://www.elle.de,True,button,alle akzeptieren,False,,,False
+942,https://www.thermorollen24.de,False,,,False,,,False
+943,https://www.stadtradeln.de,False,,,False,,,False
+944,https://www.gkv-spitzenverband.de,True,button,alle cookies akzeptieren,False,,,False
+945,https://www.ingenieur.de,False,,,False,,,False
+946,https://www.lotto24.de,True,p,gut,False,,,False
+947,https://www.mainz.de,True,button,alle cookies akzeptieren,True,button,nur notwendige cookies,False
+948,https://www.radiobremen.de,False,,,False,,,False
+949,https://www.studyflix.de,True,div,zustimmen,False,,,False
+950,https://www.fragdenstaat.de,False,,,False,,,False
+951,https://www.woxikon.de,True,button,akzeptieren,False,,,False
+952,https://www.iserv.de,False,,,False,,,False
+953,https://www.domradio.de,True,button,akzeptieren,True,button,ablehnen,False
+954,https://www.smartsteuer.de,True,a,alle cookies akzeptieren,True,a,nur notwendige cookies,False
+955,https://www.staatsbibliothek-berlin.de,False,,,False,,,False
+956,https://www.globus-baumarkt.de,True,div,alles akzeptieren,False,,,False
+957,https://www.uke.de,False,,,False,,,False
+958,https://www.onetz.de,False,,,False,,,False
+959,https://www.b-tu.de,True,button,alle cookies akzeptieren,False,,,False
+960,https://www.dhbw.de,True,div,alle akzeptieren,False,,,False
+961,https://www.arzt-auskunft.de,True,div,alle akzeptieren,True,div,nur notwendige cookies akzeptieren,False
+962,https://www.atmosfair.de,False,,,False,,,False
+963,https://www.bbaw.de,False,,,False,,,False
+964,https://www.swrfernsehen.de,False,,,False,,,False
+965,https://www.adcell.de,False,,,False,,,False
+966,https://www.netcologne.de,True,a,alle akzeptieren,False,,,True
+967,https://www.morgenweb.de,False,,,False,,,False
+968,https://www.wp.de,True,span,alle akzeptieren,False,,,False
+969,https://www.staatsoper.de,True,button,alle auswählen,False,,,False
+970,https://www.gema.de,True,button,accept,True,button,decline,False
+971,https://www.real.de,True,button,zustimmen,True,button,ablehnen,False
+972,https://www.helmholtz.de,True,button,akzeptieren,False,,,False
+973,https://www.zovvo.de,False,,,False,,,False
+974,https://www.abebooks.de,True,button,cookies akzeptieren,False,,,False
+975,https://www.joyn.de,True,button,cookies akzeptieren,False,,,True
+976,https://www.uni-koblenz.de,False,,,False,,,True
+977,https://www.nibis.de,False,,,False,,,False
+978,https://www.newyorker.de,False,,,False,,,False
+979,https://www.muenster.de,True,span,accept all,True,span,reject all,False
+980,https://www.notino.de,True,div,alle cookies akzeptieren,False,,,False
+981,https://www.hellofresh.de,False,,,False,,,False
+982,https://www.zew.de,True,button,cookies zulassen,True,button,nur notwendige cookies verwenden,False
+983,https://www.bod.de,True,div,alle akzeptieren,True,div,ablehnen,False
+984,https://www.heidelberg.de,True,button,alles akzeptieren,True,button,ablehnen,False
+985,https://www.mdc-berlin.de,True,button,accept all,True,button,reject all,False
+986,https://www.buzer.de,False,,,False,,,False
+987,https://www.toubiz.de,True,a,erlauben,True,a,nicht erlauben,False
+988,https://www.miele.de,True,a,erlauben,True,a,nicht erlauben,True
+989,https://www.wunschliste.de,False,,,False,,,False
+990,https://www.schaeffler.de,True,button,alle cookies akzeptieren,True,button,alle ablehnen,False
+991,https://www.zalando-lounge.de,False,,,True,a,nicht zustimmen,False
+992,https://www.bundeskanzler.de,True,button,alle auswählen,False,,,False
+993,https://www.aponet.de,True,span,accept all,False,,,False
+994,https://www.mannheim.de,True,button,akzeptieren,False,,,False
+995,https://www.hkw.de,True,button,speichern,False,,,False
+996,https://www.lr-online.de,False,,,True,button,deny,False
+997,https://www.baur.de,True,button,ok,False,,,False
+998,https://www.zusammengegencorona.de,False,,,False,,,False
+999,https://www.automobilwoche.de,True,button,accept,True,button,decline,False
+1000,https://www.wiesbaden.de,False,,,False,,,False
+1001,https://www.vrr.de,True,a,ich stimme zu,False,,,False
+1002,https://www.gmp.de,True,div,accept all,True,div,deny,False
+1003,https://www.intersport.de,True,button,ok,False,,,False
+1004,https://www.manomano.de,True,button,zulassen und schließen,False,,,True
+1005,https://www.cinema.de,False,,,True,button,ablehnen,False
+1006,https://www.urbia.de,True,button,zustimmen,False,,,False
+1007,https://www.ruv.de,False,,,False,,,False
+1008,https://www.aktion-deutschland-hilft.de,True,button,agree to all data uses,True,span,functional cookies,False
+1009,https://www.adsimple.de,False,,,True,a,abgelehnt,False
+1010,https://www.jacob.de,True,a,alle cookies erlauben,False,,,False
+1011,https://www.infonline.de,False,,,False,,,False
+1012,https://www.essen.de,True,span,accept all,False,,,False
+1013,https://www.uni-erfurt.de,False,,,False,,,False
+1014,https://www.marriott.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+1015,https://www.foodsharing.de,False,,,False,,,False
+1016,https://www.universal-music.de,False,,,False,,,False
+1017,https://www.teufel.de,True,button,alles akzeptieren,False,,,False
+1018,https://www.bayer.de,True,button,cookies akzeptieren,True,button,cookies ablehnen,False
+1019,https://www.bht-berlin.de,True,a,ok,False,,,False
+1020,https://www.piratenpartei.de,False,,,False,,,False
+1021,https://www.smava.de,False,,,True,button,nur essentielle cookies,False
+1022,https://www.engelbert-strauss.de,True,button,alle akzeptieren,True,div,funktionale cookies,False
+1023,https://www.rundfunkbeitrag.de,True,button,zustimmen,False,,,False
+1024,https://www.hagebau.de,True,button,zustimmen,False,,,True
+1025,https://www.falk.de,True,button,akzeptieren und weiter,False,,,False
+1026,https://www.lernhelfer.de,True,div,akzeptieren & schließen,False,,,False
+1027,https://www.jetzt.de,True,button,akzeptieren,False,,,False
+1028,https://www.travelbook.de,True,button,alle akzeptieren,False,,,False
+1029,https://www.xn--allestrungen-9ib.de,True,div,i accept,False,,,False
+1030,https://www.hs-furtwangen.de,True,button,alle akzeptieren,True,button,ablehnen,False
+1031,https://www.fischerverlage.de,False,,,False,,,False
+1032,https://www.openjur.de,False,,,False,,,False
+1033,https://www.hood.de,False,,,False,,,False
+1034,https://www.ruhr24.de,True,span,alle akzeptieren,False,,,False
+1035,https://www.dekra.de,True,button,alle akzeptieren,False,,,False
+1036,https://www.familienportal.de,False,,,False,,,False
+1037,https://www.yelp.de,True,button,alle cookies zulassen,True,button,nur essenzielle cookies akzeptieren,False
+1038,https://www.wiesbadener-kurier.de,False,,,False,,,False
+1039,https://www.flashscore.de,False,,,False,,,True
+1040,https://www.stellenanzeigen.de,False,,,False,,,False
+1041,https://www.uberspace.de,False,,,False,,,False
+1042,https://www.blitzrechner.de,True,button,alle akzeptieren,False,,,False
+1043,https://www.opentable.de,True,button,alle cookies akzeptieren,False,,,False
+1044,https://www.pinakothek.de,False,,,False,,,False
+1045,https://www.qvc.de,True,button,alle cookies zulassen,True,button,alle cookies ablehnen,False
+1046,https://www.blinde-kuh.de,False,,,False,,,False
+1047,https://www.onlinemarketing.de,False,,,False,,,True
+1048,https://www.ekomi.de,True,div,alle akzeptieren,True,div,funktionale cookies,False
+1049,https://www.xn--bafg-7qa.de,True,button,alle auswählen,False,,,False
+1050,https://www.handelsregister.de,True,div,continue,False,,,False
+1051,https://www.bw-bank.de,True,a,zustimmen,True,a,ablehnen,False
+1052,https://www.blauer-engel.de,False,,,False,,,False
+1053,https://www.mytischtennis.de,True,span,accept all,False,,,False
+1054,https://www.mwn.de,False,,,False,,,False
+1055,https://www.worldofplayers.de,True,a,accept cookies,False,,,False
+1056,https://www.hoeffner.de,False,,,False,,,False
+1057,https://www.bahncard.de,False,,,False,,,False
+1058,https://www.instyle.de,True,button,alle akzeptieren,False,,,False
+1059,https://www.co2online.de,True,div,alle cookies akzeptieren,False,,,False
+1060,https://www.danisch.de,True,div,zustimmen,False,,,False
+1061,https://www.versicherungsombudsmann.de,False,,,False,,,False
+1062,https://www.drehscheibe-online.de,False,,,False,,,False
+1063,https://www.hsv.de,True,span,accept all,True,span,reject all optional,False
+1064,https://www.nomos-elibrary.de,True,a,zustimmung,True,button,nur notwendige cookies,False
+1065,https://www.linux-magazin.de,True,button,akzeptieren und weiter,False,,,False
+1066,https://www.exactaudiocopy.de,True,button,consent,False,,,False
+1067,https://www.hotel.de,True,button,alle cookies akzeptieren,False,,,False
+1068,https://www.mega-joker-spielen.de,False,,,False,,,False
+1069,https://www.tropical-islands.de,True,button,alle cookies akzeptieren,True,button,alle ablehnen,False
+1070,https://www.spk-berlin.de,False,,,False,,,False
+1071,https://www.westlotto.de,True,div,consent,False,,,False
+1072,https://www.leifiphysik.de,False,,,False,,,False
+1073,https://www.gsi.de,False,,,False,,,False
+1074,https://www.preissuchmaschine.de,True,a,alle zulassen,True,a,ablehnen,False
+1075,https://www.deutsche-startups.de,False,,,False,,,False
+1076,https://www.rowohlt.de,True,button,akzeptieren,False,,,False
+1077,https://www.keyforsteam.de,True,span,ok,False,,,False
+1078,https://www.hdg.de,True,div,alle cookies akzeptieren,True,div,nur notwendige cookies,False
+1079,https://www.sparwelt.de,True,button,alle akzeptieren,False,,,False
+1080,https://www.bayern-online.de,False,,,False,,,False
+1081,https://www.goethe-university-frankfurt.de,True,button,allen zustimmen,True,button,ablehnen,False
+1082,https://www.phoenix.de,True,div,speichern,False,,,False
+1083,https://www.springermedizin.de,True,div,akzeptieren und weiter,False,,,False
+1084,https://www.anisearch.de,False,,,False,,,False
+1085,https://www.connect.de,True,div,akzeptieren und weiter,False,,,False
+1086,https://www.scribbr.de,True,a,zustimmung,False,,,False
+1087,https://www.telekom-dienste.de,True,button,agree to all,True,button,only required,False
+1088,https://www.apobank.de,False,,,False,,,False
+1089,https://www.ekom21.de,True,button,alle auswählen,False,,,False
+1090,https://www.brillen.de,True,button,akzeptieren,False,,,False
+1091,https://www.bsz-bw.de,False,,,False,,,False
+1092,https://www.igorslab.de,True,button,cookies akzeptieren,True,button,ablehnen,False
+1093,https://www.limango.de,False,,,False,,,False
+1094,https://www.menshealth.de,True,button,akzeptieren und weiter,False,,,True
+1095,https://www.alpenverein.de,True,button,zustimmen,True,button,ablehnen,False
+1096,https://www.agora-energiewende.de,True,a,alles akzeptieren,True,a,alles ablehnen,False
+1097,https://www.erzbistum-koeln.de,False,,,False,,,False
+1098,https://www.geomar.de,False,,,False,,,False
+1099,https://www.penny.de,True,button,schließen,False,,,False
+1100,https://www.fluege.de,True,a,zustimmung,False,,,False
+1101,https://www.finanzen100.de,True,button,einverstanden,False,,,False
+1102,https://www.bike24.de,True,button,alle cookies akzeptieren,True,button,optionale cookies ablehnen,False
+1103,https://www.staedelmuseum.de,False,,,False,,,False
+1104,https://www.mactechnews.de,False,,,False,,,False
+1105,https://www.goneo.de,True,button,alle cookies zulassen,True,button,alle ablehnen,False
+1106,https://www.btc-echo.de,True,button,alle cookies zulassen,True,button,alle ablehnen,True
+1107,https://www.stadt-muenster.de,True,span,accept all,True,span,reject all,False
+1108,https://www.nextpit.de,True,div,accept all & visit the site,True,div,reject all,False
+1109,https://www.stayfriends.de,True,div,akzeptieren & schließen,False,,,False
+1110,https://www.kilu.de,False,,,False,,,False
+1111,https://www.wuerth.de,False,,,False,,,False
+1112,https://www.main-echo.de,False,,,True,button,nein danke,False
+1113,https://www.technik-museum.de,False,,,False,,,False
+1114,https://www.vrbank-osnordland.de,True,button,allen zustimmen,False,,,False
+1115,https://www.frankfurt-university.de,True,button,allen zustimmen,False,,,True
+1116,https://www.reiseversicherung.de,True,div,alle akzeptieren,False,,,False
+1117,https://www.foerderdatenbank.de,False,,,False,,,False
+1118,https://www.dkms.de,True,button,alle akzeptieren,False,,,False
+1119,https://www.ladies-forum.de,True,button,alle akzeptieren,False,,,False
+1120,https://www.bvmw.de,True,div,accept all,True,div,deny,False
+1121,https://www.eltern.de,True,button,zustimmen und weiter,False,,,False
+1122,https://www.helmholtz-muenchen.de,True,button,alle erlauben,False,,,False
+1123,https://www.dab-bank.de,False,,,False,,,False
+1124,https://www.barclays.de,True,button,alle annehmen,False,,,False
+1125,https://www.cinemaxx.de,True,div,accept cookies,True,div,reject all,False
+1126,https://www.juedische-allgemeine.de,True,button,akzeptieren,True,button,alles ablehnen,False
+1127,https://www.twingotuningforum.de,False,,,False,,,False
+1128,https://www.jung.de,False,,,False,,,False
+1129,https://www.kundenserver.de,False,,,False,,,False
+1130,https://www.vdk.de,False,,,True,div,nur notwendige cookies,False
+1131,https://www.lrz.de,False,,,False,,,False
+1132,https://www.gdv.de,True,span,zustimmen,True,span,ablehnen,False
+1133,https://www.nrz.de,False,,,True,button,deny,False
+1134,https://www.macwelt.de,True,button,akzeptieren,False,,,False
+1135,https://www.rheinwerk-verlag.de,True,a,zustimmen,True,a,verweigern,False
+1136,https://www.deutsche-biographie.de,False,,,False,,,False
+1137,https://www.transcript-verlag.de,True,button,ok,False,,,False
+1138,https://www.sparkasse-koelnbonn.de,True,a,zustimmen,True,a,ablehnen,False
+1139,https://www.hifi-forum.de,False,,,False,,,False
+1140,https://www.baunetzwissen.de,True,span,accept all,False,,,False
+1141,https://www.mail.de,False,,,False,,,False
+1142,https://www.thm.de,False,,,False,,,False
+1143,https://www.gls-pakete.de,False,,,False,,,False
+1144,https://www.klett.de,True,button,cookies akzeptieren,False,,,False
+1145,https://www.berliner-volksbank.de,True,button,cookies akzeptieren,False,,,True
+1146,https://www.vfl-wolfsburg.de,True,button,agree and continue,True,button,reject all,False
+1147,https://www.polizei-beratung.de,True,button,alle cookies akzeptieren,False,,,False
+1148,https://www.reviersport.de,True,span,alle akzeptieren,False,,,False
+1149,https://www.sskm.de,True,a,zustimmen,False,,,True
+1150,https://www.sipgate.de,True,span,accept all,True,div,essential,False
+1151,https://www.swm.de,False,,,False,,,False
+1152,https://www.daskochrezept.de,False,,,True,button,ablehnen,False
+1153,https://www.nuclearblast.de,True,a,cookies zulassen,True,a,nur notwendige cookies,False
+1154,https://www.weltfussball.de,False,,,True,a,nur notwendige cookies,True
+1155,https://www.erfurt.de,False,,,False,,,False
+1156,https://www.brot-fuer-die-welt.de,False,,,False,,,False
+1157,https://www.pollin.de,False,,,False,,,False
+1158,https://www.beck-shop.de,False,,,False,,,False
+1159,https://www.verpackungplus.de,True,span,akzeptieren,True,div,ablehnen,False
+1160,https://www.wiso-grundsteuer.de,False,,,False,,,False
+1161,https://www.rechneronline.de,False,,,False,,,False
+1162,https://www.maennersache.de,True,button,akzeptieren und weiter,False,,,False
+1163,https://www.frankenpost.de,False,,,False,,,False
+1164,https://www.tu-harburg.de,True,button,akzeptieren,True,button,ablehnen,False
+1165,https://www.rollingstone.de,True,div,alle akzeptieren,False,,,False
+1166,https://www.gruene-bundestag.de,False,,,False,,,False
+1167,https://www.darc.de,False,,,False,,,False
+1168,https://www.pay1.de,False,,,False,,,False
+1169,https://www.arctic.de,True,button,alle akzeptieren,False,,,False
+1170,https://www.fahrrad.de,True,div,alle cookies akzeptieren,True,a,ablehnen,False
+1171,https://www.meineschufa.de,True,button,akzeptieren,True,button,verweigern,False
+1172,https://www.bstbk.de,True,button,alle cookies akzeptieren,True,button,nur erforderliche cookies akzeptieren,False
+1173,https://www.vdh.de,True,span,accept all,True,span,reject all,False
+1174,https://www.sgalinski.de,True,button,alle akzeptieren,True,span,essentiell,False
+1175,https://www.myraidbox.de,False,,,False,,,False
+1176,https://www.ulm.de,True,button,allen cookies zustimmen,False,,,False
+1177,https://www.heizoel24.de,True,a,zustimmung,True,button,ablehnen,False
+1178,https://www.tip-berlin.de,False,,,False,,,False
+1179,https://www.vda.de,True,a,cookies zulassen,True,a,nur notwendige cookies,False
+1180,https://www.nettolohn.de,True,a,zustimmung,True,button,ablehnen,False
+1181,https://www.deltafonds.de,False,,,False,,,False
+1182,https://www.momox.de,True,button,alle akzeptieren,False,,,False
+1183,https://www.boersennews.de,True,div,akzeptieren und weiter,False,,,False
+1184,https://www.rosebikes.de,False,,,False,,,False
+1185,https://www.welthungerhilfe.de,False,,,False,,,False
+1186,https://www.picr.de,False,,,False,,,False
+1187,https://www.all-in.de,False,,,False,,,False
+1188,https://www.kobv.de,False,,,False,,,False
+1189,https://www.cewe.de,False,,,False,,,False
+1190,https://www.bitcoin.de,False,,,False,,,True
+1191,https://www.viagogo.de,True,button,ok,False,,,False
+1192,https://www.axa.de,False,,,True,button,nicht zustimmen,False
+1193,https://www.butenunbinnen.de,False,,,False,,,False
+1194,https://www.xmedia-recode.de,False,,,False,,,False
+1195,https://www.mh-nexus.de,False,,,False,,,False
+1196,https://www.forumprofi.de,False,,,False,,,True
+1197,https://www.abgeordnetenwatch.de,False,,,False,,,False
+1198,https://www.drwindows.de,True,span,accept all,False,,,False
+1199,https://www.regierung-mv.de,False,,,False,,,False
+1200,https://www.service-bw.de,False,,,False,,,False
+1201,https://www.discounto.de,True,span,akzeptieren,False,,,False
+1202,https://www.dena.de,True,button,allow all cookies,True,button,use necessary cookies only,False
+1203,https://www.westwing.de,True,div,cookies akzeptieren,True,button,ablehnen,False
+1204,https://www.bayer04.de,False,,,False,,,False
+1205,https://www.grundsteuer.de,False,,,False,,,False
+1206,https://www.aerzte-ohne-grenzen.de,True,button,accept all cookies,True,button,reject all,False
+1207,https://www.bdew.de,False,,,False,,,False
+1208,https://www.my-hammer.de,True,a,alle zulassen,True,div,nur notwendige cookies verwenden,False
+1209,https://www.reifendirekt.de,False,,,False,,,False
+1210,https://www.frankfurt-tourismus.de,False,,,False,,,False
+1211,https://www.kayak.de,True,button,akzeptieren,False,,,False
+1212,https://www.windowsarea.de,False,,,False,,,False
+1213,https://www.eprimo.de,False,,,False,,,False
+1214,https://www.messe-duesseldorf.de,False,,,False,,,False
+1215,https://www.woodworker.de,False,,,False,,,False
+1216,https://www.frankonia.de,True,a,ich stimme zu,True,a,ablehnen,False
+1217,https://www.lotto.de,True,button,alle akzeptieren,True,div,alle ablehnen,False
+1218,https://www.it-business.de,True,div,accept and continue,False,,,False
+1219,https://www.borussia.de,True,span,accept all,True,span,reject all,False
+1220,https://www.heidelberg24.de,False,,,False,,,False
+1221,https://www.proplanta.de,False,,,False,,,False
+1222,https://www.img-bahn.de,False,,,False,,,False
+1223,https://www.hs-hannover.de,True,a,alle cookies zulassen,False,,,False
+1224,https://www.dbu.de,False,,,False,,,False
+1225,https://www.darmstadt.de,True,a,akzeptieren,True,a,ablehnen,False
+1226,https://www.freundin.de,True,button,alle akzeptieren,False,,,False
+1227,https://www.bergzeit.de,True,button,allen cookies zustimmen,False,,,False
+1228,https://www.getyourguide.de,False,,,False,,,False
+1229,https://www.zukunftsinstitut.de,True,a,akzeptieren,True,a,ablehnen,False
+1230,https://www.lastminute.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+1231,https://www.bmvg.de,True,button,"ja, ich bin mit allen cookies einverstanden",False,,,False
+1232,https://www.herder.de,False,,,False,,,False
+1233,https://www.steuertipps.de,True,div,alle cookies akzeptieren,True,div,alle ablehnen,False
+1234,https://www.azubiyo.de,True,span,alle akzeptieren,False,,,False
+1235,https://www.design-bestseller.de,True,div,ich bin einverstanden,True,div,ablehnen,False
+1236,https://www.krebshilfe.de,True,a,alle akzeptieren,True,a,nur notwendige cookies,False
+1237,https://www.baunetz.de,True,span,accept all,False,,,False
+1238,https://www.gelbe-liste.de,True,div,i accept,False,,,False
+1239,https://www.hs-mittweida.de,False,,,False,,,False
+1240,https://www.lifepr.de,True,span,accept all,False,,,False
+1241,https://www.bundesjustizamt.de,False,,,False,,,False
+1242,https://www.studis-online.de,False,,,False,,,False
+1243,https://www.apotheken.de,True,a,cookies zulassen,True,a,nur notwendige cookies,False
+1244,https://www.verfassungsschutz.de,True,button,alle auswählen,False,,,False
+1245,https://www.cineplex.de,True,a,cookies zulassen,True,a,nur notwendige cookies verwenden,False
+1246,https://www.testedich.de,True,div,zustimmen,False,,,False
+1247,https://www.lexware.de,False,,,False,,,False
+1248,https://www.vcrp.de,False,,,False,,,False
+1249,https://www.haus.de,False,,,False,,,False
+1250,https://www.weg.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+1251,https://www.unitymedia.de,False,,,False,,,False
+1252,https://www.skyrocket.de,False,,,False,,,False
+1253,https://www.malteser.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+1254,https://www.heilpraxisnet.de,True,div,alle akzeptieren,False,,,False
+1255,https://www.schufa.de,False,,,False,,,False
+1256,https://www.profamilia.de,True,button,akzeptieren,True,button,ablehnen,False
+1257,https://www.deutsche-handwerks-zeitung.de,False,,,False,,,False
+1258,https://www.stroeer.de,True,a,consent,False,,,False
+1259,https://www.futurezone.de,True,span,alle akzeptieren,False,,,True
+1260,https://www.igmetall.de,True,div,ok,False,,,False
+1261,https://www.immosuchmaschine.de,False,,,False,,,False
+1262,https://www.tellows.de,True,div,zustimmen und weiter,False,,,False
+1263,https://www.magdeburg.de,True,button,zustimmen,True,button,ablehnen,False
+1264,https://www.iphone-ticker.de,True,p,alle cookies zulassen,True,p,nur notwendige cookies zulassen,False
+1265,https://www.alamy.de,False,,,False,,,False
+1266,https://www.phpbb.de,False,,,False,,,False
+1267,https://www.piper.de,True,button,akzeptieren,False,,,False
+1268,https://www.planet-beruf.de,True,button,alle zulassen,False,,,False
+1269,https://www.scienceblogs.de,False,,,False,,,False
+1270,https://www.unicum.de,False,,,True,span,nicht einverstanden,False
+1271,https://www.gutscheinsammler.de,False,,,False,,,False
+1272,https://www.antenne.de,False,,,False,,,False
+1273,https://www.internetworld.de,False,,,False,,,False
+1274,https://www.traum-ferienwohnungen.de,True,button,alle cookies zulassen,False,,,False
+1275,https://www.4fansites.de,True,div,zustimmen,False,,,False
+1276,https://www.gi.de,True,button,alle akzeptieren,False,,,False
+1277,https://www.inforadio.de,False,,,False,,,False
+1278,https://www.reisereporter.de,True,button,alle akzeptieren,True,button,alles ablehnen,False
+1279,https://www.wahlrecht.de,False,,,False,,,False
+1280,https://www.iab.de,False,,,False,,,False
+1281,https://www.bauhaus.de,False,,,False,,,False
+1282,https://www.mcdonalds.de,True,button,alle cookies akzeptieren,True,button,nur erforderliche cookies,False
+1283,https://www.ok-magazin.de,False,,,False,,,False
+1284,https://www.taxfix.de,True,button,bestätigen,True,button,ablehnen,False
+1285,https://www.bsh.de,False,,,False,,,False
+1286,https://www.beltz.de,False,,,False,,,False
+1287,https://www.oeko.de,True,button,speichern,True,button,alle cookies ablehnen,False
+1288,https://www.schoener-wohnen.de,True,button,zustimmen,False,,,False
+1289,https://www.kfzteile24.de,True,button,alle zulassen,False,,,False
+1290,https://www.schornsteinfeger-duesseldorf.de,False,,,False,,,False
+1291,https://www.rapidmail.de,False,,,True,button,ablehnen,False
+1292,https://www.maritim.de,True,a,alle akzeptieren,False,,,False
+1293,https://www.nummergegenkummer.de,False,,,False,,,False
+1294,https://www.elitedomains.de,False,,,False,,,False
+1295,https://www.ad-hoc-news.de,False,,,False,,,False
+1296,https://www.fielmann.de,True,button,zustimmen,True,button,alle ablehnen,False
+1297,https://www.hanser-literaturverlage.de,True,button,akzeptieren,True,button,ablehnen,False
+1298,https://www.buzzfeed.de,False,,,False,,,False
+1299,https://www.fireball.de,False,,,False,,,False
+1300,https://www.goldseiten.de,True,button,alle cookies akzeptieren,False,,,False
+1301,https://www.ffh.de,False,,,True,a,alles ablehnen,False
+1302,https://www.econda-monitor.de,True,div,ich bin einverstanden,True,div,optionale cookies ablehnen,False
+1303,https://www.shoop.de,True,button,alle cookies akzeptieren,False,,,False
+1304,https://www.unwetterzentrale.de,False,,,False,,,False
+1305,https://www.bauma.de,False,,,False,,,False
+1306,https://www.ernstings-family.de,True,button,schließen,False,,,False
+1307,https://www.fc.de,False,,,False,,,False
+1308,https://www.bundesliga.de,False,,,False,,,True
+1309,https://www.fdp.de,True,button,ich stimme zu,False,,,False
+1310,https://www.bildblog.de,True,p,alle akzeptieren,False,,,False
+1311,https://www.hs-esslingen.de,True,button,alle akzeptieren,False,,,False
+1312,https://www.urlaubsguru.de,True,button,alle auswählen,False,,,False
+1313,https://www.selbst.de,True,button,akzeptieren und weiter,False,,,False
+1314,https://www.augsburg.de,True,a,cookies zulassen,True,a,nur notwendige cookies verwenden,False
+1315,https://www.impulse.de,False,,,False,,,False
+1316,https://www.museenkoeln.de,True,div,akzeptieren,False,,,False
+1317,https://www.dyson.de,True,button,alle cookies akzeptieren,True,button,alle ablehnen,False
+1318,https://www.wort-suchen.de,True,button,akzeptieren,False,,,False
+1319,https://www.mh-hannover.de,False,,,False,,,False
+1320,https://www.anerkennung-in-deutschland.de,True,div,ok,False,,,False
+1321,https://www.waz-online.de,False,,,False,,,False
+1322,https://www.webgo.de,True,button,alles akzeptieren,True,button,ablehnen,False
+1323,https://www.th-deg.de,True,a,consent,True,button,use necessary cookies only,False
+1324,https://www.administrator.de,True,div,accept all & visit the site,False,,,False
+1325,https://www.familie.de,True,button,akzeptieren und weiter,False,,,False
+1326,https://www.apotheke-adhoc.de,True,div,akzeptieren,False,,,False
+1327,https://www.gls.de,True,button,das ist ok,True,button,ich lehne ab,False
+1328,https://www.oculus-onlineshop.de,True,button,alles akzeptieren,True,button,ablehnen,False
+1329,https://www.visus.de,True,a,alle akzeptieren,True,a,ablehnen,False
+1330,https://www.cinestar.de,True,a,alle cookies akzeptieren,True,a,alle ablehnen,False
+1331,https://www.berlin-brandenburg.de,False,,,False,,,False
+1332,https://www.hamburg-tourism.de,True,button,akzeptieren,False,,,False
+1333,https://www.bverwg.de,False,,,False,,,False
+1334,https://www.buhl.de,False,,,False,,,False
+1335,https://www.emma-matratze.de,True,div,gut,False,,,False
+1336,https://www.coincierge.de,False,,,False,,,False
+1337,https://www.ludwigbeck.de,True,div,ich stimme zu,False,,,False
+1338,https://www.tvinfo.de,True,button,zustimmen,True,button,ablehnen,False
+1339,https://www.ford.de,True,a,zustimmen,False,,,False
+1340,https://www.magentasport.de,True,button,agree to all,True,button,only required,False
+1341,https://www.oth-regensburg.de,True,button,alle akzeptieren,False,,,False
+1342,https://www.fairness-im-handel.de,False,,,False,,,False
+1343,https://www.dehner.de,False,,,False,,,False
+1344,https://www.openthesaurus.de,False,,,False,,,False
+1345,https://www.maerklin.de,False,,,False,,,False
+1346,https://www.blablacar.de,True,button,accept and continue,True,button,reject all,False
+1347,https://www.sparkasse-duisburg.de,False,,,True,button,reject all,True
+1348,https://www.dmax.de,False,,,True,button,reject all,True
+1349,https://www.dorsten.de,True,button,alle akzeptieren,False,,,False
+1350,https://www.preis.de,True,div,alle akzeptieren,True,div,optionale cookies ablehnen,False
+1351,https://www.euractiv.de,True,button,accept,True,button,decline,False
+1352,https://www.debeka.de,False,,,False,,,False
+1353,https://www.tlz.de,True,span,alle akzeptieren,False,,,False
+1354,https://www.bestwestern.de,True,span,alle akzeptieren,True,span,alles ablehnen,False
+1355,https://www.fh-swf.de,False,,,False,,,False
+1356,https://www.spin.de,False,,,False,,,False
+1357,https://www.design-museum.de,False,,,False,,,False
+1358,https://www.leichtathletik.de,False,,,False,,,False
+1359,https://www.earthlost.de,False,,,False,,,False
+1360,https://www.bfv.de,False,,,False,,,False
+1361,https://www.mbs.de,True,a,zustimmen,True,a,ablehnen,False
+1362,https://www.ka-news.de,True,button,schließen,False,,,False
+1363,https://www.dynamicboard.de,False,,,False,,,False
+1364,https://www.bergfex.de,True,div,accept & close,False,,,False
+1365,https://www.krebsinformationsdienst.de,False,,,False,,,False
+1366,https://www.bildderfrau.de,False,,,False,,,False
+1367,https://www.vfb.de,True,button,alle zulassen,True,button,alle ablehnen,False
+1368,https://www.hhv.de,True,span,accept,False,,,False
+1369,https://www.gambio.de,True,div,alle akzeptieren,False,,,False
+1370,https://www.ifun.de,True,p,alle cookies zulassen,True,p,nur notwendige cookies zulassen,False
+1371,https://www.stroeerws.de,False,,,False,,,False
+1372,https://www.dominos.de,True,button,alle cookies akzeptieren,True,button,alle cookies ablehnen,False
+1373,https://www.podcaster.de,False,,,False,,,False
+1374,https://www.osthessen-news.de,False,,,False,,,False
+1375,https://www.fh-dortmund.de,True,button,ok,False,,,False
+1376,https://www.mobiflip.de,True,div,zustimmen,False,,,False
+1377,https://www.europcar.de,True,button,agree and close,True,button,disagree and close,False
+1378,https://www.hilfetelefon.de,True,div,ok,False,,,False
+1379,https://www.rosenheim24.de,False,,,False,,,False
+1380,https://www.db.de,False,,,False,,,False
+1381,https://www.moemax.de,True,div,alle cookies akzeptieren,False,,,False
+1382,https://www.blau.de,False,,,False,,,False
+1383,https://www.dress-for-less.de,True,div,alle erlauben,False,,,False
+1384,https://www.hueber.de,True,button,ok,False,,,False
+1385,https://www.braunschweig.de,True,div,ok,False,,,False
+1386,https://www.einfachbacken.de,False,,,True,button,ablehnen,False
+1387,https://www.urlaubspiraten.de,True,div,alle akzeptieren,False,,,False
+1388,https://www.top50-solar.de,False,,,False,,,False
+1389,https://www.arag.de,False,,,False,,,False
+1390,https://www.customercontrolpanel.de,False,,,False,,,False
+1391,https://www.momondo.de,True,button,akzeptieren,False,,,False
+1392,https://www.gira.de,False,,,False,,,False
+1393,https://www.wer-weiss-was.de,False,,,False,,,False
+1394,https://www.datenschutz-berlin.de,False,,,False,,,False
+1395,https://www.regensburg.de,True,a,cookies zulassen,False,,,False
+1396,https://www.babymarkt.de,True,div,alle akzeptieren,True,a,ablehnen,False
+1397,https://www.kvb.de,True,button,zustimmen,False,,,False
+1398,https://www.fansale.de,False,,,False,,,False
+1399,https://www.atu.de,True,button,ich bin damit einverstanden,False,,,False
+1400,https://www.wondershare.de,False,,,False,,,False
+1401,https://www.pz-news.de,True,div,ja,True,div,nein,False
+1402,https://www.deutsche-depressionshilfe.de,True,div,alle akzeptieren,True,div,ablehnen,False
+1403,https://www.ferienhausmiete.de,True,div,alle cookies zulassen,False,,,False
+1404,https://www.klett-sprachen.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+1405,https://www.fluter.de,False,,,False,,,False
+1406,https://www.wahl-o-mat.de,False,,,False,,,False
+1407,https://www.gameswelt.de,False,,,False,,,False
+1408,https://www.parfumdreams.de,False,,,False,,,False
+1409,https://www.hrworks.de,True,p,alles akzeptieren,True,p,nur essenzielle cookies akzeptieren,False
+1410,https://www.krebsgesellschaft.de,True,a,allow all cookies,True,a,use necessary cookies only,False
+1411,https://www.cio.de,True,button,ich stimme zu,True,button,ablehnen,False
+1412,https://www.niederschlagsradar.de,False,,,True,a,no,False
+1413,https://www.planet-schule.de,False,,,False,,,False
+1414,https://www.fressnapf.de,False,,,False,,,False
+1415,https://www.wuerzburg.de,True,button,alle akzeptieren,True,button,ich lehne ab,False
+1416,https://www.medpex.de,True,span,ok,True,span,alles ablehnen,False
+1417,https://www.embedded-world.de,False,,,True,span,reject all,False
+1418,https://www.aachen.de,True,span,ok,False,,,False
+1419,https://www.netpoint-media.de,False,,,False,,,False
+1420,https://www.studycheck.de,False,,,False,,,False
+1421,https://www.gutscheinaffe.de,True,button,akzeptieren,True,button,ablehnen,False
+1422,https://www.huk24.de,True,button,zustimmen,False,,,False
+1423,https://www.uni-assist.de,True,div,ok,False,,,False
+1424,https://www.geofabrik.de,False,,,False,,,False
+1425,https://www.ihk-muenchen.de,False,,,False,,,False
+1426,https://www.ueberbrueckungshilfe-unternehmen.de,False,,,False,,,False
+1427,https://www.homeday.de,True,a,alle akzeptieren,True,a,nur notwendige cookies,False
+1428,https://www.stylebook.de,True,button,alle akzeptieren,False,,,False
+1429,https://www.dealdoktor.de,False,,,False,,,True
+1430,https://www.timeanddate.de,True,button,zustimmen,True,button,ablehnen,False
+1431,https://www.opel.de,True,a,alle akzeptieren,True,a,alle ablehnen,False
+1432,https://www.queer.de,True,span,accept all,False,,,False
+1433,https://www.hs-fulda.de,True,button,alle akzeptieren,True,button,ablehnen,False
+1434,https://www.ovb-online.de,False,,,False,,,False
+1435,https://www.bzfe.de,True,div,alle cookies akzeptieren,False,,,False
+1436,https://www.desired.de,True,button,akzeptieren und weiter,False,,,False
+1437,https://www.come-on.de,False,,,False,,,False
+1438,https://www.skinbaron.de,False,,,False,,,False
+1439,https://www.dd-inside.de,True,a,einverstanden,False,,,False
+1440,https://www.bochum.de,False,,,False,,,False
+1441,https://www.kinderaerzte-im-netz.de,False,,,False,,,False
+1442,https://www.buchhandlung.de,True,button,alle akzeptieren,False,,,False
+1443,https://www.gravis.de,True,div,akzeptieren,True,div,ablehnen,False
+1444,https://www.knuddels.de,False,,,False,,,False
+1445,https://www.abelssoft.de,False,,,False,,,False
+1446,https://www.disney.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+1447,https://www.bam.de,False,,,False,,,False
+1448,https://www.yougov.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+1449,https://www.skewed.de,False,,,False,,,False
+1450,https://www.schwaebisch-hall.de,True,button,alle akzeptieren,True,span,nicht zustimmen,False
+1451,https://www.herzstiftung.de,True,a,cookies zulassen,False,,,False
+1452,https://www.personalausweisportal.de,True,button,alle auswählen,True,button,alle ablehnen,False
+1453,https://www.alfahosting.de,True,span,alle akzeptieren,True,span,alle ablehnen,False
+1454,https://www.wortmann.de,True,a,ok,False,,,False
+1455,https://www.hs-osnabrueck.de,True,button,akzeptieren,False,,,False
+1456,https://www.biofach.de,False,,,True,span,reject all,False
+1457,https://www.zib.de,False,,,False,,,False
+1458,https://www.blogger.de,False,,,False,,,False
+1459,https://www.r-m.de,True,button,accept all,False,,,False
+1460,https://www.carwow.de,False,,,False,,,False
+1461,https://www.ku.de,True,button,alle cookies akzeptieren,False,,,False
+1462,https://www.manufactum.de,True,div,ok,True,button,cookies ablehnen,False
+1463,https://www.toyota.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+1464,https://www.ekir.de,True,a,verstanden,False,,,False
+1465,https://www.dnn.de,False,,,False,,,False
+1466,https://www.xboxdynasty.de,True,button,zustimmen,False,,,False
+1467,https://www.dbk.de,True,button,speichern,False,,,False
+1468,https://www.aldi-onlineshop.de,True,button,speichern,False,,,True
+1469,https://www.enpal.de,False,,,False,,,False
+1470,https://www.anwaltverein.de,True,button,accept,True,a,verweigern,False
+1471,https://www.mister-wong.de,True,div,alle akzeptieren,True,div,ablehnen,False
+1472,https://www.stage-entertainment.de,True,div,alle akzeptieren,False,,,False
+1473,https://www.goettinger-tageblatt.de,False,,,False,,,False
+1474,https://www.fridaysforfuture.de,False,,,False,,,False
+1475,https://www.gls-online-filiale.de,True,button,das ist ok,True,button,ich lehne ab,False
+1476,https://www.datenschutzzentrum.de,False,,,False,,,False
+1477,https://www.googlewatchblog.de,True,button,cookies akzeptieren,False,,,False
+1478,https://www.onleihe.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+1479,https://www.existenzgruender.de,False,,,False,,,False
+1480,https://www.fh-potsdam.de,False,,,False,,,False
+1481,https://www.bertelsmann.de,True,a,allow all cookies,True,a,use necessary cookies only,False
+1482,https://www.t-mobile.de,True,button,agree to all,True,button,only required,False
+1483,https://www.maclife.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+1484,https://www.lz.de,True,span,accept all,True,span,reject all,False
+1485,https://www.porsche.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+1486,https://www.terminland.de,True,a,zustimmen,True,a,ablehnen,False
+1487,https://www.duisburg.de,False,,,False,,,False
+1488,https://www.econbiz.de,False,,,False,,,False
+1489,https://www.digicult-verbund.de,False,,,False,,,False
+1490,https://www.kuechengoetter.de,False,,,False,,,False
+1491,https://www.slub-dresden.de,False,,,False,,,True
+1492,https://www.donnerwetter.de,False,,,False,,,False
+1493,https://www.study-in-germany.de,True,div,alle akzeptieren,True,button,mit notwendigen fortfahren,False
+1494,https://www.houzz.de,True,button,annehmen,True,button,alle ablehnen,False
+1495,https://www.yaml.de,False,,,False,,,False
+1496,https://www.duesseldorf-tourismus.de,False,,,False,,,False
+1497,https://www.deine-tierwelt.de,True,div,akzeptieren & schließen,False,,,False
+1498,https://www.oxfam.de,False,,,False,,,False
+1499,https://www.br-klassik.de,False,,,False,,,False
+1500,https://www.globus.de,True,a,cookies zulassen,True,a,nur notwendige cookies,False
+1501,https://www.studentenwerke.de,True,a,cookies erlauben,True,a,ablehnen,False
+1502,https://www.hatjecantz.de,False,,,False,,,False
+1503,https://www.wir-machen-druck.de,True,div,ich stimme zu,False,,,False
+1504,https://www.onlinestreet.de,True,button,ok,False,,,False
+1505,https://www.die-linke.de,False,,,False,,,False
+1506,https://www.rund-ums-baby.de,True,button,zustimmen,True,button,ablehnen,False
+1507,https://www.uni-wh.de,True,button,alle akzeptieren,True,span,essentiell,False
+1508,https://www.legoland.de,True,button,ich stimme allen cookies zu,False,,,False
+1509,https://www.imago-images.de,True,div,accept all,True,div,deny all,False
+1510,https://www.motointegrator.de,False,,,False,,,False
+1511,https://www.ptj.de,True,button,alles akzeptieren,True,button,ablehnen,False
+1512,https://www.norisbank.de,False,,,False,,,False
+1513,https://www.vhs-lernportal.de,False,,,False,,,False
+1514,https://www.viamichelin.de,False,,,False,,,False
+1515,https://www.fahrrad-xxl.de,False,,,False,,,False
+1516,https://www.classistatic.de,False,,,False,,,False
+1517,https://www.fv-bwl.de,False,,,False,,,False
+1518,https://www.hs-bremen.de,True,button,aktivieren,True,button,notwendige cookies,False
+1519,https://www.digitalkamera.de,True,div,zustimmen,True,div,ablehnen,False
+1520,https://www.franzis.de,True,button,alle akzeptieren,False,,,False
+1521,https://www.moviejones.de,True,span,accept all,False,,,False
+1522,https://www.ids-mannheim.de,False,,,False,,,False
+1523,https://www.gamestop.de,True,a,agree and proceed,False,,,True
+1524,https://www.metal-hammer.de,True,div,alle akzeptieren,False,,,False
+1525,https://www.miniatur-wunderland.de,True,div,schließen,False,,,False
+1526,https://www.testbericht.de,False,,,False,,,False
+1527,https://www.spsg.de,True,a,ok,False,,,False
+1528,https://www.kino-zeit.de,True,button,alle cookies zulassen,True,button,nur notwendige cookies verwenden,False
+1529,https://www.jochen-schweizer.de,False,,,False,,,False
+1530,https://www.spielwarenmesse.de,True,div,akzeptieren,True,div,verweigern,False
+1531,https://www.webmasterpro.de,True,button,einwilligen,False,,,False
+1532,https://www.hamburger-kunsthalle.de,False,,,False,,,False
+1533,https://www.lifeline.de,True,span,alle akzeptieren,False,,,False
+1534,https://www.uk-koeln.de,True,a,cookies zulassen,True,a,nur notwendige cookies,False
+1535,https://www.hs-anhalt.de,True,button,alle akzeptieren,True,span,essentiell,False
+1536,https://www.honda.de,True,button,akzeptieren,True,button,alle ablehnen,False
+1537,https://www.giessener-allgemeine.de,False,,,False,,,False
+1538,https://www.bib-bvb.de,False,,,False,,,False
+1539,https://www.koblenz.de,True,button,alle auswählen,False,,,False
+1540,https://www.charta-der-vielfalt.de,True,button,alle auswählen,True,button,notwendige cookies,False
+1541,https://www.lampenwelt.de,True,span,einverstanden,False,,,False
+1542,https://www.dhbw-stuttgart.de,True,a,allow all cookies,True,a,use necessary cookies only,False
+1543,https://www.tagblatt.de,True,a,zustimmung,False,,,False
+1544,https://www.ewe.de,True,a,consent,True,button,use necessary cookies only,False
+1545,https://www.webwiki.de,True,a,verstanden,False,,,False
+1546,https://www.monopol-magazin.de,True,button,alle akzeptieren,False,,,False
+1547,https://www.wetter24.de,False,,,False,,,False
+1548,https://www.carlsen.de,False,,,False,,,False
+1549,https://www.kaspersky.de,True,button,allow all cookies,True,button,use necessary cookies only,False
+1550,https://www.channelpartner.de,False,,,False,,,False
+1551,https://www.buchkatalog.de,True,span,alle akzeptieren,True,span,alles ablehnen,False
+1552,https://www.antidiskriminierungsstelle.de,False,,,False,,,False
+1553,https://www.uni-duisburg-essen.de,False,,,False,,,False
+1554,https://www.interamt.de,True,button,ok,False,,,False
+1555,https://www.eco.de,True,p,alle akzeptieren,True,p,ablehnen,False
+1556,https://www.cameraobscurafilms.de,False,,,False,,,False
+1557,https://www.elektronik-kompendium.de,False,,,False,,,False
+1558,https://www.fussballdaten.de,True,button,einwilligen,False,,,False
+1559,https://www.kryptoszene.de,False,,,False,,,False
+1560,https://www.cosmosdirekt.de,True,button,einverstanden,True,button,notwendige cookies,False
+1561,https://www.pkwteile.de,False,,,False,,,False
+1562,https://www.mikatiming.de,True,button,alle akzeptieren,True,span,essentiell,False
+1563,https://www.yooco.de,False,,,False,,,False
+1564,https://www.jam-software.de,True,span,alle auswählen,False,,,False
+1565,https://www.wuppertal.de,False,,,False,,,False
+1566,https://www.wochenblatt.de,False,,,True,button,deny,False
+1567,https://www.adticket.de,False,,,False,,,False
+1568,https://www.areadvd.de,True,div,akzeptieren & schließen,False,,,False
+1569,https://www.lottohelden.de,True,button,ok,False,,,False
+1570,https://www.titanic-magazin.de,True,a,fein,False,,,False
+1571,https://www.innovations-report.de,False,,,False,,,False
+1572,https://www.transmediale.de,False,,,False,,,False
+1573,https://www.wsv.de,False,,,False,,,False
+1574,https://www.entwickler.de,True,div,alle akzeptieren,False,,,False
+1575,https://www.intelliad.de,True,div,akzeptieren,True,div,verweigern,False
+1576,https://www.aidshilfe.de,True,div,ok,False,,,False
+1577,https://www.koerber-stiftung.de,False,,,False,,,False
+1578,https://www.klett-cotta.de,True,button,akzeptieren,True,button,verweigern,False
+1579,https://www.potsdam.de,False,,,False,,,False
+1580,https://www.autodesk.de,False,,,True,button,ablehnen,False
+1581,https://www.anime2you.de,False,,,False,,,False
+1582,https://www.secretescapes.de,True,div,alle cookies akzeptieren,False,,,False
+1583,https://www.hbz-nrw.de,True,a,cookies akzeptieren,False,,,False
+1584,https://www.flatex.de,True,div,alle akzeptieren,False,,,False
+1585,https://www.smart-rechner.de,True,button,akzeptieren,False,,,False
+1586,https://www.mannheim24.de,False,,,False,,,False
+1587,https://www.codecentric.de,False,,,False,,,False
+1588,https://www.fachanwalt.de,True,span,accept all,True,span,reject all,False
+1589,https://www.myspreadshop.de,False,,,False,,,False
+1590,https://www.herz-fuer-tiere.de,True,div,zustimmen,False,,,False
+1591,https://www.nn.de,True,span,akzeptieren und weiterlesen,True,div,notwendige cookies,False
+1592,https://www.misterspex.de,True,button,akzeptieren,False,,,False
+1593,https://www.kik.de,False,,,False,,,False
+1594,https://www.segmueller.de,True,span,ich stimme zu,True,span,nur funktionale cookies,False
+1595,https://www.buch.de,True,form,alle cookies akzeptieren,True,form,nur funktionale cookies,False
+1596,https://www.kassel.de,True,button,ok,False,,,False
+1597,https://www.reporter-ohne-grenzen.de,True,button,alle akzeptieren,False,,,False
+1598,https://www.security-insider.de,True,div,accept and continue,False,,,False
+1599,https://www.sprachschule-aktiv-muenchen.de,False,,,False,,,False
+1600,https://www.toggo.de,False,,,False,,,True
+1601,https://www.bankenverband.de,True,span,allow all,False,,,False
+1602,https://www.photozone.de,True,a,got it,False,,,False
+1603,https://www.nestoria.de,True,button,zustimmen,True,button,nicht zustimmen,False
+1604,https://www.neuepresse.de,False,,,False,,,False
+1605,https://www.kindernetz.de,False,,,False,,,False
+1606,https://www.proshop.de,True,button,einverstanden,True,button,nur notwendige,False
+1607,https://www.baby-walz.de,True,div,ok,True,div,nur erforderliche cookies,False
+1608,https://www.mittwald.de,True,button,alle akzeptieren,True,button,nur notwendige cookies,False
+1609,https://www.welect.de,False,,,False,,,False
+1610,https://www.fuer-gruender.de,False,,,False,,,False
+1611,https://www.sos-kinderdorf.de,True,a,akzeptieren,True,div,ablehnen,False
+1612,https://www.avis.de,False,,,False,,,False
+1613,https://www.runnersworld.de,True,button,akzeptieren und weiter,False,,,False
+1614,https://www.uni-koblenz-landau.de,True,a,akzeptieren,True,a,ablehnen,False
+1615,https://www.billiger-mietwagen.de,True,button,alle akzeptieren,False,,,False
+1616,https://www.rezeptwelt.de,True,div,alle cookies akzeptieren,False,,,False
+1617,https://www.gea.de,False,,,False,,,False
+1618,https://www.fanfiktion.de,True,span,accept all,False,,,False
+1619,https://www.lindner.de,True,a,alle akzeptieren,False,,,False
+1620,https://www.vvs.de,True,div,zustimmen,False,,,False
+1621,https://www.nwb.de,True,div,alle akzeptieren,False,,,False
+1622,https://www.zugspitze.de,False,,,True,button,decline,False
+1623,https://www.hamburg-airport.de,True,a,cookies zulassen,True,a,nur notwendige cookies,False
+1624,https://www.bundespolizei.de,True,button,alle auswählen,False,,,False
+1625,https://www.winsim.de,True,button,bestätigen,True,button,ablehnen,False
+1626,https://www.lecturio.de,True,button,akzeptieren und weiter,False,,,False
+1627,https://www.prisma.de,True,div,akzeptieren und weiter,False,,,False
+1628,https://www.fh-koeln.de,False,,,False,,,False
+1629,https://www.oekom.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+1630,https://www.worldofgothic.de,True,a,accept cookies,False,,,False
+1631,https://www.agma-mmc.de,True,a,zustimmung,True,button,nur notwendige cookies verwenden,False
+1632,https://www.hochschulkompass.de,False,,,False,,,False
+1633,https://www.ksk-koeln.de,True,a,zustimmen,True,a,ablehnen,False
+1634,https://www.thw.de,True,button,alle auswählen,False,,,False
+1635,https://www.learnenglish.de,True,div,accept all,True,div,decline all,False
+1636,https://www.velux.de,True,div,cookies zulassen,False,,,False
+1637,https://www.proasyl.de,True,p,cookies akzeptieren,True,p,nur essenzielle cookies akzeptieren,False
+1638,https://www.boersen-zeitung.de,True,div,zustimmen,True,div,ablehnen,False
+1639,https://www.tu-cottbus.de,False,,,False,,,False
+1640,https://www.klingel.de,False,,,False,,,False
+1641,https://www.bildungslandschaft-pulheim.de,False,,,False,,,False
+1642,https://www.viessmann.de,False,,,False,,,False
+1643,https://www.iban-rechner.de,True,button,akzeptieren,False,,,False
+1644,https://www.sparhandy.de,False,,,False,,,False
+1645,https://www.starfinanz.de,True,p,alle cookies erlauben,False,,,False
+1646,https://www.dtv.de,True,a,ok,True,a,ablehnen,False
+1647,https://www.managementportal.de,True,div,verstanden,False,,,False
+1648,https://www.adk.de,False,,,False,,,False
+1649,https://www.apodiscounter.de,True,div,einverstanden,False,,,False
+1650,https://www.tvdigital.de,True,div,alle akzeptieren,False,,,False
+1651,https://www.silicon.de,True,button,annehmen und schließen,False,,,False
+1652,https://www.maschinensucher.de,True,button,akzeptieren,False,,,False
+1653,https://www.fetisch.de,True,button,alles akzeptieren,True,button,ablehnen,False
+1654,https://www.blogg.de,True,div,alle akzeptieren,True,div,ablehnen,False
+1655,https://www.reuter.de,True,div,alle cookies akzeptieren,True,div,ich lehne ab,False
+1656,https://www.pleiteticker.de,True,button,alle zulassen,True,button,ablehnen,False
+1657,https://www.musikexpress.de,True,div,alle akzeptieren,False,,,False
+1658,https://www.diakonie.de,True,div,alle akzeptieren,False,,,False
+1659,https://www.alnatura.de,True,a,alle cookies erlauben,True,a,nur notwendige cookies verwenden,False
+1660,https://www.zoo-berlin.de,False,,,True,a,ablehnen,False
+1661,https://www.expert-technomarkt.de,False,,,False,,,False
+1662,https://www.dshs-koeln.de,True,div,ok,False,,,False
+1663,https://www.immobilo.de,False,,,False,,,False
+1664,https://www.contorion.de,True,button,alles akzeptieren,False,,,False
+1665,https://www.elektro-wandelt.de,True,button,alles akzeptieren,True,button,ablehnen,False
+1666,https://www.mypass.de,False,,,False,,,False
+1667,https://www.vbb.de,True,a,allow all,True,a,deny,False
+1668,https://www.flaschenpost.de,False,,,True,button,ablehnen,False
+1669,https://www.oeffnungszeitenbuch.de,True,button,zustimmen und weiter,False,,,False
+1670,https://www.poco.de,True,div,alle cookies akzeptieren,False,,,False
+1671,https://www.bundesfinanzhof.de,True,button,alle cookies zulassen,True,button,nur notwendige cookies,False
+1672,https://www.hochschule-trier.de,False,,,False,,,False
+1673,https://www.mainova.de,False,,,True,div,ablehnen,False
+1674,https://www.fcn.de,True,span,alles akzeptieren,True,span,alles ablehnen,False
+1675,https://www.easybell.de,True,div,akzeptieren,False,,,False
+1676,https://www.axelspringer.de,True,div,zustimmen,False,,,False
+1677,https://www.prad.de,True,button,akzeptieren,False,,,False
+1678,https://www.motoin.de,False,,,False,,,False
+1679,https://www.bo.de,True,a,"ja, weiter",False,,,False
+1680,https://www.zeichenundwunder.de,False,,,False,,,False
+1681,https://www.norma-online.de,False,,,False,,,True
+1682,https://www.hays.de,False,,,False,,,False
+1683,https://www.fitnessfirst.de,False,,,False,,,False
+1684,https://www.uci-kinowelt.de,True,div,i accept,True,div,reject all,False
+1685,https://www.sistrix.de,False,,,False,,,False
+1686,https://www.sciebo.de,False,,,False,,,False
+1687,https://www.werkenntdenbesten.de,True,span,accept all,True,span,reject all,False
+1688,https://www.uksh.de,False,,,False,,,False
+1689,https://www.formel1.de,True,div,akzeptieren und weiter,False,,,False
+1690,https://www.hochschule-rhein-waal.de,False,,,False,,,False
+1691,https://www.transparency.de,True,button,alle akzeptieren,True,span,essentiell,False
+1692,https://www.liebenswert-magazin.de,True,button,akzeptieren und weiter,False,,,False
+1693,https://www.computerwissen.de,True,button,alles akzeptieren,True,a,ablehnen,False
+1694,https://www.osram.de,False,,,True,button,alle ablehnen,False
+1695,https://www.deejay.de,False,,,False,,,False
+1696,https://www.fuersie.de,False,,,False,,,False
+1697,https://www.bravo.de,True,button,akzeptieren und weiter,False,,,False
+1698,https://www.soliver.de,True,a,alles akzeptieren,False,,,False
+1699,https://www.korrekturen.de,True,button,akzeptieren und weiter,False,,,False
+1700,https://www.yt1s.de,False,,,False,,,False
+1701,https://www.fitx.de,True,div,alle akzeptieren,False,,,False
+1702,https://www.hss.de,True,div,akzeptieren,False,,,False
+1703,https://www.nvidia.de,True,button,cookies akzeptieren,True,button,cookies ablehnen,False
+1704,https://www.mckinsey.de,True,div,zur webseite,False,,,False
+1705,https://www.sozialgesetzbuch-sgb.de,False,,,False,,,False
+1706,https://www.burg-halle.de,True,button,ok,False,,,False
+1707,https://www.bitdefender.de,True,a,consent,True,button,use necessary cookies only,False
+1708,https://www.stiftung-gesundheitswissen.de,True,a,consent,True,button,use necessary cookies only,True
+1709,https://www.gruender.de,False,,,False,,,False
+1710,https://www.holzprofi24.de,True,a,akzeptieren,False,,,False
+1711,https://www.emma.de,True,span,accept all,False,,,False
+1712,https://www.ph-ludwigsburg.de,False,,,False,,,False
+1713,https://www.fleurop.de,True,span,alle akzeptieren,False,,,False
+1714,https://www.warenvergleich.de,False,,,False,,,False
+1715,https://www.finanztreff.de,False,,,False,,,True
+1716,https://www.filmportal.de,False,,,False,,,False
+1717,https://www.ls-tc.de,True,button,akzeptieren,True,button,ablehnen,False
+1718,https://www.tsg-hoffenheim.de,True,button,akzeptieren,True,button,ablehnen,True
+1719,https://www.bundesarbeitsgericht.de,True,div,speichern,False,,,False
+1720,https://www.ardalpha.de,False,,,False,,,False
+1721,https://www.fotoparadies.de,False,,,False,,,False
+1722,https://www.vwfs.de,False,,,False,,,False
+1723,https://www.leasingmarkt.de,False,,,False,,,False
+1724,https://www.hafas.de,True,a,consent,True,button,deny,False
+1725,https://www.az-online.de,False,,,False,,,False
+1726,https://www.fuldaerzeitung.de,False,,,False,,,False
+1727,https://www.musin.de,False,,,False,,,False
+1728,https://www.bahnhof.de,False,,,False,,,False
+1729,https://www.hzdr.de,False,,,False,,,False
+1730,https://www.electronica.de,False,,,False,,,False
+1731,https://www.spielaffe.de,True,button,akzeptieren und weiter,False,,,False
+1732,https://www.weltsparen.de,True,span,gut,False,,,False
+1733,https://www.ble.de,True,button,alle auswählen,False,,,False
+1734,https://www.paketda.de,True,div,zustimmen,False,,,False
+1735,https://www.lsvd.de,False,,,False,,,False
+1736,https://www.ebook.de,False,,,False,,,False
+1737,https://www.elektroniknet.de,True,div,akzeptieren und weiter,False,,,False
+1738,https://www.cosmopolitan.de,True,button,akzeptieren und weiter,False,,,False
+1739,https://www.f-i.de,False,,,False,,,False
+1740,https://www.oth-aw.de,True,button,alle auswählen,True,button,ablehnen,False
+1741,https://www.praxisvita.de,True,button,akzeptieren und weiter,False,,,False
+1742,https://www.naspa.de,True,a,zustimmen,False,,,True
+1743,https://www.verwalt-berlin.de,False,,,False,,,False
+1744,https://www.ich-tanke.de,False,,,False,,,False
+1745,https://www.lidl-kochen.de,True,button,zustimmen,True,button,ablehnen,False
+1746,https://www.htwk-leipzig.de,True,button,zustimmen,True,button,ablehnen,True
+1747,https://www.eventim-inhouse.de,False,,,False,,,False
+1748,https://www.gsa-online.de,False,,,False,,,False
+1749,https://www.sunday.de,True,span,alle akzeptieren,False,,,False
+1750,https://www.klm.de,True,button,akzeptieren,True,button,ablehnen,False
+1751,https://www.hifi-wiki.de,False,,,False,,,False
+1752,https://www.busch-jaeger.de,False,,,False,,,False
+1753,https://www.wlw.de,True,a,alle cookies akzeptieren,False,,,True
+1754,https://www.pv-magazine.de,True,a,zustimmung,True,button,cookies ablehnen,False
+1755,https://www.mouser.de,True,div,alle cookies akzeptieren,False,,,False
+1756,https://www.absolventa.de,True,span,alle akzeptieren,False,,,False
+1757,https://www.luebeck.de,True,button,alle akzeptieren,False,,,False
+1758,https://www.grundsteuererklaerung-fuer-privateigentum.de,False,,,False,,,False
+1759,https://www.hdi.de,False,,,False,,,False
+1760,https://www.muensterschezeitung.de,False,,,False,,,False
+1761,https://www.ifa.de,True,span,accept all,True,span,reject all,False
+1762,https://www.hab.de,True,div,alle akzeptieren,True,div,nur essenzielle cookies akzeptieren,False
+1763,https://www.buchhandel.de,False,,,False,,,False
+1764,https://www.documenta.de,True,a,alle cookies zulassen,False,,,False
+1765,https://www.der-betze-brennt.de,True,span,accept all,True,span,reject all,False
+1766,https://www.imwerden.de,False,,,False,,,False
+1767,https://www.l-iz.de,False,,,False,,,False
+1768,https://www.tiho-hannover.de,True,button,alle akzeptieren,True,span,essentiell,False
+1769,https://www.gaumenfreundin.de,True,div,zustimmen,False,,,False
+1770,https://www.hardwareschotte.de,False,,,False,,,False
+1771,https://www.gutekueche.de,True,button,akzeptieren und weiter,False,,,False
+1772,https://www.phantasialand.de,True,button,accept all cookies,True,button,reject all,False
+1773,https://www.bitrix24.de,True,div,akzeptieren,False,,,False
+1774,https://www.drweb.de,False,,,False,,,False
+1775,https://www.vb-rb.de,True,button,allen zustimmen,False,,,False
+1776,https://www.uniklinikum-dresden.de,False,,,False,,,False
+1777,https://www.agof.de,True,a,ok,False,,,False
+1778,https://www.tierschutzbund.de,False,,,False,,,False
+1779,https://www.waltrop.de,False,,,False,,,False
+1780,https://www.moviebreak.de,False,,,False,,,False
+1781,https://www.vonovia.de,True,a,allow all cookies,True,a,use necessary cookies only,False
+1782,https://www.iu.de,False,,,False,,,False
+1783,https://www.bayreuther-festspiele.de,True,div,zur webseite,False,,,False
+1784,https://www.hs-pforzheim.de,False,,,False,,,False
+1785,https://www.hwr-berlin.de,True,div,akzeptieren,False,,,False
+1786,https://www.webcamgalore.de,True,div,ok,False,,,False
+1787,https://www.online-umwandeln.de,False,,,False,,,False
+1788,https://www.vr.de,True,button,schließen,False,,,False
+1789,https://www.joomla.de,True,a,cookies zulassen,True,a,cookies ablehnen,False
+1790,https://www.krautreporter.de,False,,,False,,,False
+1791,https://www.yacht.de,True,span,accept all,False,,,False
+1792,https://www.volkswagenstiftung.de,False,,,False,,,False
+1793,https://www.rollei.de,True,a,annehmen,True,a,ablehnen,False
+1794,https://www.badw.de,False,,,False,,,False
+1795,https://www.munzinger.de,False,,,True,p,nur essenzielle cookies akzeptieren,False
+1796,https://www.detail.de,True,a,consent,True,button,allow only necessary,False
+1797,https://www.activevb.de,False,,,False,,,False
+1798,https://www.sparkasse-hgp.de,True,a,zustimmen,True,a,ablehnen,False
+1799,https://www.landbw.de,False,,,False,,,False
+1800,https://www.mannheimer-morgen.de,False,,,False,,,False
+1801,https://www.aekwl.de,True,div,ok,False,,,False
+1802,https://www.parship.de,False,,,False,,,False
+1803,https://www.dr-gumpert.de,False,,,False,,,False
+1804,https://www.hs-duesseldorf.de,False,,,False,,,False
+1805,https://www.fitbook.de,False,,,False,,,False
+1806,https://www.soester-anzeiger.de,False,,,False,,,False
+1807,https://www.isnichwahr.de,True,div,akzeptieren & schließen,False,,,False
+1808,https://www.stylight.de,False,,,False,,,False
+1809,https://www.gew.de,True,button,akzeptieren,True,button,ich lehne ab,False
+1810,https://www.b-s.de,True,button,allen zustimmen,False,,,False
+1811,https://www.sana.de,False,,,False,,,False
+1812,https://www.bon.de,True,p,alle akzeptieren,True,p,nur essenzielle cookies akzeptieren,False
+1813,https://www.bonro.de,True,a,verstanden,False,,,False
+1814,https://www.gothaer.de,True,span,alle akzeptieren,False,,,False
+1815,https://www.hausderkunst.de,True,button,allow all cookies,True,button,use necessary cookies only,False
+1816,https://www.alteoper.de,True,button,allen zustimmen,True,button,ablehnen,False
+1817,https://www.datenschutz-hamburg.de,False,,,False,,,False
+1818,https://www.multi-shopping.de,False,,,True,button,ablehnen,False
+1819,https://www.uni-flensburg.de,False,,,False,,,False
+1820,https://www.packlink.de,True,button,agree and close,False,,,False
+1821,https://www.schumann-shop.de,True,div,alle akzeptieren,False,,,True
+1822,https://www.epson.de,True,button,alle cookies akzeptieren,True,button,alle ablehnen,False
+1823,https://www.deka.de,False,,,True,span,alle ablehnen,False
+1824,https://www.ur.de,False,,,False,,,False
+1825,https://www.basic-tutorials.de,True,div,akzeptieren und weiter,False,,,False
+1826,https://www.aeg.de,True,div,alle cookies akzeptieren,False,,,False
+1827,https://www.hs-regensburg.de,False,,,False,,,False
+1828,https://www.boerse-stuttgart.de,False,,,True,button,nur notwendige cookies,False
+1829,https://www.erzbistum-muenchen.de,False,,,False,,,False
+1830,https://www.kinopolis.de,True,div,alle auswählen,False,,,False
+1831,https://www.dmsg.de,True,a,alle akzeptieren,False,,,False
+1832,https://www.lablue.de,False,,,False,,,False
+1833,https://www.kiel.de,False,,,False,,,False
+1834,https://www.mybestbrands.de,False,,,False,,,False
+1835,https://www.amazona.de,True,p,akzeptieren,True,p,cookies ablehnen,False
+1836,https://www.kunstsammlung.de,True,button,alle auswählen,False,,,False
+1837,https://www.hcu-hamburg.de,False,,,False,,,False
+1838,https://www.zoo-leipzig.de,True,button,alle akzeptieren,True,div,essentiell,False
+1839,https://www.regionalheute.de,True,button,alle akzeptieren,True,div,essentiell,True
+1840,https://www.z0r.de,False,,,False,,,False
+1841,https://www.steidl.de,True,a,accept,True,div,necessary cookies,False
+1842,https://www.herber.de,False,,,False,,,False
+1843,https://www.datenschutz-bayern.de,False,,,False,,,False
+1844,https://www.wolfsburg.de,False,,,False,,,False
+1845,https://www.kartenmacherei.de,True,button,ok,False,,,False
+1846,https://www.jysk.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+1847,https://www.biallo.de,False,,,False,,,False
+1848,https://www.nbank.de,False,,,False,,,False
+1849,https://www.speisekarte.de,True,div,zustimmen,False,,,False
+1850,https://www.echo24.de,False,,,False,,,False
+1851,https://www.mirapodo.de,True,button,zustimmen,True,span,cookies ablehnen,False
+1852,https://www.union-investment.de,False,,,False,,,False
+1853,https://www.amadeu-antonio-stiftung.de,False,,,False,,,True
+1854,https://www.lovescout24.de,True,div,akzeptieren,False,,,False
+1855,https://www.genialokal.de,True,span,alle akzeptieren,True,div,essentiell,False
+1856,https://www.whoswho.de,True,span,akzeptieren,False,,,False
+1857,https://www.pixum.de,False,,,False,,,False
+1858,https://www.schlaukopf.de,True,button,akzeptieren,False,,,False
+1859,https://www.lvm.de,False,,,False,,,False
+1860,https://www.osnabrueck.de,True,button,das ist ok,True,button,ich lehne ab,False
+1861,https://www.krankenkassen.de,False,,,False,,,False
+1862,https://www.hs-wismar.de,True,button,okay,False,,,False
+1863,https://www.sparkasse-muensterland-ost.de,True,a,zustimmen,False,,,True
+1864,https://www.parmentier.de,False,,,False,,,False
+1865,https://www.genios.de,True,button,alles akzeptieren,True,button,ablehnen,False
+1866,https://www.ofdb.de,True,button,akzeptieren und weiter,False,,,False
+1867,https://www.jab.de,True,span,accept all,True,span,reject all,False
+1868,https://www.12coupon.de,False,,,False,,,False
+1869,https://www.weisser-ring.de,False,,,False,,,False
+1870,https://www.stihl.de,True,button,allem zustimmen,True,button,alle ablehnen,False
+1871,https://www.1000ps.de,True,div,akzeptieren & schließen,False,,,False
+1872,https://www.yoga-vidya.de,True,div,ok,False,,,False
+1873,https://www.mhh.de,False,,,False,,,False
+1874,https://www.hifi.de,False,,,False,,,False
+1875,https://www.walbusch.de,True,span,allen zustimmen,False,,,False
+1876,https://www.stuttgart-tourist.de,True,a,allow all cookies,True,a,use necessary cookies only,False
+1877,https://www.12gebrauchtwagen.de,False,,,False,,,False
+1878,https://www.liga3-online.de,True,span,accept all,False,,,False
+1879,https://www.wmn.de,True,span,accept all,False,,,True
+1880,https://www.99designs.de,False,,,False,,,False
+1881,https://www.hochschulstart.de,True,a,ok,True,a,ablehnen,False
+1882,https://www.vb-mittelhessen.de,True,a,ok,True,a,ablehnen,True
+1883,https://www.carookee.de,False,,,False,,,False
+1884,https://www.digikey.de,False,,,False,,,False
+1885,https://www.sosafe.de,True,p,i accept,True,p,accept only essential cookies,False
+1886,https://www.mainz05.de,True,div,alle cookies akzeptieren,False,,,False
+1887,https://www.dzbank.de,False,,,False,,,False
+1888,https://www.arbeitsrechte.de,True,span,alle akzeptieren,True,span,alle ablehnen,False
+1889,https://www.pflege.de,True,span,accept,True,span,reject,False
+1890,https://www.pferd-aktuell.de,True,a,consent,True,button,use necessary cookies only,False
+1891,https://www.sskduesseldorf.de,True,a,zustimmen,True,button,use necessary cookies only,True
+1892,https://www.funkedigital.de,True,span,alle akzeptieren,False,,,False
+1893,https://www.brk.de,False,,,False,,,False
+1894,https://www.pro-linux.de,False,,,False,,,False
+1895,https://www.depot-online.de,True,div,akzeptieren,False,,,False
+1896,https://www.fti.de,False,,,False,,,False
+1897,https://www.mein-grundeinkommen.de,True,button,cookies zulassen,True,button,nur notwendige cookies verwenden,False
+1898,https://www.fh-bielefeld.de,False,,,False,,,False
+1899,https://www.gelsenkirchen.de,True,button,das ist ok,True,button,ich lehne ab,False
+1900,https://www.interhyp.de,True,button,alle akzeptieren,False,,,False
+1901,https://www.redim.de,True,a,akzeptieren,True,a,ablehnen,False
+1902,https://www.playboy.de,False,,,False,,,False
+1903,https://www.helmholtz-berlin.de,False,,,False,,,False
+1904,https://www.conceptodefinicion.de,True,button,continue with recommended cookies,False,,,False
+1905,https://www.foerderland.de,False,,,False,,,False
+1906,https://www.ep.de,True,button,alle akzeptieren,False,,,False
+1907,https://www.lexsoft.de,False,,,False,,,False
+1908,https://www.fairtrade-deutschland.de,True,button,speichern,True,div,"notwendige cookies
+technisch notwendige cookies",False
+1909,https://www.onvista-bank.de,True,div,alle akzeptieren,False,,,False
+1910,https://www.kindergesundheit-info.de,True,a,erlauben,True,a,nicht erlauben,False
+1911,https://www.usk.de,True,p,alle akzeptieren,False,,,False
+1912,https://www.bwin.de,True,p,alle akzeptieren,False,,,True
+1913,https://www.hanseaticbank.de,True,button,ok,True,button,ablehnen,False
+1914,https://www.solarserver.de,False,,,False,,,False
+1915,https://www.treatwell.de,True,button,schließen,False,,,False
+1916,https://www.medica.de,False,,,False,,,False
+1917,https://www.dvb.de,False,,,False,,,False
+1918,https://www.industrie.de,True,span,accept all,False,,,False
+1919,https://www.helles-koepfchen.de,True,span,accept all,False,,,True
+1920,https://www.dertour.de,False,,,False,,,False
+1921,https://www.theeuropean.de,True,div,alle akzeptieren,True,div,nur essenzielle cookies akzeptieren,False
+1922,https://www.datevnet.de,False,,,False,,,False
+1923,https://www.aktiencheck.de,False,,,False,,,False
+1924,https://www.messen.de,False,,,False,,,False
+1925,https://www.km-bw.de,True,button,ok,False,,,False
+1926,https://www.heiligenlexikon.de,True,a,einverstanden,False,,,False
+1927,https://www.volksverpetzer.de,True,button,cookies akzeptieren,True,button,nur funktionale cookies,False
+1928,https://www.little-bird.de,True,p,alle cookies akzeptieren,False,,,False
+1929,https://www.easeus.de,False,,,False,,,False
+1930,https://www.autouncle.de,False,,,False,,,False
+1931,https://www.ard-text.de,False,,,False,,,False
+1932,https://www.steuerzahler.de,True,a,cookies zulassen,True,a,ablehnen,False
+1933,https://www.worldofsweets.de,False,,,False,,,False
+1934,https://www.wundertax.de,True,div,alle akzeptieren,False,,,False
+1935,https://www.ralphlauren.de,True,div,alle akzeptieren,False,,,True
+1936,https://www.paradisi.de,False,,,False,,,False
+1937,https://www.vgn.de,True,a,alle cookies zulassen,True,div,notwendige cookies,False
+1938,https://www.klarmobil.de,True,button,alle akzeptieren,False,,,False
+1939,https://www.suzuki.de,False,,,False,,,False
+1940,https://www.sparkasse-karlsruhe.de,True,a,zustimmen,False,,,True
+1941,https://www.frag-mutti.de,True,div,zustimmen,False,,,False
+1942,https://www.base64-image.de,False,,,False,,,False
+1943,https://www.wgv.de,False,,,False,,,False
+1944,https://www.achema.de,True,a,allow all cookies,True,a,allow only necessary cookies,False
+1945,https://www.droemer-knaur.de,False,,,False,,,False
+1946,https://www.airliners.de,False,,,False,,,False
+1947,https://www.luebbe.de,True,button,akzeptieren,True,button,ablehnen,False
+1948,https://www.unimedizin-mainz.de,True,a,speichern,True,button,ablehnen,True
+1949,https://www.schirn.de,True,button,alle auswählen,False,,,False
+1950,https://www.pff.de,True,div,zustimmen,False,,,False
+1951,https://www.petbook.de,True,button,alle akzeptieren,False,,,False
+1952,https://www.mpia.de,False,,,False,,,False
+1953,https://www.homeandsmart.de,True,div,i accept,False,,,False
+1954,https://www.dslr-forum.de,True,div,akzeptieren & schließen,False,,,False
+1955,https://www.th-owl.de,True,p,akzeptieren,False,,,False
+1956,https://www.atlasformen.de,True,div,akzeptieren,False,,,False
+1957,https://www.fc-union-berlin.de,True,a,allow all cookies,True,a,use necessary cookies only,False
+1958,https://www.schlager.de,False,,,False,,,False
+1959,https://www.datteln.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+1960,https://www.dogado.de,True,span,accept all,True,span,reject all,False
+1961,https://www.vbg.de,False,,,True,span,reject all,True
+1962,https://www.jobware.de,True,button,alle akzeptieren,False,,,False
+1963,https://www.qucosa.de,False,,,False,,,False
+1964,https://www.airfrance.de,True,button,akzeptieren,True,button,ablehnen,False
+1965,https://www.berliner-woche.de,True,span,alle akzeptieren,False,,,False
+1966,https://www.traktorpool.de,False,,,False,,,False
+1967,https://www.makerist.de,False,,,False,,,True
+1968,https://www.lmu-klinikum.de,True,div,ok,False,,,False
+1969,https://www.hs-niederrhein.de,False,,,False,,,False
+1970,https://www.olb.de,False,,,False,,,False
+1971,https://www.formulare-bfinv.de,False,,,False,,,False
+1972,https://www.nh-hotels.de,True,button,"yes, i accept",False,,,False
+1973,https://www.freelancermap.de,True,div,alle cookies akzeptieren,False,,,False
+1974,https://www.koeln-bonn-airport.de,True,a,zustimmung,True,button,nur notwendige cookies verwenden,False
+1975,https://www.messe-ticket.de,False,,,False,,,False
+1976,https://www.lbv.de,True,a,alle akzeptieren,False,,,True
+1977,https://www.g7germany.de,True,button,alle auswählen,False,,,False
+1978,https://www.springlane.de,False,,,False,,,False
+1979,https://www.bundesdruckerei.de,False,,,False,,,False
+1980,https://www.deutsche-glasfaser.de,False,,,False,,,False
+1981,https://www.zurich.de,True,div,zustimmen,False,,,False
+1982,https://www.gamescom.de,True,button,alle akzeptieren,True,button,nur notwendige,False
+1983,https://www.apfeltalk.de,True,p,zustimmen,False,,,False
+1984,https://www.bigfm.de,False,,,False,,,False
+1985,https://www.burda-forward.de,True,button,zustimmen,False,,,False
+1986,https://www.lpb-bw.de,False,,,True,p,nur notwendige cookies akzeptieren,False
+1987,https://www.forschung-und-wissen.de,True,div,zustimmen,False,,,False
+1988,https://www.bundeswehrkarriere.de,True,a,"ja, ich bin mit allen cookies einverstanden",True,a,alle cookies ablehnen,False
+1989,https://www.aphorismen.de,True,button,einwilligen,False,,,False
+1990,https://www.ddr-museum.de,True,a,cookies zulassen,True,a,nur notwendige cookies verwenden,False
+1991,https://www.over-blog.de,False,,,False,,,False
+1992,https://www.ihre-vorsorge.de,True,p,alle cookies akzeptieren,True,p,nur notwendige cookies akzeptieren,False
+1993,https://www.westwingnow.de,True,div,cookies akzeptieren,True,button,ablehnen,False
+1994,https://www.aekno.de,True,a,cookies zulassen,False,,,False
+1995,https://www.l.de,False,,,False,,,False
+1996,https://www.dsmz.de,False,,,False,,,False
+1997,https://www.vaillant.de,False,,,False,,,False
+1998,https://www.rootonline.de,False,,,False,,,False
+1999,https://www.softgarden.de,True,button,alle erlauben,True,button,nur notwendige cookies verwenden,False
+2000,https://www.ifat.de,False,,,False,,,False
+2001,https://www.lotto-bayern.de,False,,,True,button,nicht zulassen,False
+2002,https://www.revell.de,True,button,alle akzeptieren,False,,,False
+2003,https://www.uhrforum.de,True,button,alle akzeptieren,False,,,True
+2004,https://www.quelle.de,True,button,ok,True,button,cookies ablehnen,False
+2005,https://www.promobil.de,True,button,akzeptieren und weiter,False,,,False
+2006,https://www.kadewe.de,False,,,True,a,nur erforderliche cookies,False
+2007,https://www.gdata.de,True,button,cookies akzeptieren,True,button,cookies ablehnen,False
+2008,https://www.hsozkult.de,False,,,False,,,False
+2009,https://www.redensarten-index.de,True,div,zustimmen,False,,,False
+2010,https://www.sparkasse-aachen.de,True,a,zustimmen,False,,,True
+2011,https://www.designerinaction.de,True,span,ok,False,,,False
+2012,https://www.kimeta.de,True,button,ok,False,,,False
+2013,https://www.icd-code.de,True,a,ok,False,,,False
+2014,https://www.connox.de,False,,,False,,,False
+2015,https://www.lxml.de,False,,,False,,,False
+2016,https://www.kskmse.de,True,a,zustimmen,False,,,True
+2017,https://www.active24.de,False,,,False,,,False
+2018,https://www.khm.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+2019,https://www.goingelectric.de,True,div,akzeptieren & schließen,False,,,False
+2020,https://www.mein-check-in.de,False,,,False,,,False
+2021,https://www.magentatv.de,True,button,agree to all,True,button,only required,False
+2022,https://www.avocadostore.de,True,button,schließen,False,,,False
+2023,https://www.maingau-energie.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+2024,https://www.enercon.de,True,a,alle zulassen,False,,,False
+2025,https://www.bmf-steuerrechner.de,False,,,False,,,False
+2026,https://www.sparda-west.de,True,div,alle akzeptieren,True,div,notwendige cookies,False
+2027,https://www.eurovision.de,False,,,False,,,False
+2028,https://www.berlinischegalerie.de,False,,,False,,,False
+2029,https://www.handyvertrag.de,True,button,bestätigen,True,button,ablehnen,False
+2030,https://www.uebermedien.de,True,a,ok,False,,,False
+2031,https://www.sat1regional.de,True,p,alle akzeptieren,True,p,ablehnen,False
+2032,https://www.h-ka.de,True,a,speichern,False,,,False
+2033,https://www.blaek.de,True,button,cookies zulassen,False,,,False
+2034,https://www.kuenstlersozialkasse.de,True,a,cookies zulassen,True,a,nur notwendige cookies verwenden,False
+2035,https://www.volksbund.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+2036,https://www.internisten-im-netz.de,False,,,False,,,False
+2037,https://www.therapie.de,False,,,False,,,False
+2038,https://www.klassik-stiftung.de,True,button,ich stimme zu,True,button,nur notwendige cookies verwenden,False
+2039,https://www.chbeck.de,False,,,False,,,False
+2040,https://www.jolie.de,False,,,False,,,False
+2041,https://www.ihk-berlin.de,True,a,cookies zulassen,True,a,nur notwendige cookies,False
+2042,https://www.europa-uni.de,False,,,False,,,False
+2043,https://www.kress.de,True,a,alle cookies erlauben,False,,,False
+2044,https://www.epoq.de,True,a,alle cookies erlauben,False,,,True
+2045,https://www.maxda.de,True,button,annehmen,False,,,False
+2046,https://www.tuebingen.de,False,,,False,,,False
+2047,https://www.hof-university.de,True,button,accept,True,div,ablehnen,False
+2048,https://www.underarmour.de,False,,,False,,,False
+2049,https://www.webdesigner-profi.de,False,,,False,,,False
+2050,https://www.panasonic.de,True,button,alle zulassen,True,button,alle ablehnen,False
+2051,https://www.diesiedleronline.de,False,,,False,,,False
+2052,https://www.fzi.de,False,,,False,,,False
+2053,https://www.insuedthueringen.de,False,,,False,,,False
+2054,https://www.gulp.de,True,button,alle akzeptieren,True,button,alle ablehnen,False
+2055,https://www.kiwi-verlag.de,False,,,False,,,False
+2056,https://www.dfs.de,True,button,accept all,True,button,deny all,False
+2057,https://www.der-paritaetische.de,False,,,False,,,False
+2058,https://www.steinberg.de,False,,,False,,,False
+2059,https://www.klamm.de,True,div,akzeptieren,False,,,False
+2060,https://www.absatzwirtschaft.de,True,button,zustimmen,False,,,False
+2061,https://www.geberit.de,True,button,zustimmen,False,,,True
+2062,https://www.hansemerkur.de,False,,,False,,,False
+2063,https://www.e-hoi.de,True,button,alle akzeptieren,False,,,False
+2064,https://www.audibene.de,False,,,False,,,False
+2065,https://www.pkv-ombudsmann.de,False,,,False,,,False
+2066,https://www.cducsu.de,True,button,alle akzeptieren,False,,,False
+2067,https://www.ef.de,True,div,akzeptieren,False,,,False
+2068,https://www.hyundai.de,True,a,alles zulassen,False,,,False
+2069,https://www.surfmusik.de,False,,,False,,,False
+2070,https://www.medizinfuchs.de,True,button,akzeptieren,True,a,ablehnen,False
+2071,https://www.oekolandbau.de,True,div,alle cookies akzeptieren,False,,,False
+2072,https://www.rohstoff-welt.de,True,button,alle cookies akzeptieren,False,,,False
+2073,https://www.rme-audio.de,True,button,alle cookies akzeptieren,False,,,True
+2074,https://www.ffb.de,True,button,zustimmen,False,,,False
+2075,https://www.dasauge.de,False,,,False,,,False
+2076,https://www.cigarworld.de,False,,,False,,,False
+2077,https://www.hs-rm.de,True,a,alle cookies akzeptieren,True,a,nur notwendige cookies,False
+2078,https://www.cdn-reichelt.de,False,,,False,,,False
+2079,https://www.peterhahn.de,False,,,False,,,False
+2080,https://www.medikamente-per-klick.de,False,,,False,,,True

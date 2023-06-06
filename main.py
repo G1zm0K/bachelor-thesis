@@ -5,13 +5,15 @@ import logging
 import pandas as pd
 
 GLOBAL_SELECTOR = "button, a, p, div, span, form"
-ACCEPT_WORDS_LIST = "wordlists/consent_nl.txt"
-REJECT_WORDS_LIST = "wordlists/reject_nl.txt"
-WEBSITE_LIST = "websites/test.txt"
+ACCEPT_WORDS_LIST = "wordlists/consent_gb.txt"
+REJECT_WORDS_LIST = "wordlists/reject_gb.txt"
+WEBSITE_LIST = "websites/tranco_GB_5000.txt"
+LOG_FILE = "gb.log"
+DATA_FILE = "data_gb.csv"
 
 data = {}
 
-logging.basicConfig(filename='info_log.log', encoding='utf-8', level=logging.INFO)
+logging.basicConfig(filename=LOG_FILE, encoding='utf-8', level=logging.INFO)
 
 logging.info('Starting program...')
 
@@ -34,5 +36,5 @@ driver.quit()
 logging.info('Driver shut down')
 
 logging.info('Sending data to file...')
-data.to_csv('data.csv', index=False)
+data.to_csv(DATA_FILE, index=False)
 logging.info('Data sent to file')
