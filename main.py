@@ -7,9 +7,9 @@ import pandas as pd
 GLOBAL_SELECTOR = "button, a, p, div, span, form"
 ACCEPT_WORDS_LIST = "wordlists/consent_gb.txt"
 REJECT_WORDS_LIST = "wordlists/reject_gb.txt"
-WEBSITE_LIST = "websites/tranco_GB_5000.txt"
-LOG_FILE = "gb.log"
-DATA_FILE = "data_gb.csv"
+WEBSITE_LIST = "websites/tranco_IE_5000.txt"
+LOG_FILE = "ie.log"
+DATA_FILE = "data_ie.csv"
 
 data = {}
 

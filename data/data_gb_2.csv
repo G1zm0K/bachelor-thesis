@@ -1,0 +1,376 @@
+index,url,accept-found,accept-type,accept-text,reject-found,reject-type,reject-text,error
+,,,,,,,,
+0.0,https://www.cockneyrhymingslang.co.uk,False,,,False,,,False
+1.0,https://www.dehavillandmuseum.co.uk,True,a,ok,False,,,False
+2.0,https://www.giraffesocialmedia.co.uk,False,,,False,,,False
+3.0,https://www.vwv.co.uk,True,div,got it,False,,,False
+4.0,https://www.buildbase.co.uk,True,div,accept and continue,False,,,False
+5.0,https://www.brighton.co.uk,True,button,accept cookies,False,,,False
+6.0,https://www.petertyson.co.uk,True,button,close,False,,,False
+7.0,https://www.selectfashion.co.uk,False,,,False,,,False
+8.0,https://www.englishlakes.co.uk,True,div,close,False,,,False
+9.0,https://www.skinsider.co.uk,False,,,True,div,"no, thanks",False
+10.0,https://www.amaiakids.co.uk,False,,,False,,,False
+11.0,https://www.ukwhitegoods.co.uk,False,,,False,,,False
+12.0,https://www.finecheese.co.uk,True,div,ok,False,,,False
+13.0,https://www.mytrendyphone.co.uk,True,div,consent,True,button,decline,False
+14.0,https://www.visitharrogate.co.uk,True,button,agree,True,button,disagree,False
+15.0,https://www.vikingrivercruises.co.uk,True,div,accept,False,,,False
+16.0,https://www.lightwatervalley.co.uk,False,,,False,,,False
+17.0,https://www.healthexpress.co.uk,False,,,False,,,False
+18.0,https://www.appearhere.co.uk,False,,,False,,,False
+19.0,https://www.eschools.co.uk,True,a,accept all,True,a,dismiss,False
+20.0,https://www.cashgenerator.co.uk,True,div,got it,False,,,False
+21.0,https://www.gcrailway.co.uk,False,,,False,,,False
+22.0,https://www.herbalife.co.uk,True,button,accept cookies,True,button,reject cookies,False
+23.0,https://www.webtenerife.co.uk,False,,,False,,,False
+24.0,https://www.businesswaste.co.uk,False,,,False,,,False
+25.0,https://www.glasgowarchitecture.co.uk,True,button,got it,False,,,False
+26.0,https://www.growingpower.co.uk,True,div,yes,True,div,no,False
+27.0,https://www.hosting.co.uk,True,button,allow,False,,,False
+28.0,https://www.frenchcarforum.co.uk,False,,,False,,,False
+29.0,https://www.sola3.co.uk,False,,,False,,,False
+30.0,https://www.islingtontribune.co.uk,False,,,False,,,False
+31.0,https://www.thonk.co.uk,False,,,False,,,False
+32.0,https://www.ski-glenshee.co.uk,False,,,False,,,False
+33.0,https://www.milk.co.uk,False,,,False,,,False
+34.0,https://www.doritos.co.uk,True,div,i consent to cookies,False,,,False
+35.0,https://www.happypuzzle.co.uk,True,a,accept cookies,False,,,False
+36.0,https://www.inspectrealestate.co.uk,False,,,False,,,False
+37.0,https://www.scandiborn.co.uk,True,div,continue,False,,,False
+38.0,https://www.timetotalkday.co.uk,True,a,ok,False,,,False
+39.0,https://www.fluentlanguage.co.uk,True,div,ok,True,div,decline,False
+40.0,https://www.cvsukltd.co.uk,True,button,accept all,False,,,False
+41.0,https://www.bantonframeworks.co.uk,False,,,False,,,False
+42.0,https://www.mtvh.co.uk,True,a,accept,False,,,False
+43.0,https://www.neonplus.co.uk,False,,,False,,,False
+44.0,https://www.mlperformance.co.uk,False,,,False,,,True
+45.0,https://www.horrorcultfilms.co.uk,True,button,continue with recommended cookies,False,,,False
+46.0,https://www.restore.co.uk,True,a,agree,False,,,False
+47.0,https://www.bonprix.co.uk,True,span,accept cookies,False,,,False
+48.0,https://www.simpleonlinepharmacy.co.uk,False,,,False,,,False
+49.0,https://www.horticulture.co.uk,True,div,accept,False,,,False
+50.0,https://www.hfholidays.co.uk,True,button,accept all cookies,True,button,reject all,False
+51.0,https://www.uklandandfarms.co.uk,True,span,accept all,False,,,False
+52.0,https://www.prudential.co.uk,False,,,False,,,False
+53.0,https://www.elitecarcare.co.uk,False,,,False,,,False
+54.0,https://www.inntravel.co.uk,True,div,accept & continue,False,,,False
+55.0,https://www.barnebys.co.uk,False,,,False,,,False
+56.0,https://www.mayfair-london.co.uk,False,,,False,,,False
+57.0,https://www.creativeideaz.co.uk,True,div,i agree,False,,,False
+58.0,https://www.bhpa.co.uk,False,,,False,,,False
+59.0,https://www.artsadmin.co.uk,False,,,False,,,False
+60.0,https://www.rxweb.co.uk,True,button,allow all cookies,False,,,False
+61.0,https://www.rankin.co.uk,True,div,agree,False,,,False
+62.0,https://www.ovoarena.co.uk,True,a,allow cookies,True,a,decline,False
+63.0,https://www.80scasualclassics.co.uk,True,div,accept cookies,False,,,False
+64.0,https://www.teamtechnology.co.uk,False,,,False,,,False
+65.0,https://www.southwalesguardian.co.uk,True,button,i accept,False,,,False
+66.0,https://www.lexusownersclub.co.uk,True,button,agree,False,,,False
+67.0,https://www.eucerin.co.uk,True,span,accept all,False,,,False
+68.0,https://www.ukpublicspending.co.uk,False,,,False,,,False
+69.0,https://www.britishmarine.co.uk,False,,,False,,,False
+70.0,https://www.hearst.co.uk,True,div,accept,False,,,False
+71.0,https://www.101holidays.co.uk,True,span,got it,False,,,False
+72.0,https://www.zanussi.co.uk,True,div,accept all cookies,False,,,False
+73.0,https://www.blue17.co.uk,True,a,accept all,False,,,False
+74.0,https://www.nationwide-intermediary.co.uk,True,button,allow all cookies,False,,,False
+75.0,https://www.poetrybooks.co.uk,True,span,yes,False,,,False
+76.0,https://www.oxforddiecast.co.uk,False,,,False,,,False
+77.0,https://www.clearchannel.co.uk,True,button,accept all cookies,True,button,reject all,False
+78.0,https://www.uktriathlon.co.uk,False,,,False,,,False
+79.0,https://www.aptaclub.co.uk,True,button,accept all cookies,False,,,False
+80.0,https://www.airshows.co.uk,True,button,accept all cookies,False,,,True
+81.0,https://www.whitesbeaconsfield.co.uk,True,button,accept all cookies,False,,,True
+82.0,https://www.learningspy.co.uk,False,,,False,,,False
+83.0,https://www.royston-crow.co.uk,True,button,i accept,False,,,False
+84.0,https://www.classicroses.co.uk,True,div,ok,False,,,False
+85.0,https://www.safesmart.co.uk,True,a,accept all,False,,,False
+86.0,https://www.mscdirect.co.uk,False,,,False,,,False
+87.0,https://www.suede.co.uk,True,button,accept all,True,button,reject all,False
+88.0,https://www.kickers.co.uk,True,div,accept,False,,,False
+89.0,https://www.fpsdistribution.co.uk,True,div,accept all cookies,False,,,False
+90.0,https://www.sportsmanguncentre.co.uk,True,div,allow,False,,,False
+91.0,https://www.davidhigham.co.uk,True,a,ok,False,,,False
+92.0,https://www.jobmedic.co.uk,True,button,accept cookies,False,,,False
+93.0,https://www.liontrust.co.uk,True,a,accept cookies,False,,,False
+94.0,https://www.nctx.co.uk,True,button,accept,False,,,False
+95.0,https://www.sportstoursinternational.co.uk,False,,,False,,,False
+96.0,https://www.santandercb.co.uk,True,div,accept all cookies,False,,,False
+97.0,https://www.sealey.co.uk,True,a,i understand,False,,,False
+98.0,https://www.internationalsteam.co.uk,True,div,okay,False,,,False
+99.0,https://www.unibond.co.uk,True,button,accept all cookies,True,button,reject all,False
+100.0,https://www.headfirstbristol.co.uk,True,div,i accept cookies,False,,,False
+101.0,https://www.bluearrow.co.uk,True,button,allow all,True,button,disable all,False
+102.0,https://www.fireprotectiononline.co.uk,True,button,all cookies,False,,,False
+103.0,https://www.hatsandcaps.co.uk,True,button,ok,True,button,no thanks,False
+104.0,https://www.ewbankauctions.co.uk,False,,,False,,,False
+105.0,https://www.eastyorkshirebuses.co.uk,True,a,allow all cookies,False,,,False
+106.0,https://www.sishost.co.uk,False,,,False,,,False
+107.0,https://www.aisgroup.co.uk,False,,,False,,,False
+108.0,https://www.teacherspensions.co.uk,True,a,close,False,,,False
+109.0,https://www.nationalpoetryday.co.uk,True,a,accept,True,a,reject,False
+110.0,https://www.cds.co.uk,True,a,accept,True,a,decline,False
+111.0,https://www.charles-stanley.co.uk,True,button,accept all,False,,,False
+112.0,https://www.htb.co.uk,True,button,i accept cookies,True,button,i do not accept cookies,False
+113.0,https://www.asm-autos.co.uk,True,div,accept & continue,False,,,False
+114.0,https://www.gwp.co.uk,False,,,False,,,False
+115.0,https://www.ruralretreats.co.uk,True,button,allow all cookies,False,,,False
+116.0,https://www.alphafoods.co.uk,False,,,False,,,False
+117.0,https://www.legalstop.co.uk,True,a,ok,False,,,False
+118.0,https://www.dattvapedistro.co.uk,False,,,False,,,False
+119.0,https://www.riversidestudios.co.uk,True,a,agree,False,,,False
+120.0,https://www.cornerstoneseducation.co.uk,False,,,False,,,False
+121.0,https://www.siba.co.uk,False,,,False,,,False
+122.0,https://www.enrgtech.co.uk,True,button,i accept all cookies,False,,,False
+123.0,https://www.eventdata.co.uk,True,div,got it,False,,,False
+124.0,https://www.theshiznit.co.uk,False,,,False,,,False
+125.0,https://www.superfi.co.uk,False,,,False,,,False
+126.0,https://www.wrightmarshall.co.uk,True,div,"got it, thanks",False,,,False
+127.0,https://www.silentnight.co.uk,True,div,accept all cookies,True,button,no thanks,False
+128.0,https://www.subscription.co.uk,False,,,False,,,False
+129.0,https://www.teamxlink.co.uk,True,button,allow cookies,False,,,False
+130.0,https://www.yorkbarbican.co.uk,True,div,got it,False,,,False
+131.0,https://www.londonundercover.co.uk,False,,,False,,,False
+132.0,https://www.femmeluxe.co.uk,False,,,False,,,True
+133.0,https://www.powdertoy.co.uk,False,,,False,,,False
+134.0,https://www.allbatteries.co.uk,False,,,False,,,False
+135.0,https://www.executive-shaving.co.uk,False,,,False,,,False
+136.0,https://www.extendcp.co.uk,False,,,False,,,False
+137.0,https://www.sortcodes.co.uk,True,a,accept,False,,,False
+138.0,https://www.travelmoneyonline.co.uk,False,,,False,,,False
+139.0,https://www.pushdoctor.co.uk,True,button,accept cookies,False,,,False
+140.0,https://www.holidu.co.uk,True,button,accept,False,,,False
+141.0,https://www.pvc-strip.co.uk,True,div,allow cookies,False,,,False
+142.0,https://www.arranbanner.co.uk,True,a,got it,False,,,False
+143.0,https://www.euspares.co.uk,False,,,False,,,False
+144.0,https://www.wwcreative.co.uk,True,a,accept,False,,,False
+145.0,https://www.mrcentralheating.co.uk,True,button,allow cookies,False,,,False
+146.0,https://www.furniturechoice.co.uk,True,button,accept all,False,,,False
+147.0,https://www.bakedin.co.uk,True,button,accept all cookies,True,button,reject all,False
+148.0,https://www.nomadtravel.co.uk,True,button,accept all,True,a,dismiss,False
+149.0,https://www.checklists.co.uk,True,button,accept all,True,a,dismiss,True
+150.0,https://www.debtrecoveryplus.co.uk,True,button,allow all,True,button,deny,False
+151.0,https://www.fluedirect.co.uk,True,a,i agree,False,,,False
+152.0,https://www.fyf20quid.co.uk,True,button,consent,False,,,False
+153.0,https://www.georgeshop.co.uk,False,,,False,,,False
+154.0,https://www.promotioncentre.co.uk,False,,,False,,,False
+155.0,https://www.salvagemarket.co.uk,True,button,accept all cookies,False,,,False
+156.0,https://www.stackpoleinn.co.uk,True,div,got it,False,,,False
+157.0,https://www.supportcentre-rbs.co.uk,True,div,allow all cookies,False,,,False
+158.0,https://www.systemdrivingschool.co.uk,False,,,False,,,False
+159.0,https://www.topupmeters.co.uk,True,a,accept,True,a,deny,False
+160.0,https://www.urbantricycles.co.uk,False,,,False,,,False
+161.0,https://www.toblerone.co.uk,True,button,accept all cookies,False,,,False
+162.0,https://www.cartridgeworld.co.uk,True,button,accept all cookies,True,button,reject all,False
+163.0,https://www.medicspot.co.uk,True,button,accept all,True,button,reject all,False
+164.0,https://www.wheretogowithkids.co.uk,True,div,accept,False,,,False
+165.0,https://www.techregister.co.uk,True,div,accept,False,,,False
+166.0,https://www.find-escorts.co.uk,False,,,False,,,False
+167.0,https://www.exoticdirect.co.uk,True,button,accept all,True,button,reject all,False
+168.0,https://www.thebeck.co.uk,False,,,False,,,False
+169.0,https://www.ruggable.co.uk,False,,,False,,,True
+170.0,https://www.glamis-castle.co.uk,True,button,i understand,False,,,False
+171.0,https://www.officemonster.co.uk,True,div,got it,False,,,False
+172.0,https://www.voucherarea.co.uk,False,,,False,,,False
+173.0,https://www.futurlab.co.uk,True,span,"okay, thank you",False,,,False
+174.0,https://www.oxfordhomeschooling.co.uk,True,button,i accept,False,,,False
+175.0,https://www.theinformationlab.co.uk,False,,,False,,,False
+176.0,https://www.buildington.co.uk,False,,,False,,,False
+177.0,https://www.coventry2021.co.uk,True,div,accept cookies,False,,,False
+178.0,https://www.wantthatwedding.co.uk,True,button,consent,False,,,False
+179.0,https://www.direct2florist.co.uk,True,a,got it,False,,,False
+180.0,https://www.clubhubuk.co.uk,False,,,False,,,False
+181.0,https://www.glasses2you.co.uk,True,div,i accept,False,,,False
+182.0,https://www.completecareshop.co.uk,True,div,accept all cookies,False,,,False
+183.0,https://www.adventureisland.co.uk,False,,,False,,,False
+184.0,https://www.roombookingsystem.co.uk,False,,,False,,,False
+185.0,https://www.howtorunapub.co.uk,True,button,accept,False,,,False
+186.0,https://www.windermere-lakecruises.co.uk,True,a,allow cookies,True,a,decline,False
+187.0,https://www.adatis.co.uk,True,span,ok,False,,,False
+188.0,https://www.coventrybuildingsocietyarena.co.uk,False,,,False,,,False
+189.0,https://www.handstations.co.uk,False,,,False,,,False
+190.0,https://www.weetabix.co.uk,True,a,accept,False,,,False
+191.0,https://www.lwc-drinks.co.uk,True,button,i accept,False,,,False
+192.0,https://www.whsmithplc.co.uk,False,,,False,,,False
+193.0,https://www.powerupgaming.co.uk,False,,,False,,,False
+194.0,https://www.trch.co.uk,False,,,False,,,False
+195.0,https://www.inboxpounds.co.uk,False,,,False,,,False
+196.0,https://www.koko.co.uk,False,,,False,,,False
+197.0,https://www.beersofeurope.co.uk,True,button,accept,False,,,False
+198.0,https://www.thearches.co.uk,False,,,False,,,False
+199.0,https://www.cleavebooks.co.uk,False,,,False,,,False
+200.0,https://www.monmouthcoffee.co.uk,False,,,False,,,False
+201.0,https://www.businessfirstonline.co.uk,False,,,False,,,False
+202.0,https://www.bedstar.co.uk,True,div,got it,False,,,False
+203.0,https://www.akg-images.co.uk,True,button,ok,False,,,False
+204.0,https://www.bronco.co.uk,False,,,False,,,False
+205.0,https://www.netwise.co.uk,False,,,False,,,False
+206.0,https://www.greatart.co.uk,True,div,accept all cookies,False,,,False
+207.0,https://www.yotocarnegies.co.uk,False,,,False,,,False
+208.0,https://www.samuelsmithsbrewery.co.uk,True,span,ok,False,,,False
+209.0,https://www.independentcottages.co.uk,False,,,True,span,no,False
+210.0,https://www.priceyourjob.co.uk,True,a,accept and close,False,,,False
+211.0,https://www.farmmachinerylocator.co.uk,True,a,got it,False,,,False
+212.0,https://www.careerchange.co.uk,False,,,False,,,False
+213.0,https://www.boringmoney.co.uk,True,div,accept all,False,,,False
+214.0,https://www.rugbyschool.co.uk,True,div,got it,False,,,False
+215.0,https://www.audleyvillages.co.uk,True,a,accept cookies,False,,,False
+216.0,https://www.coppaclub.co.uk,True,button,agree,False,,,False
+217.0,https://www.gmk.co.uk,False,,,True,button,dismiss,False
+218.0,https://www.kaveecage.co.uk,True,div,got it,False,,,False
+219.0,https://www.participant.co.uk,True,div,accept,False,,,False
+220.0,https://www.suzannecharles.co.uk,True,div,got it,False,,,False
+221.0,https://www.dettol.co.uk,True,div,accept all cookies,False,,,False
+222.0,https://www.hotpointservice.co.uk,True,button,i accept cookies,True,button,reject all,False
+223.0,https://www.hotline.co.uk,False,,,False,,,False
+224.0,https://www.boomtownfair.co.uk,False,,,False,,,False
+225.0,https://www.thegarlicfarm.co.uk,True,a,accept,True,a,decline,False
+226.0,https://www.newsprints.co.uk,True,button,accept all cookies,True,button,reject all,False
+227.0,https://www.tomford.co.uk,True,button,accept all cookies,False,,,False
+228.0,https://www.5pm.co.uk,False,,,False,,,False
+229.0,https://www.aegpresents.co.uk,True,button,accept all cookies,False,,,True
+230.0,https://www.snappysnaps.co.uk,True,button,accept,True,button,decline,False
+231.0,https://www.nottinghamplayhouse.co.uk,True,button,accept and close,False,,,False
+232.0,https://www.restauranthjem.co.uk,True,button,accept,False,,,True
+233.0,https://www.thepositivebirthcompany.co.uk,False,,,False,,,True
+234.0,https://www.midsussextimes.co.uk,True,button,i accept,False,,,False
+235.0,https://www.european-football-statistics.co.uk,False,,,False,,,False
+236.0,https://www.hadrianswallcountry.co.uk,True,button,continue,True,button,no thanks,False
+237.0,https://www.essentialliving.co.uk,True,a,consent,True,button,deny,False
+238.0,https://www.eurochange.co.uk,True,a,allow all cookies,True,a,use necessary cookies only,False
+239.0,https://www.morlandssheepskin.co.uk,False,,,False,,,False
+240.0,https://www.ritelite.co.uk,True,div,accept,False,,,False
+241.0,https://www.enoshop.co.uk,False,,,False,,,False
+242.0,https://www.drakeandmorgan.co.uk,True,div,accept,False,,,False
+243.0,https://www.isthmian.co.uk,True,button,agree and proceed,False,,,False
+244.0,https://www.dymo-label-printers.co.uk,False,,,False,,,True
+245.0,https://www.uktiersponsors.co.uk,False,,,False,,,False
+246.0,https://www.funktionevents.co.uk,False,,,False,,,False
+247.0,https://www.tendersdirect.co.uk,False,,,False,,,False
+248.0,https://www.blasttheory.co.uk,True,button,i accept cookies,True,button,i do not accept cookies,False
+249.0,https://www.mobilityfurniturecompany.co.uk,False,,,False,,,False
+250.0,https://www.businessmanchester.co.uk,True,div,accept all,False,,,False
+251.0,https://www.tensar.co.uk,True,form,agree,True,form,decline,False
+252.0,https://www.evomotiondesign.co.uk,True,button,i agree,True,a,dismiss,False
+253.0,https://www.charingcrosstheatre.co.uk,False,,,False,,,False
+254.0,https://www.increasebroadbandspeed.co.uk,False,,,False,,,False
+255.0,https://www.hoaresbank.co.uk,True,button,accept all,True,button,disable all,False
+256.0,https://www.thefirstmile.co.uk,True,a,consent,False,,,False
+257.0,https://www.soudal.co.uk,True,div,accept all cookies,False,,,False
+258.0,https://www.moneynerd.co.uk,False,,,False,,,False
+259.0,https://www.lebara.co.uk,True,div,accept all cookies,False,,,False
+260.0,https://www.predictiv.co.uk,False,,,False,,,False
+261.0,https://www.castinstyle.co.uk,False,,,False,,,False
+262.0,https://www.portofaberdeen.co.uk,False,,,False,,,False
+263.0,https://www.greatbritishmag.co.uk,True,a,accept all,False,,,False
+264.0,https://www.kdwholesale.co.uk,True,span,ok,False,,,False
+265.0,https://www.vanguard.co.uk,True,div,ok,False,,,False
+266.0,https://www.houseofnamesets.co.uk,False,,,False,,,False
+267.0,https://www.ilkleygazette.co.uk,True,button,i accept,False,,,False
+268.0,https://www.handtec.co.uk,False,,,False,,,False
+269.0,https://www.logitravel.co.uk,True,button,agree and close,False,,,False
+270.0,https://www.fc-utd.co.uk,True,a,got it,False,,,False
+271.0,https://www.complaintsdepartment.co.uk,True,a,ok,False,,,False
+272.0,https://www.ucb.co.uk,True,a,allow all cookies,True,a,use necessary cookies only,False
+273.0,https://www.sport.co.uk,True,button,agree,True,button,disagree,False
+274.0,https://www.kenwoodtravel.co.uk,True,div,accept,False,,,False
+275.0,https://www.pausemag.co.uk,False,,,False,,,False
+276.0,https://www.camberleyglass.co.uk,False,,,False,,,False
+277.0,https://www.kidspass.co.uk,True,button,accept,False,,,False
+278.0,https://www.groinpainclinic.co.uk,False,,,False,,,False
+279.0,https://www.orbitalfasteners.co.uk,False,,,False,,,False
+280.0,https://www.lyres.co.uk,True,a,accept cookies,False,,,False
+281.0,https://www.ssla.co.uk,False,,,False,,,False
+282.0,https://www.newandused.co.uk,False,,,False,,,False
+283.0,https://www.watercressline.co.uk,False,,,False,,,False
+284.0,https://www.patisserie-valerie.co.uk,False,,,False,,,False
+285.0,https://www.nfrc.co.uk,False,,,False,,,False
+286.0,https://www.oaktreeuk.co.uk,False,,,False,,,False
+287.0,https://www.fowlersparts.co.uk,True,button,accept,True,button,reject,False
+288.0,https://www.thehomeshuttercompany.co.uk,False,,,False,,,False
+289.0,https://www.101honeymoons.co.uk,True,span,got it,False,,,False
+290.0,https://www.permagard.co.uk,True,p,i agree,False,,,False
+291.0,https://www.o2careers.co.uk,True,div,i'm fine with this,False,,,False
+292.0,https://www.campamerica.co.uk,True,button,accept,False,,,False
+293.0,https://www.kpmgcareers.co.uk,True,button,accept all cookies,False,,,False
+294.0,https://www.rajar.co.uk,True,button,i understand,False,,,False
+295.0,https://www.harmonystore.co.uk,True,div,got it,False,,,False
+296.0,https://www.dormeo.co.uk,False,,,False,,,False
+297.0,https://www.foxpharma.co.uk,True,button,accept all cookies,True,button,allow only essential cookies,False
+298.0,https://www.otib.co.uk,False,,,False,,,False
+299.0,https://www.solgar.co.uk,False,,,False,,,False
+300.0,https://www.coffeehit.co.uk,False,,,False,,,False
+301.0,https://www.mastershoe.co.uk,True,button,ok,False,,,False
+302.0,https://www.halifax-intermediaries.co.uk,True,button,accept all,False,,,False
+303.0,https://www.krfi.co.uk,True,button,accept all cookies,False,,,False
+304.0,https://www.mail.co.uk,False,,,False,,,False
+305.0,https://www.cambstimes.co.uk,True,button,i accept,False,,,False
+306.0,https://www.aibni.co.uk,True,button,accept all,False,,,False
+307.0,https://www.force4.co.uk,False,,,False,,,False
+308.0,https://www.gardenersdream.co.uk,True,div,accept cookies,False,,,False
+309.0,https://www.le-gavroche.co.uk,False,,,False,,,False
+310.0,https://www.chiropractic-uk.co.uk,True,a,accept all,False,,,False
+311.0,https://www.recyclethis.co.uk,False,,,False,,,False
+312.0,https://www.franchiselocal.co.uk,False,,,False,,,False
+313.0,https://www.thegentlewoman.co.uk,False,,,False,,,True
+314.0,https://www.dismaland.co.uk,False,,,False,,,False
+315.0,https://www.agroforestry.co.uk,False,,,False,,,False
+316.0,https://www.4dayweek.co.uk,True,button,i agree,False,,,False
+317.0,https://www.gloucesterrugby.co.uk,True,div,i agree,False,,,False
+318.0,https://www.watergatebay.co.uk,True,button,accept all,False,,,False
+319.0,https://www.gvst.co.uk,True,a,close,False,,,False
+320.0,https://www.e-days.co.uk,True,button,accept all,False,,,False
+321.0,https://www.highfliers.co.uk,False,,,False,,,False
+322.0,https://www.callcreditsecure.co.uk,False,,,False,,,False
+323.0,https://www.saddlers.co.uk,True,div,accept all cookies,False,,,False
+324.0,https://www.nazarethdirect.co.uk,False,,,False,,,False
+325.0,https://www.televisionheaven.co.uk,True,button,allow all cookies,False,,,False
+326.0,https://www.redbows.co.uk,False,,,False,,,False
+327.0,https://www.tauntonschool.co.uk,True,a,accept all,True,a,reject all,False
+328.0,https://www.queenstantricmassage.co.uk,False,,,False,,,False
+329.0,https://www.james-smith.co.uk,False,,,False,,,False
+330.0,https://www.peakdistrictonline.co.uk,True,button,consent,True,button,do not consent,False
+331.0,https://www.6dg.co.uk,True,a,accept all,False,,,False
+332.0,https://www.shrewsburyfolkfestival.co.uk,False,,,False,,,False
+333.0,https://www.urbansuite.co.uk,False,,,False,,,False
+334.0,https://www.halle.co.uk,True,button,accept and close,False,,,False
+335.0,https://www.tiguanforums.co.uk,True,button,agree,False,,,False
+336.0,https://www.londonlibrary.co.uk,False,,,False,,,False
+337.0,https://www.danielowen.co.uk,True,div,got it,False,,,False
+338.0,https://www.borehamwoodtimes.co.uk,True,button,i accept,False,,,False
+339.0,https://www.hopesgrovenurseries.co.uk,True,a,got it,False,,,False
+340.0,https://www.barryanddistrictnews.co.uk,True,button,i accept,False,,,False
+341.0,https://www.mooreinternational.co.uk,True,div,accept all,True,div,decline all,False
+342.0,https://www.fpmccann.co.uk,False,,,False,,,False
+343.0,https://www.wardhitech.co.uk,False,,,False,,,True
+344.0,https://www.vat-lookup.co.uk,False,,,False,,,False
+345.0,https://www.toyou.co.uk,True,div,i'm ok with this,False,,,False
+346.0,https://www.youinvest.co.uk,True,button,accept all,False,,,False
+347.0,https://www.womad.co.uk,True,a,okay,False,,,False
+348.0,https://www.bam.co.uk,True,div,i accept,False,,,False
+349.0,https://www.bupadentalcare.co.uk,True,div,accept cookies,False,,,False
+350.0,https://www.skdocks.co.uk,True,button,accept,False,,,False
+351.0,https://www.upay.co.uk,False,,,False,,,False
+352.0,https://www.marinestore.co.uk,False,,,False,,,False
+353.0,https://www.cleopatraescorts.co.uk,True,a,continue,False,,,False
+354.0,https://www.cryer.co.uk,True,a,allow cookies,True,a,decline,False
+355.0,https://www.ssynth.co.uk,True,button,consent,False,,,False
+356.0,https://www.waterfront.co.uk,True,div,allow,False,,,False
+357.0,https://www.connells.co.uk,True,div,accept all cookies,False,,,False
+358.0,https://www.winterville.co.uk,True,div,accept,False,,,False
+359.0,https://www.scunthorpe-united.co.uk,True,div,accept all cookies,False,,,False
+360.0,https://www.pumpsandpressure.co.uk,True,div,accept all cookies,False,,,False
+361.0,https://www.saladmoney.co.uk,True,a,continue,False,,,False
+362.0,https://www.yaothaifood.co.uk,False,,,False,,,False
+363.0,https://www.psychics.co.uk,False,,,False,,,False
+364.0,https://www.208ownersclub.co.uk,True,button,agree,False,,,False
+365.0,https://www.wahl.co.uk,True,a,accept,False,,,False
+366.0,https://www.outdoorgear.co.uk,False,,,False,,,False
+367.0,https://www.sizzlingpubs.co.uk,True,a,allow all,False,,,False
+368.0,https://www.vivolife.co.uk,True,div,accept,False,,,False
+369.0,https://www.homestoreandmore.co.uk,True,button,accept all cookies,False,,,False
+370.0,https://www.wearecrossfader.co.uk,False,,,True,a,dismiss,False
+371.0,https://www.thegoodpubguide.co.uk,True,button,accept all cookies,False,,,False
+372.0,https://www.migweb.co.uk,True,button,agree,False,,,False
+373.0,https://www.micro-scooters.co.uk,True,button,accept & close,False,,,False
