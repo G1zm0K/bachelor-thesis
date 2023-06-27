@@ -1,0 +1,1163 @@
+INFO:root:Starting program...
+INFO:root:Making wordlists...
+INFO:root:Wordlists created
+INFO:root:Starting driver...
+INFO:root:Driver started
+INFO:root:Starting crawl...
+INFO:root:Finished crawl
+INFO:root:Shutting down driver...
+INFO:root:Starting program...
+INFO:root:Making wordlists...
+INFO:root:Wordlists created
+INFO:root:Starting driver...
+INFO:root:Driver started
+INFO:root:Starting crawl...
+INFO:root:Trying site: https://www.thedockyard.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.mobilenewscwp.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: button with text: allow all cookies
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.stephensons.co.uk
+ERROR:root:An exception was thrown while loading the site:
+Traceback (most recent call last):
+  File "/home/gijs/bachelor-thesis/crawler.py", line 15, in crawl
+    driver.get(site)
+  File "/home/gijs/miniconda3/envs/openwpm/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/home/gijs/miniconda3/envs/openwpm/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/gijs/miniconda3/envs/openwpm/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Reached error page: about:neterror?e=connectionFailure&u=https%3A//www.stephensons.co.uk/&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20www.stephensons.co.uk.
+
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.wallsandfloors.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+ERROR:root:An exception was thrown while crawling the site:
+Traceback (most recent call last):
+  File "/home/gijs/bachelor-thesis/crawler.py", line 23, in crawl
+    (accept_found,accept_type,accept_text) = find_banner(driver,selectors,accept_words_list)
+  File "/home/gijs/bachelor-thesis/find_banner.py", line 10, in find_banner
+    if e.text.lower().strip(" ✓›!\n>") in words_list:
+  File "/home/gijs/miniconda3/envs/openwpm/lib/python3.10/site-packages/selenium/webdriver/remote/webelement.py", line 76, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "/home/gijs/miniconda3/envs/openwpm/lib/python3.10/site-packages/selenium/webdriver/remote/webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "/home/gijs/miniconda3/envs/openwpm/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/gijs/miniconda3/envs/openwpm/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: The element with the reference 1169bdc2-7b8d-4cde-80b6-85c69fe0336c is stale; either its node document is not the active document, or it is no longer connected to the DOM
+
+INFO:root:Trying site: https://www.weleda.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: a with text: i agree
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="c79299c9-1dbe-47b7-93f4-cbf4b81904df")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="c2458f81-0f8e-4508-b7a7-5beb7486c487")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="99f653ae-4455-4ca3-a1df-1c6882fe8483")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="55c80265-4981-4ebd-b46f-d8477933dea2")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="caf3dc6a-cac5-4ff6-bdf2-85878db1371a")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="5e14b292-dbfe-4fcd-b0d5-d364ac4562cd")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.yoursclothing.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: button with text: accept all cookies
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="d372b648-b739-4f9d-bc12-6a9dbd12b815")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.hempheros.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="d9d785a1-d143-415e-bf64-7d0c738402db")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="d9d785a1-d143-415e-bf64-7d0c738402db")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.trainingzone.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: button with text: agree
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="5299d479-b94b-40f3-99ce-69f8f428ac63")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.accountsandlegal.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="7a0bd073-93c1-46a4-a7fa-a70059cf923d")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="de6404aa-94c5-4d48-8058-75d3d9388800")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="05e2bdad-fd84-45c2-b505-019b1b5311a5")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="65398f05-48b5-480f-9d20-62140cc161b1")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="31d05d34-7c59-44b1-9719-70f46864da67")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="81c52c52-e120-4166-852d-97116f521c15")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="7a0bd073-93c1-46a4-a7fa-a70059cf923d")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+ERROR:root:An exception was thrown while crawling the site:
+Traceback (most recent call last):
+  File "/home/gijs/bachelor-thesis/crawler.py", line 49, in crawl
+    (reject_found,reject_type,reject_text) = find_banner(driver,selectors,deny_words_list)
+  File "/home/gijs/bachelor-thesis/find_banner.py", line 10, in find_banner
+    if e.text.lower().strip(" ✓›!\n>") in words_list:
+  File "/home/gijs/miniconda3/envs/openwpm/lib/python3.10/site-packages/selenium/webdriver/remote/webelement.py", line 76, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "/home/gijs/miniconda3/envs/openwpm/lib/python3.10/site-packages/selenium/webdriver/remote/webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "/home/gijs/miniconda3/envs/openwpm/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/gijs/miniconda3/envs/openwpm/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: The element with the reference 03c414f2-fd7f-401d-8321-51a5d50d210b is stale; either its node document is not the active document, or it is no longer connected to the DOM
+
+INFO:root:Trying site: https://www.fta.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: button with text: accept all cookies
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: button with text: reject all
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.origympersonaltrainercourses.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: button with text: i agree
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="eea45f4d-dc2d-4fe7-b88a-b8aaee5fc9fd")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="f88579f8-6ea8-43f4-b609-416a910880d1")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="b3e80d6b-5af1-4b47-87f0-773c3167e0c3")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="6175dcc9-3e34-4147-b091-cc0017a11e27")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="436b4b93-5b58-4d79-b64a-a1d9d0d25ce1")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.brittany-ferries.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: div with text: yes, i accept
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="b30be5a8-7094-45aa-97a9-c431d64e9498")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="d91aa819-2a8b-433d-92cd-5ca0021b00f2")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="4c2b3363-d1b8-4db6-b64c-2ca99077745a")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.swiftqueue.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.atthewatercooler.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: a with text: accept
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="f049c773-b5c3-4cfa-b04a-75686dcb125d")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="1e06ca70-f3ea-4ea9-9dc8-63572035cdd7")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="be7f31fe-921c-4b1b-884f-0718706ff4b5")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="db979085-f681-40b4-8b99-57bac962dd14")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.edintattoo.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: button with text: accept and close
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.newassignmenthelp.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.furniturechoice.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: button with text: accept all
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="7eed853a-fb33-4a3b-8ed4-4bd90c86e06e")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="fb22288c-16f9-4bd0-9415-0a72b9968a53")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="1ab237f9-a29b-423c-9289-a7370f4f135b")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="23fd10b1-26c5-4267-b521-27dc36f2b4c9")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="47c4efab-4b16-4966-9e38-5a5d322c3d6c")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="57fe66db-df61-44d2-980f-400d809c12bc")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="e653e791-e182-4676-9493-70ff68f38032")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="498ab8a9-a53f-44be-ba09-9e5c50b5bc13")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="70b0d977-2755-46da-a4d7-844e6cde15fa")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.websitehome.co.uk
+ERROR:root:An exception was thrown while loading the site:
+Traceback (most recent call last):
+  File "/home/gijs/bachelor-thesis/crawler.py", line 15, in crawl
+    driver.get(site)
+  File "/home/gijs/miniconda3/envs/openwpm/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/home/gijs/miniconda3/envs/openwpm/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/gijs/miniconda3/envs/openwpm/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//www.websitehome.co.uk/&c=UTF-8&d=The%20connection%20to%20www.websitehome.co.uk%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.castlecraig.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: button with text: accept
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: button with text: deny
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.scorebuddy.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.historicdockyard.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="2119584f-00e9-43b6-aa08-b5cacc4f4db2")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="0122977c-b5e8-4d03-80f8-1aa3ac071389")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="eeaf47db-8734-4820-ade8-bed12ff5b229")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="2119584f-00e9-43b6-aa08-b5cacc4f4db2")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="0122977c-b5e8-4d03-80f8-1aa3ac071389")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="eeaf47db-8734-4820-ade8-bed12ff5b229")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.the-connaught.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: button with text: accept & close
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="fbb813d7-b321-4fa3-91b2-1a61f829eb66")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="5c7b8b4c-76e1-47fe-817a-c5b2f3c51979")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.samsonite.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: a with text: i accept
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: a with text: reject all
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.gtech.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: div with text: allow all
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="c7219b3f-639f-402d-9704-6e231e7a7e13")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="5fa1b99f-62d4-43a1-add6-a5703e23b852")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.cbd-one.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.coursegate.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: div with text: accept
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="4bfc665c-b614-4173-9329-aa2b551897e9")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="044e1ded-7413-42f0-b4db-7278b08a5687")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="8b8d288e-e483-422a-b3a4-d3c11d1484d4")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="40f66690-dd07-44f4-b6ec-57e4801541b1")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="1719f834-d1f0-4985-a3db-1b4318d22912")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="4bb34ebf-610c-4e63-b60c-988b478533b1")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.hevercastle.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: a with text: close
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="de6827ac-00f7-4acb-9598-ce64fdccd517")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.eatspicebox.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="432e944c-2450-4bca-9055-b85e74278eb4")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="805e91d5-00c8-46b1-a4e8-82be8e95146a")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="432e944c-2450-4bca-9055-b85e74278eb4")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="805e91d5-00c8-46b1-a4e8-82be8e95146a")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.chilternrailways.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="74b0e9ca-5cf1-420c-91ee-6226d152f4ef")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="b2474ce7-7c4c-4c32-b469-beee54e85245")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="1439b831-8d04-4fb1-8e6e-8a0d52066645")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="74b0e9ca-5cf1-420c-91ee-6226d152f4ef")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="b2474ce7-7c4c-4c32-b469-beee54e85245")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="1439b831-8d04-4fb1-8e6e-8a0d52066645")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.1stdirectory.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.cxm.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.rebellion.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: div with text: accept all cookies
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="b0fbe1b5-6b63-43c0-8aeb-4145953e48f5")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.buildingmaterials.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: div with text: allow cookies
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="2b132671-7df2-45b5-9116-8f82eb0a3563")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="822242a9-31c9-4b49-a707-4920324bb4bb")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="13dc6f52-9f00-4987-be6b-2a00554b751a")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="1b6c39a1-2488-4e3a-a253-0c3b07e90c10")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.getyourguide.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="4b3ac972-d6b4-40e3-8ff4-132cd54b5750")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="fa79eb29-0fa1-48fc-8f27-8ff715c6dd81")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: div with text: continue
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="4b3ac972-d6b4-40e3-8ff4-132cd54b5750")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="fa79eb29-0fa1-48fc-8f27-8ff715c6dd81")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.luxurylondon.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="4b05b60b-8d0f-45db-b723-83783671d166")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="17c8688f-e26f-42c2-a06a-25336095d6d4")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="c549a57d-6036-497a-a903-38114dc8c9d3")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="99aacb52-d291-45d7-bf5b-45aec7bbd0a6")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="c74dea5a-5127-4870-ae9c-5178ba95d7ac")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="233ccf13-8a00-4085-add8-b80b80a1c507")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="598f8083-f308-412a-885a-f2ca4921d38d")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="bdd00e15-bdfa-410a-a171-4e4b34301e3c")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="edbbcd3a-b1a9-4a6b-b89d-2bf1f0d65524")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="382b32a1-5e3c-47d7-9972-69819253c958")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="de656cb4-e5ff-4d79-8702-42bfeb865757")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="e2f83705-c8cb-4ced-9ab5-51dfb0f4cddf")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="b09e66a2-013d-4bbb-bb9c-4eaca9f459c5")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="b45f9255-069b-4cc5-9dc9-aebff176aee7")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="350bb0ef-448e-46f7-8f80-2c127eecb47d")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="4b05b60b-8d0f-45db-b723-83783671d166")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="17c8688f-e26f-42c2-a06a-25336095d6d4")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="c549a57d-6036-497a-a903-38114dc8c9d3")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="99aacb52-d291-45d7-bf5b-45aec7bbd0a6")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="c74dea5a-5127-4870-ae9c-5178ba95d7ac")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="233ccf13-8a00-4085-add8-b80b80a1c507")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="598f8083-f308-412a-885a-f2ca4921d38d")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="bdd00e15-bdfa-410a-a171-4e4b34301e3c")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="edbbcd3a-b1a9-4a6b-b89d-2bf1f0d65524")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="382b32a1-5e3c-47d7-9972-69819253c958")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="de656cb4-e5ff-4d79-8702-42bfeb865757")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="e2f83705-c8cb-4ced-9ab5-51dfb0f4cddf")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="b09e66a2-013d-4bbb-bb9c-4eaca9f459c5")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="b45f9255-069b-4cc5-9dc9-aebff176aee7")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="350bb0ef-448e-46f7-8f80-2c127eecb47d")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.iwcp.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="69576ed3-c8db-486e-88de-110d96bad6f1")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="fb4d390d-8cd5-4da8-af54-5948af09c6e3")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="a84a546d-cdec-457c-91da-5fefda013efd")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="b5544f7b-5ea5-4f8b-8955-cf52ea97f434")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="32707601-20e7-46fc-b563-044fdb8125a9")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="7633d36d-c803-4929-987d-d72da4f778d0")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="81b19a34-5258-49f3-929e-bf5aea00396e")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: button with text: i accept
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="69576ed3-c8db-486e-88de-110d96bad6f1")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="fb4d390d-8cd5-4da8-af54-5948af09c6e3")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="a84a546d-cdec-457c-91da-5fefda013efd")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="b5544f7b-5ea5-4f8b-8955-cf52ea97f434")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="32707601-20e7-46fc-b563-044fdb8125a9")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="7633d36d-c803-4929-987d-d72da4f778d0")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="81b19a34-5258-49f3-929e-bf5aea00396e")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.tracesmart.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: div with text: accept all cookies
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="caa5ecd5-0a77-4dce-b6b7-b8beff428ca5")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="3b4c1081-4825-4452-aa45-9c3e70f6ef96")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.spacecentre.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="60140e25-d1f5-46d0-802b-079d3e391ddc")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="60140e25-d1f5-46d0-802b-079d3e391ddc")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.sun-homes.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="fe795fe7-c2e0-403e-9a12-5a1b2af14a23")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="35d3d0ac-9309-4f37-801e-7ae49d4aa9fa")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="a1a3f042-5a62-4856-a12f-271600482bd0")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="68a72406-7113-4308-b783-22f77c33b9df")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="1ab66080-37f6-438e-9399-0742a5fac2e2")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="fe795fe7-c2e0-403e-9a12-5a1b2af14a23")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="35d3d0ac-9309-4f37-801e-7ae49d4aa9fa")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="a1a3f042-5a62-4856-a12f-271600482bd0")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="68a72406-7113-4308-b783-22f77c33b9df")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="1ab66080-37f6-438e-9399-0742a5fac2e2")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.riverford.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.permagard.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: p with text: i agree
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.birlinn.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.orientalmart.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: a with text: i accept
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: a with text: disable cookies
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.akg-images.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: button with text: ok
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.mixjuice.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:No consent element could be found
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.schoolcloud.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: div with text: got it
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.cityplumbing.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: div with text: accept all cookies
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="b4efb3b6-2b22-4dfa-a343-d44c3097ca95")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="ae0c9e14-c289-4862-910f-421ba50d0191")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="41e17574-2ca6-46ef-97c4-21a8492e5cea")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="3ca6ef5e-8f48-4ed2-a1cb-aaa26a643c2e")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="ccdb9317-8564-43ba-9d3b-1d1d75967aaf")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="3647c7cf-6bff-434e-a9ba-bb5f651250af")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.coventry2021.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: div with text: accept cookies
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.worksopguardian.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial consent element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="1399c1a2-78a7-46dd-8e6c-2c41331f6524")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="9c94fcb9-f9a6-45b8-ba10-add74271d4fa")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: button with text: i accept
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="1399c1a2-78a7-46dd-8e6c-2c41331f6524")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="9c94fcb9-f9a6-45b8-ba10-add74271d4fa")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Trying site: https://www.6dg.co.uk
+INFO:root:Sleeping for 3 seconds
+INFO:root:Finding consent element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Element found: a with text: accept all
+INFO:root:Finding reject element...
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No initial reject element found, now looking in iframes...
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="4ee76791-3c41-4eb5-9cd8-91679a81a1ab")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:Switched to iframe: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d26d5f58-05f0-4ad2-9dd8-d60341ff0a86", element="58ac9410-57e0-4b19-9e54-4ac1e73cdfa3")>
+INFO:root:Selecting elements to search
+INFO:root:Searching selected elements
+INFO:root:No reject element could be found
+INFO:root:Sleeping for one second
+INFO:root:Making screenshot
+INFO:root:Finished crawl
+INFO:root:Shutting down driver...
+INFO:root:Driver shut down
+INFO:root:Sending data to file...
+INFO:root:Data sent to file
